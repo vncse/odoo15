@@ -160,7 +160,7 @@ msgstr "? Điều này có thể dẫn đến sự mâu thuẫn trong tồn kho 
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__activity_ids
@@ -170,7 +170,7 @@ msgstr "Hoạt động"
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr "Trang trí Ngoại lệ hoạt động"
+msgstr "Trang trí ngoại lệ hoạt động"
 
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__activity_state
@@ -282,7 +282,7 @@ msgid ""
 "Conversion between Units of Measure can only occur if they belong to the "
 "same category. The conversion will be made based on the ratios."
 msgstr ""
-"Việc chuyển đổi qua lại giữa các Đơn vị tính chỉ có thể xảy ra nếu chúng "
+"Việc chuyển đổi qua lại giữa các đơn vị tính chỉ có thể xảy ra nếu chúng "
 "thuộc cùng một nhóm. Việc chuyển đổi sẽ dựa trên tỉ lệ."
 
 #. module: repair
@@ -353,7 +353,7 @@ msgstr "Khách hàng"
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__default_address_id
 msgid "Default Address"
-msgstr "Địa chỉ Mặc định"
+msgstr "Địa chỉ mặc định"
 
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__address_id
@@ -740,7 +740,7 @@ msgstr "Thông thường"
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Số lượng Hành động"
+msgstr "Số lượng hành động"
 
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_repair_order__message_has_error_counter

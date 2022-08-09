@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* crm
-# 
+#
 # Translators:
 # Dung Nguyen Thi <dungnt@trobz.com>, 2021
 # Dao Nguyen <trucdao.uel@gmail.com>, 2021
@@ -11,7 +11,7 @@
 # Thang Duong Bao <nothingctrl@gmail.com>, 2021
 # Duy BQ <duybq86@gmail.com>, 2021
 # Vo Thanh Thuy, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0\n"
@@ -464,7 +464,7 @@ msgstr "Chấp nhận email Từ"
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_lead__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_activity_report__active
@@ -897,7 +897,7 @@ msgstr "Ngày hoàn tất"
 #. module: crm
 #: model:ir.model,name:crm.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: crm
 #: model:ir.ui.menu,name:crm.crm_menu_config
@@ -1784,12 +1784,12 @@ msgstr "Giai đoạn Kanban"
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_digest_digest__kpi_crm_lead_created_value
 msgid "Kpi Crm Lead Created Value"
-msgstr "Kpi Crm Giá trị khách hàng tiềm năng đã tạo"
+msgstr "Kpi Crm giá trị khách hàng tiềm năng đã tạo"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_digest_digest__kpi_crm_opportunities_won_value
 msgid "Kpi Crm Opportunities Won Value"
-msgstr "Kpi Crm Giá trị cơ hội thành công"
+msgstr "Kpi Crm giá trị cơ hội thành công"
 
 #. module: crm
 #: model:crm.lead.scoring.frequency.field,name:crm.frequency_field_lang_id
@@ -1821,7 +1821,7 @@ msgstr "Sửa lần cuối"
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_lead__date_last_stage_update
 msgid "Last Stage Update"
-msgstr "Cập nhật Giai đoạn Lần cuối"
+msgstr "Cập nhật giai đoạn Lần cuối"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_lead2opportunity_partner__write_uid
@@ -2096,7 +2096,7 @@ msgid ""
 " find a partner by its Name, TIN, Email or Internal Reference."
 msgstr ""
 "Đối tác liên quan (tuỳ chọn). Thường được tạo khi chuyển đổi tiềm năng. Bạn "
-"có thể tìm đối tác bằng Tên, Mã số thuế, Email hoặc Tham chiếu Nội bộ."
+"có thể tìm đối tác bằng Tên, Mã số thuế, Email hoặc Tham chiếu nội bộ."
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__email_cc
@@ -2540,7 +2540,7 @@ msgstr "Bây giờ, <b>thêm Cơ hội của bạn</b> vào quy trình của b�
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_lead__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Số lượng Hành động"
+msgstr "Số lượng hành động"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_lead__message_has_error_counter
@@ -2648,7 +2648,7 @@ msgid ""
 msgstr ""
 "Bản phân tích Cơ hội cho phép bạn truy cập nhanh đến các cơ hội với thông "
 "tin như: doanh thu mong đợi, chi phí dự kiến, số lần tương tác,... báo cáo "
-"này chủ yếu được sử dụng bởi Người quản lý bán hàng để thực hiện việc quản "
+"này chủ yếu được sử dụng bởi người quản lý bán hàng để thực hiện việc quản "
 "lý định kỳ với các đội ngũ bán hàng của một chu trình bán hàng."
 
 #. module: crm
@@ -3191,7 +3191,7 @@ msgstr "Hiển thị Trình đơn Tiềm năng"
 #. module: crm
 #: model:res.groups,name:crm.group_use_recurring_revenues
 msgid "Show Recurring Revenues Menu"
-msgstr "Hiển thị Menu Doanh thu Định kỳ"
+msgstr "Hiển thị Menu doanh thu định kỳ"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.view_crm_case_leads_filter
@@ -3287,7 +3287,7 @@ msgid ""
 "Stages allow salespersons to easily track how a specific opportunity\n"
 "            is positioned in the sales cycle."
 msgstr ""
-"Các Giai đoạn cho phép người bán hàng dễ dàng theo dõi vị trí và định vị một"
+"Các giai đoạn cho phép người bán hàng dễ dàng theo dõi vị trí và định vị một"
 " cơ hội            đang ở đâu trong chu kỳ bán hàng"
 
 #. module: crm
@@ -3820,7 +3820,7 @@ msgstr "Rất Cao"
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.res_config_settings_view_form
 msgid "Visits to Leads"
-msgstr "Biến Truy cập thành Tiềm năng"
+msgstr "Biến truy cập thành Tiềm năng"
 
 #. module: crm
 #: model:crm.lost.reason,name:crm.lost_reason_2

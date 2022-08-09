@@ -623,7 +623,7 @@ msgid ""
 "Settings and select the Website Live Chat Channel you want to add to your "
 "website."
 msgstr ""
-"Đối với website sử dụng Odoo CMS, hãy đi đến Website &gt; Cấu hình &gt; "
+"Đối với website sử dụng Odoo CMS, hãy đi đến Website &gt; cấu hình &gt; "
 "Thiết lập và chọn Kênh chat trực tuyến ở website mà bạn muốn thêm vào "
 "website của bạn "
 
@@ -764,7 +764,7 @@ msgstr "Kpi giá trị đánh giá Livechat"
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_digest_digest__kpi_livechat_response_value
 msgid "Kpi Livechat Response Value"
-msgstr "Kpi Giá trị phản hồi chat trực tuyến"
+msgstr "Kpi giá trị phản hồi chat trực tuyến"
 
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_report_channel_view_search
@@ -858,7 +858,7 @@ msgstr "Hội thoại Livechat"
 #. module: im_livechat
 #: model:ir.model.constraint,message:im_livechat.constraint_mail_channel_livechat_operator_id
 msgid "Livechat Operator ID is required for a channel of type livechat."
-msgstr "Kênh có kiểu Chat trực tuyến bắt buộc phải có Người vận hành."
+msgstr "Kênh có kiểu Chat trực tuyến bắt buộc phải có người vận hành."
 
 #. module: im_livechat
 #: model:ir.model,name:im_livechat.model_im_livechat_report_channel
@@ -880,7 +880,7 @@ msgstr ""
 #. module: im_livechat
 #: model:ir.model,name:im_livechat.model_im_livechat_report_operator
 msgid "Livechat Support Operator Report"
-msgstr "Báo cáo Người vận hành Hỗ trợ Chat trực tuyến"
+msgstr "Báo cáo người vận hành Hỗ trợ Chat trực tuyến"
 
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_report_channel_view_graph
@@ -1081,7 +1081,7 @@ msgstr "Người vận hành"
 #: model:ir.actions.act_window,name:im_livechat.im_livechat_report_operator_action
 #: model:ir.ui.menu,name:im_livechat.menu_reporting_livechat_operator
 msgid "Operator Analysis"
-msgstr "Phân tích Người vận hành"
+msgstr "Phân tích người vận hành"
 
 #. module: im_livechat
 #: model:ir.model.fields,help:im_livechat.field_mail_channel__livechat_operator_id

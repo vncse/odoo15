@@ -1,14 +1,14 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* fetchmail
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # fanha99 <fanha99@hotmail.com>, 2021
 # Nancy Momoland <thanhnguyen.icsc@gmail.com>, 2021
 # Duy BQ <duybq86@gmail.com>, 2021
 # Vo Thanh Thuy, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.4\n"
@@ -186,7 +186,7 @@ msgstr "Giữ lại Đính kèm"
 #. module: fetchmail
 #: model:ir.model.fields,field_description:fetchmail.field_fetchmail_server__original
 msgid "Keep Original"
-msgstr "Giữ lại Bản gốc"
+msgstr "Giữ lại bản gốc"
 
 #. module: fetchmail
 #: model:ir.model.fields,field_description:fetchmail.field_fetchmail_server__date

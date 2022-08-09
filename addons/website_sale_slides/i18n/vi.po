@@ -193,7 +193,7 @@ msgstr "Doanh thu Học trực tuyến"
 #. module: website_sale_slides
 #: model_terms:ir.ui.view,arch_db:website_sale_slides.sale_report_view_graph_slides
 msgid "eLearning Sales Analysis"
-msgstr "Phân tích Doanh thu Học trực tuyến"
+msgstr "Phân tích doanh thu Học trực tuyến"
 
 #. module: website_sale_slides
 #: model_terms:ir.ui.view,arch_db:website_sale_slides.course_buy_course_link

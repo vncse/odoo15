@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* hr_holidays
-# 
+#
 # Translators:
 # Dung Nguyen Thi <dungnt@trobz.com>, 2021
 # Dao Nguyen <trucdao.uel@gmail.com>, 2021
@@ -14,7 +14,7 @@
 # Vo Thanh Thuy, 2022
 # Duy BQ <duybq86@gmail.com>, 2022
 # Thanh Nguyễn Văn, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0\n"
@@ -1269,12 +1269,12 @@ msgstr "Theo Tag Nhân viên"
 #. module: hr_holidays
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_type__leave_validation_type__manager
 msgid "By Employee's Approver"
-msgstr "Bởi Người phê duyệt của nhân viên"
+msgstr "Bởi người phê duyệt của nhân viên"
 
 #. module: hr_holidays
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_type__leave_validation_type__both
 msgid "By Employee's Approver and Time Off Officer"
-msgstr "Bởi Người phê duyệt của nhân viên và cán bộ duyệt nghỉ"
+msgstr "Bởi người phê duyệt của nhân viên và cán bộ duyệt nghỉ"
 
 #. module: hr_holidays
 #: model:ir.model.fields,help:hr_holidays.field_hr_leave__holiday_type
@@ -1282,8 +1282,8 @@ msgid ""
 "By Employee: Allocation/Request for individual Employee, By Employee Tag: "
 "Allocation/Request for group of employees in category"
 msgstr ""
-"Theo nhân viên: cấp phát / Yêu cầu cho một Nhân viên, theo Nhóm nhân viên "
-"(tags): cấp phát / Yêu cầu các Nhân viên có cùng Nhóm (tags)"
+"Theo nhân viên: cấp phát / yêu cầu cho một Nhân viên, theo Nhóm nhân viên "
+"(tags): cấp phát / yêu cầu các Nhân viên có cùng Nhóm (tags)"
 
 #. module: hr_holidays
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_type__leave_validation_type__hr
@@ -2720,7 +2720,7 @@ msgstr "Trực tuyến"
 #, python-format
 msgid "Only a Time Off Manager can approve/refuse its own requests."
 msgstr ""
-"Chỉ Người quản lý Nghỉ mới có thể phê duyệt / từ chối các yêu cầu của chính "
+"Chỉ người quản lý Nghỉ mới có thể phê duyệt / từ chối các yêu cầu của chính "
 "mình."
 
 #. module: hr_holidays
@@ -2728,20 +2728,20 @@ msgstr ""
 #, python-format
 msgid "Only a Time Off Manager can reset a refused leave."
 msgstr ""
-"Chỉ Người quản lý Nghỉ mới có thể đặt lại thời gian nghỉ việc bị từ chối."
+"Chỉ người quản lý Nghỉ mới có thể đặt lại thời gian nghỉ việc bị từ chối."
 
 #. module: hr_holidays
 #: code:addons/hr_holidays/models/hr_leave.py:0
 #, python-format
 msgid "Only a Time Off Manager can reset a started leave."
-msgstr "Chỉ Người quản lý nghỉ mới có thể đặt nghỉ mà đã bắt đầu rồi."
+msgstr "Chỉ người quản lý nghỉ mới có thể đặt nghỉ mà đã bắt đầu rồi."
 
 #. module: hr_holidays
 #: code:addons/hr_holidays/models/hr_leave.py:0
 #, python-format
 msgid "Only a Time Off Manager can reset other people leaves."
 msgstr ""
-"Chỉ Người quản lý nghỉ mới có thể đặt lại thời gian nghỉ của người khác"
+"Chỉ người quản lý nghỉ mới có thể đặt lại thời gian nghỉ của người khác"
 
 #. module: hr_holidays
 #: code:addons/hr_holidays/models/hr_leave_allocation.py:0
@@ -2750,7 +2750,7 @@ msgid ""
 "Only a Time off Approver can apply the second approval on allocation "
 "requests."
 msgstr ""
-"Chỉ Người phê duyệt nghỉ mới có thể phê duyệt lần hai đối với các yêu cầu "
+"Chỉ người phê duyệt nghỉ mới có thể phê duyệt lần hai đối với các yêu cầu "
 "cấp phát."
 
 #. module: hr_holidays
@@ -2972,7 +2972,7 @@ msgstr "Xin Nghỉ"
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave_report__leave_type
 msgid "Request Type"
-msgstr "Loại Yêu cầu"
+msgstr "Loại yêu cầu"
 
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave__duration_display
@@ -3086,7 +3086,7 @@ msgid ""
 "If empty, the approval is done by an Administrator or Approver (determined in settings/users)."
 msgstr ""
 "Chọn người dùng chịu trách nhiệm phê duyệt \"Nghỉ\" của nhân viên này.\n"
-"Nếu trống, việc phê duyệt được thực hiện bởi Quản trị viên hoặc Người phê duyệt (được xác định trong cài đặt / người dùng)."
+"Nếu trống, việc phê duyệt được thực hiện bởi Quản trị viên hoặc người phê duyệt (được xác định trong cài đặt / người dùng)."
 
 #. module: hr_holidays
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_accrual_level__second_month__sep
@@ -4085,7 +4085,7 @@ msgstr "Bạn phải là người quản lý của %s để chấp thuận việ
 msgid ""
 "You must be either %s's manager or Time off Manager to approve this leave"
 msgstr ""
-"Bạn phải là người quản lý của %s hoặc Người quản lý nghỉ để chấp thuận việc "
+"Bạn phải là người quản lý của %s hoặc người quản lý nghỉ để chấp thuận việc "
 "nghỉ phép này"
 
 #. module: hr_holidays

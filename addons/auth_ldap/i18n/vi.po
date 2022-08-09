@@ -1,12 +1,12 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* auth_ldap
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # Trinh Tran Thi Phuong <trinhttp@trobz.com>, 2021
 # Trần Hà <tranthuha13590@gmail.com>, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.4\n"
@@ -65,7 +65,7 @@ msgstr "Cấu hình LDAP Công ty"
 #. module: auth_ldap
 #: model:ir.model,name:auth_ldap.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: auth_ldap
 #: model:ir.model.fields,field_description:auth_ldap.field_res_company_ldap__create_user
@@ -234,7 +234,7 @@ msgstr "Dùng TLS"
 #. module: auth_ldap
 #: model_terms:ir.ui.view,arch_db:auth_ldap.view_ldap_installer_form
 msgid "User Information"
-msgstr "Thông tin Người dùng"
+msgstr "Thông tin người dùng"
 
 #. module: auth_ldap
 #: model:ir.model.fields,help:auth_ldap.field_res_company_ldap__user

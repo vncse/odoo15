@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* barcodes
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # fanha99 <fanha99@hotmail.com>, 2021
@@ -9,7 +9,7 @@
 # Duy BQ <duybq86@gmail.com>, 2021
 # Dung Nguyen Thi <dungnt@trobz.com>, 2021
 # Trần Hà <tranthuha13590@gmail.com>, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.4\n"
@@ -95,24 +95,24 @@ msgstr "Barcode sự kiện Mixin"
 #: model:ir.model.fields,field_description:barcodes.field_barcode_rule__barcode_nomenclature_id
 #: model_terms:ir.ui.view,arch_db:barcodes.view_barcode_nomenclature_form
 msgid "Barcode Nomenclature"
-msgstr "Phép đặt tên Mã vạch"
+msgstr "Phép đặt tên mã vạch"
 
 #. module: barcodes
 #: model:ir.actions.act_window,name:barcodes.action_barcode_nomenclature_form
 #: model_terms:ir.ui.view,arch_db:barcodes.view_barcode_nomenclature_tree
 msgid "Barcode Nomenclatures"
-msgstr "Phép đặt tên Mã vạch"
+msgstr "Phép đặt tên mã vạch"
 
 #. module: barcodes
 #: model:ir.model.fields,field_description:barcodes.field_barcode_rule__pattern
 msgid "Barcode Pattern"
-msgstr "Mẫu Mã vạch"
+msgstr "Mẫu mã vạch"
 
 #. module: barcodes
 #: model:ir.model,name:barcodes.model_barcode_rule
 #: model_terms:ir.ui.view,arch_db:barcodes.view_barcode_rule_form
 msgid "Barcode Rule"
-msgstr "Quy tắc Mã vạch"
+msgstr "Quy tắc mã vạch"
 
 #. module: barcodes
 #: model:ir.model.fields,field_description:barcodes.field_barcodes_barcode_events_mixin___barcode_scanned
@@ -213,7 +213,7 @@ msgstr "Không bao giờ"
 #. module: barcodes
 #: model:ir.model.fields,field_description:barcodes.field_res_company__nomenclature_id
 msgid "Nomenclature"
-msgstr "Phép đặt tên Mã vạch"
+msgstr "Phép đặt tên mã vạch"
 
 #. module: barcodes
 #. openerp-web

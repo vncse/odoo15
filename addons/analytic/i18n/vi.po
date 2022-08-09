@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* analytic
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # fanha99 <fanha99@hotmail.com>, 2021
@@ -10,7 +10,7 @@
 # Trinh Tran Thi Phuong <trinhttp@trobz.com>, 2021
 # Trần Hà <tranthuha13590@gmail.com>, 2021
 # Vo Thanh Thuy, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.5\n"
@@ -33,7 +33,7 @@ msgstr "<span class=\"o_stat_text\">Biên lợi nhuận gộp</span>"
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__active
@@ -221,7 +221,7 @@ msgstr "Tên đầy đủ"
 #. module: analytic
 #: model:ir.model,name:analytic.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: analytic
 #: model:ir.model.fields,help:analytic.field_account_analytic_line__product_uom_category_id
@@ -229,7 +229,7 @@ msgid ""
 "Conversion between Units of Measure can only occur if they belong to the "
 "same category. The conversion will be made based on the ratios."
 msgstr ""
-"Việc chuyển đổi qua lại giữa các Đơn vị tính chỉ có thể xảy ra nếu chúng "
+"Việc chuyển đổi qua lại giữa các đơn vị tính chỉ có thể xảy ra nếu chúng "
 "thuộc cùng một nhóm. Việc chuyển đổi sẽ dựa trên tỉ lệ."
 
 #. module: analytic
@@ -264,7 +264,7 @@ msgstr "Thời điểm tạo"
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__credit
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_account_list
 msgid "Credit"
-msgstr "Có"
+msgstr "Tín dụng"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__currency_id
@@ -317,7 +317,7 @@ msgstr "Người theo dõi (Các đối tác)"
 #. module: analytic
 #: model:ir.actions.act_window,name:analytic.account_analytic_line_action
 msgid "Gross Margin"
-msgstr "Biên Lợi nhuận gộp"
+msgstr "Biên lợi nhuận gộp"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__group_id
@@ -444,7 +444,7 @@ msgstr "Chưa có hoạt động nào ở tài khoản này"
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Số lượng Hành động"
+msgstr "Số lượng hành động"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__message_has_error_counter

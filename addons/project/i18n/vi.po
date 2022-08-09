@@ -590,7 +590,7 @@ msgstr "<span class=\"o_stat_text\">Đang chặn</span>"
 #. module: project
 #: model_terms:ir.ui.view,arch_db:project.edit_project
 msgid "<span class=\"o_stat_text\">Gross Margin</span>"
-msgstr "<span class=\"o_stat_text\">Biên Lợi nhuận gộp</span>"
+msgstr "<span class=\"o_stat_text\">Biên lợi nhuận gộp</span>"
 
 #. module: project
 #: model_terms:ir.ui.view,arch_db:project.view_task_form2
@@ -4260,7 +4260,7 @@ msgstr "Tìm kiếm trong mã tham chiếu"
 #: code:addons/project/controllers/portal.py:0
 #, python-format
 msgid "Search in Stages"
-msgstr "Tìm trong Giai đoạn"
+msgstr "Tìm trong giai đoạn"
 
 #. module: project
 #: code:addons/project/controllers/portal.py:0

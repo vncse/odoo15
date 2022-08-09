@@ -1010,7 +1010,7 @@ msgstr "Theo chức vụ"
 #. module: hr_recruitment
 #: model:ir.filters,name:hr_recruitment.hr_applicant_filter_recruiter
 msgid "By Recruiter"
-msgstr "Theo Người tuyển dụng"
+msgstr "Theo người tuyển dụng"
 
 #. module: hr_recruitment
 #: model_terms:digest.tip,tip_description:hr_recruitment.digest_tip_hr_recruitment_0
@@ -1043,7 +1043,7 @@ msgstr "Hủy"
 #. module: hr_recruitment
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.crm_case_graph_view_job
 msgid "Cases By Stage and Estimates"
-msgstr "Tình huống theo Giao đoạn & Dự kiến"
+msgstr "Tình huống theo giai đoạn & Dự kiến"
 
 #. module: hr_recruitment
 #: model:ir.model,name:hr_recruitment.model_hr_applicant_category
@@ -2514,7 +2514,7 @@ msgstr ""
 #: code:addons/hr_recruitment/static/src/js/tours/hr_recruitment.js:0
 #, python-format
 msgid "Send your email. Followers will get a copy of the communication."
-msgstr "Gửi email. Người theo dõi sẽ nhận được bản sao của nội dung trao đổi."
+msgstr "Gửi email. người theo dõi sẽ nhận được bản sao của nội dung trao đổi."
 
 #. module: hr_recruitment
 #: model:ir.model.fields,field_description:hr_recruitment.field_hr_recruitment_degree__sequence

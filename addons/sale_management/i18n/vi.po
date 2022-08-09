@@ -109,7 +109,7 @@ msgstr "Công ty"
 #. module: sale_management
 #: model:ir.model,name:sale_management.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: sale_management
 #: model_terms:ir.ui.view,arch_db:sale_management.sale_order_template_view_form
@@ -129,7 +129,7 @@ msgid ""
 "Conversion between Units of Measure can only occur if they belong to the "
 "same category. The conversion will be made based on the ratios."
 msgstr ""
-"Việc chuyển đổi qua lại giữa các Đơn vị tính chỉ có thể xảy ra nếu chúng "
+"Việc chuyển đổi qua lại giữa các đơn vị tính chỉ có thể xảy ra nếu chúng "
 "thuộc cùng một nhóm. Việc chuyển đổi sẽ dựa trên tỉ lệ."
 
 #. module: sale_management
@@ -166,7 +166,7 @@ msgstr "Mẫu đơn hàng mặc định"
 #. module: sale_management
 #: model:ir.model.fields,field_description:sale_management.field_res_config_settings__company_so_template_id
 msgid "Default Template"
-msgstr "Mẫu Mặc định"
+msgstr "Mẫu mặc định"
 
 #. module: sale_management
 #: model:ir.model.fields,field_description:sale_management.field_sale_order_option__name
@@ -508,7 +508,7 @@ msgid ""
 msgstr ""
 "Bán sản phẩm có màu sắc, kích thước khác nhau? Hãy thử lưới sản phẩm và hiển"
 " thị đơn hàng có nhiều số lượng cho mỗi biến thể. Tính năng này cũng tồn tại"
-" ở ứng dụng Mua hàng. "
+" ở ứng dụng mua hàng. "
 
 #. module: sale_management
 #: model:ir.model.fields,field_description:sale_management.field_sale_order_option__sequence

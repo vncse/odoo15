@@ -27,17 +27,17 @@ msgstr ""
 #. module: product_margin
 #: model:ir.model.fields,field_description:product_margin.field_product_product__purchase_num_invoiced
 msgid "# Invoiced in Purchase"
-msgstr "SL đã lập hoá đơn Mua"
+msgstr "SL đã lập hoá đơn mua"
 
 #. module: product_margin
 #: model:ir.model.fields,field_description:product_margin.field_product_product__sale_num_invoiced
 msgid "# Invoiced in Sale"
-msgstr "SL đã xuất hoá đơn Mua"
+msgstr "SL đã xuất hoá đơn mua"
 
 #. module: product_margin
 #: model_terms:ir.ui.view,arch_db:product_margin.view_product_margin_tree
 msgid "# Purchased"
-msgstr "SL Mua"
+msgstr "SL mua"
 
 #. module: product_margin
 #: model_terms:ir.ui.view,arch_db:product_margin.view_product_margin_form
@@ -123,7 +123,7 @@ msgstr "Bán dự kiến - Chi phí thông thường"
 #. module: product_margin
 #: model:ir.model.fields,help:product_margin.field_product_product__sales_gap
 msgid "Expected Sale - Turn Over"
-msgstr "Dự kiến bán - Doanh thu"
+msgstr "Dự kiến bán - doanh thu"
 
 #. module: product_margin
 #: model:ir.model.fields,help:product_margin.field_product_product__expected_margin_rate
@@ -179,7 +179,7 @@ msgstr "Tính biên lợi nhuận đến"
 #. module: product_margin
 #: model_terms:ir.ui.view,arch_db:product_margin.view_product_margin_form
 msgid "Margins"
-msgstr "Biên Lợi nhuận"
+msgstr "Biên lợi nhuận"
 
 #. module: product_margin
 #: model:ir.model.fields,field_description:product_margin.field_product_product__normal_cost
@@ -281,7 +281,7 @@ msgstr "Tổng số nhân của giá hoá đơn và số lượng hoá đơn c�
 msgid ""
 "Sum of Multiplication of Sale Catalog price and quantity of Customer "
 "Invoices"
-msgstr "Tổng của tích giá catalô và số lượng trong Hoá đơn Khách hàng"
+msgstr "Tổng của tích giá catalô và số lượng trong Hoá đơn khách hàng"
 
 #. module: product_margin
 #: model:ir.model.fields,help:product_margin.field_product_product__sale_num_invoiced

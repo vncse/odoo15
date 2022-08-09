@@ -56,7 +56,7 @@ msgstr "Công ty"
 #. module: iap
 #: model:ir.model,name:iap.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__create_uid

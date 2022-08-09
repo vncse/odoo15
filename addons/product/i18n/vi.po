@@ -224,7 +224,7 @@ msgid ""
 "Customer Invoice/Credit Note"
 msgstr ""
 "Mô tả sản phẩm mà bạn muốn giao tiếp với khách hàng của mình. Mô tả này sẽ "
-"được sao chép vào mọi Đơn đặt hàng, Đơn hàng Giao hàng và Hoá đơn Khách hàng"
+"được sao chép vào mọi đơn đặt hàng, Đơn hàng Giao hàng và Hoá đơn khách hàng"
 " / Ghi chú Tín dụng"
 
 #. module: product
@@ -258,7 +258,7 @@ msgstr "Màn cách âm"
 #: model:ir.model.fields,field_description:product.field_product_product__message_needaction
 #: model:ir.model.fields,field_description:product.field_product_template__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_pricelist__active
@@ -457,7 +457,7 @@ msgid ""
 "a transfer in the Barcode app to move all the contained units"
 msgstr ""
 "Mã vạch được sử dụng để nhận dạng bao bì. Quét mã vạch đóng gói này từ phiếu"
-" chuyển kho trong phần Mã vạch để chuyển tất cả các sản phẩm có trong nó"
+" chuyển kho trong phần mã vạch để chuyển tất cả các sản phẩm có trong nó"
 
 #. module: product
 #: model:ir.model.fields,help:product.field_product_pricelist_item__base
@@ -510,7 +510,7 @@ msgstr "Ảnh biến thể 1024 có thể thu phóng"
 #: model:ir.model.fields,field_description:product.field_product_template__purchase_ok
 #: model_terms:ir.ui.view,arch_db:product.product_template_search_view
 msgid "Can be Purchased"
-msgstr "Có thể Mua được"
+msgstr "Có thể mua được"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__sale_ok
@@ -626,7 +626,7 @@ msgstr "Bàn phòng hội nghị"
 #. module: product
 #: model:ir.model,name:product.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_pricelist_view
@@ -1342,7 +1342,7 @@ msgstr "Mẫu Import cho sản phẩm"
 #: code:addons/product/models/product.py:0
 #, python-format
 msgid "Import Template for Vendor Pricelists"
-msgstr "Mẫu Import cho Bảng giá Nhà cung cấp"
+msgstr "Mẫu Import cho bảng giá nhà cung cấp"
 
 #. module: product
 #: model:ir.model.fields,help:product.field_product_product__standard_price
@@ -1508,7 +1508,7 @@ msgid ""
 "receipt of the products in your warehouse. Used by the scheduler for "
 "automatic computation of the purchase order planning."
 msgstr ""
-"Thời gian được tính theo ngày mà Nhà cung cấp hứa sẽ giao hàng từ lúc xác "
+"Thời gian được tính theo ngày mà nhà cung cấp hứa sẽ giao hàng từ lúc xác "
 "nhận đơn hàng đến lúc nhận hàng. Được sử dụng bởi bộ đặt lịch cho việc tính "
 "toán tự động của đơn hàng."
 
@@ -1630,7 +1630,7 @@ msgid ""
 "Multiple prices: Pricelists with fixed price rules by product,\n"
 "Advanced rules: enables advanced price rules for pricelists."
 msgstr ""
-"Nhiều giá bán: Bảng giá với nhiều mức giá cố định theo sản phẩm,\n"
+"Nhiều giá bán: bảng giá với nhiều mức giá cố định theo sản phẩm,\n"
 "Theo quy tắc giá: cho phép cài đặt quy tắc giá cho bảng giá."
 
 #. module: product
@@ -1703,7 +1703,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:product.field_product_product__message_needaction_counter
 #: model:ir.model.fields,field_description:product.field_product_template__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Số lượng Hành động"
+msgstr "Số lượng hành động"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__message_has_error_counter
@@ -1933,7 +1933,7 @@ msgstr "Bảng giá"
 #. module: product
 #: model:ir.model.fields,help:product.field_product_pricelist_item__applied_on
 msgid "Pricelist Item applicable on selected option"
-msgstr "Hạng mục Bảng giá có thể áp dụng theo tùy chọn đã chọn"
+msgstr "Hạng mục bảng giá có thể áp dụng theo tùy chọn đã chọn"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_pricelist__name
@@ -2048,7 +2048,7 @@ msgstr "Giá trị thuộc tính"
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_template_attribute_line_form
 msgid "Product Attribute and Values"
-msgstr "Thuộc tính và Giá trị Thuộc tính sản phẩm"
+msgstr "Thuộc tính và giá trị Thuộc tính sản phẩm"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__attribute_line_ids
@@ -2078,7 +2078,7 @@ msgstr "Nhóm sản phẩm"
 #. module: product
 #: model:ir.model.fields,field_description:product.field_res_config_settings__module_sale_product_configurator
 msgid "Product Configurator"
-msgstr "Trình Cấu hình sản phẩm"
+msgstr "Trình cấu hình sản phẩm"
 
 #. module: product
 #: model:ir.actions.report,name:product.report_product_template_label
@@ -2347,7 +2347,7 @@ msgstr "Chi phí nhà hàng"
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_pricelist_item_form_view
 msgid "Rounding Method"
-msgstr "Phương pháp Làm tròn"
+msgstr "Phương pháp làm tròn"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_label_layout__rows
@@ -2593,7 +2593,7 @@ msgstr ""
 msgid ""
 "The computed price is expressed in the default Unit of Measure of the "
 "product."
-msgstr "Giá tính toán được tính theo Đơn vị đo lường mặc định của sản phẩm."
+msgstr "Giá tính toán được tính theo đơn vị đo lường mặc định của sản phẩm."
 
 #. module: product
 #: code:addons/product/models/product_template.py:0
@@ -2602,7 +2602,7 @@ msgid ""
 "The default Unit of Measure and the purchase Unit of Measure must be in the "
 "same category."
 msgstr ""
-"Đơn vị tính mặc định và Đơn vị tính mua hàng phải cùng nhóm đơn vị (cùng thể"
+"Đơn vị tính mặc định và đơn vị tính mua hàng phải cùng nhóm đơn vị (cùng thể"
 " loại)."
 
 #. module: product
@@ -2610,7 +2610,7 @@ msgstr ""
 #: model:ir.model.fields,help:product.field_product_attribute_value__display_type
 #: model:ir.model.fields,help:product.field_product_template_attribute_value__display_type
 msgid "The display type used in the Product Configurator."
-msgstr "Hiển thị loại được dùng cho phần Cấu hình sản phẩm."
+msgstr "Hiển thị loại được dùng cho phần cấu hình sản phẩm."
 
 #. module: product
 #: model:ir.model.fields,help:product.field_product_packaging__sequence
@@ -2677,7 +2677,7 @@ msgid ""
 "unit of measure of the product otherwise."
 msgstr ""
 "Số lượng mua từ nhà cung cấp này để được hưởng lợi từ giá, được thể hiện "
-"trong Đơn vị đo lường sản phẩm của nhà cung cấp nếu không có, trong đơn vị "
+"trong đơn vị đo lường sản phẩm của nhà cung cấp nếu không có, trong đơn vị "
 "đo lường mặc định của sản phẩm."
 
 #. module: product
@@ -2833,7 +2833,7 @@ msgstr "Đơn vị tính"
 #: model:ir.model.fields,field_description:product.field_product_product__uom_name
 #: model:ir.model.fields,field_description:product.field_product_template__uom_name
 msgid "Unit of Measure Name"
-msgstr "Tên Đơn vị tính"
+msgstr "Tên đơn vị tính"
 
 #. module: product
 #: model:product.product,uom_name:product.consu_delivery_01
@@ -3052,22 +3052,22 @@ msgstr "Hoá đơn nhà cung cấp"
 #: model_terms:ir.ui.view,arch_db:product.product_supplierinfo_form_view
 #: model_terms:ir.ui.view,arch_db:product.product_supplierinfo_tree_view
 msgid "Vendor Information"
-msgstr "Thông tin Nhà cung cấp"
+msgstr "Thông tin nhà cung cấp"
 
 #. module: product
 #: model:ir.actions.act_window,name:product.product_supplierinfo_type_action
 msgid "Vendor Pricelists"
-msgstr "Bảng giá Nhà cung cấp"
+msgstr "Bảng giá nhà cung cấp"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_supplierinfo__product_code
 msgid "Vendor Product Code"
-msgstr "Mã sản phẩm phía Nhà cung cấp"
+msgstr "Mã sản phẩm phía nhà cung cấp"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_supplierinfo__product_name
 msgid "Vendor Product Name"
-msgstr "Tên sản phẩm phía Nhà cung cấp"
+msgstr "Tên sản phẩm phía nhà cung cấp"
 
 #. module: product
 #: model:ir.model.fields,help:product.field_product_supplierinfo__name
@@ -3195,7 +3195,7 @@ msgstr ""
 msgid ""
 "You cannot assign the Main Pricelist as Other Pricelist in PriceList Item"
 msgstr ""
-"Bạn không thể chỉ định Bảng giá Chính là Bảng giá khác trong Hạng mục Bảng "
+"Bạn không thể chỉ định bảng giá chính là bảng giá khác trong Hạng mục bảng "
 "giá"
 
 #. module: product

@@ -353,7 +353,7 @@ msgstr "Công ty"
 #. module: sale_timesheet
 #: model:ir.model,name:sale_timesheet.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: sale_timesheet
 #: model_terms:ir.ui.view,arch_db:sale_timesheet.res_config_settings_view_form
@@ -459,7 +459,7 @@ msgstr "Khách hàng"
 #: model:product.product,name:sale_timesheet.product_service_order_timesheet
 #: model:product.template,name:sale_timesheet.product_service_order_timesheet_product_template
 msgid "Customer Care (Prepaid Hours)"
-msgstr "Chăm sóc Khách hàng (Số Giờ đã Trả trước)"
+msgstr "Chăm sóc khách hàng (Số Giờ đã Trả trước)"
 
 #. module: sale_timesheet
 #: model_terms:ir.ui.view,arch_db:sale_timesheet.project_project_view_kanban_inherit_sale_timesheet
@@ -495,7 +495,7 @@ msgstr "Dòng đơn bán mặc định"
 #. module: sale_timesheet
 #: model_terms:ir.ui.view,arch_db:sale_timesheet.project_project_view_form
 msgid "Default Service"
-msgstr "Dịch vụ Mặc định"
+msgstr "Dịch vụ mặc định"
 
 #. module: sale_timesheet
 #: model:ir.model.fields,field_description:sale_timesheet.field_project_project__display_create_order
@@ -1459,7 +1459,7 @@ msgstr "Bảng chấm công"
 #. module: sale_timesheet
 #: model:ir.model.fields,field_description:sale_timesheet.field_project_profitability_report__timesheet_cost
 msgid "Timesheet Cost"
-msgstr "Chi phí cho Bảng chấm công"
+msgstr "Chi phí cho bảng chấm công"
 
 #. module: sale_timesheet
 #: model_terms:ir.ui.view,arch_db:sale_timesheet.view_hr_timesheet_line_pivot_billing_rate
@@ -1501,7 +1501,7 @@ msgstr "Tổng Thời gian Chấm công"
 #. module: sale_timesheet
 #: model:ir.model.fields,field_description:sale_timesheet.field_sale_order__timesheet_count
 msgid "Timesheet activities"
-msgstr "Hoạt động Bảng chấm công"
+msgstr "Hoạt động bảng chấm công"
 
 #. module: sale_timesheet
 #: model:ir.model.fields,field_description:sale_timesheet.field_sale_order__timesheet_ids

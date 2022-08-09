@@ -55,7 +55,7 @@ msgstr ""
 #. module: pad_project
 #: model:ir.model.fields.selection,name:pad_project.selection__project_project__pad_availability__internal
 msgid "Internal Users"
-msgstr "Người dùng Nội bộ"
+msgstr "Người dùng nội bộ"
 
 #. module: pad_project
 #: model:ir.model.fields.selection,name:pad_project.selection__project_project__pad_availability__portal

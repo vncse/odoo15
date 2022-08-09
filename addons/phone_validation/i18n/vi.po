@@ -35,7 +35,7 @@ msgstr " Please correct the number and try again."
 #: model:ir.model.fields,field_description:phone_validation.field_mail_thread_phone__message_needaction
 #: model:ir.model.fields,field_description:phone_validation.field_phone_blacklist__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: phone_validation
 #: model:ir.model.fields,field_description:phone_validation.field_phone_blacklist__active

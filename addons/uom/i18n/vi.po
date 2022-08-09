@@ -68,7 +68,7 @@ msgstr "Tỷ lệ lớn hơn"
 #. module: uom
 #: model:ir.model.fields.selection,name:uom.selection__uom_uom__uom_type__bigger
 msgid "Bigger than the reference Unit of Measure"
-msgstr "Lớn hơn Đơn vị tính gốc"
+msgstr "Lớn hơn đơn vị tính gốc"
 
 #. module: uom
 #: model:ir.model.fields,field_description:uom.field_uom_uom__category_id
@@ -92,7 +92,7 @@ msgid ""
 "Conversion between Units of Measure can only occur if they belong to the "
 "same category. The conversion will be made based on the ratios."
 msgstr ""
-"Việc chuyển đổi qua lại giữa các Đơn vị tính chỉ có thể xảy ra nếu chúng "
+"Việc chuyển đổi qua lại giữa các đơn vị tính chỉ có thể xảy ra nếu chúng "
 "thuộc cùng một nhóm. Việc chuyển đổi sẽ dựa trên tỉ lệ."
 
 #. module: uom
@@ -144,7 +144,7 @@ msgid ""
 "How many times this Unit of Measure is bigger than the reference Unit of "
 "Measure in this category: 1 * (this unit) = ratio * (reference unit)"
 msgstr ""
-"Số Đơn vị tính này lớn hơn Đơn vị tính trong đơn vị này bao nhiêu lần: 1 * "
+"Số đơn vị tính này lớn hơn đơn vị tính trong đơn vị này bao nhiêu lần: 1 * "
 "(đơn vị này) = tỷ lệ * (đơn vị tham chiếu)"
 
 #. module: uom
@@ -153,7 +153,7 @@ msgid ""
 "How much bigger or smaller this unit is compared to the reference Unit of "
 "Measure for this category: 1 * (reference unit) = ratio * (this unit)"
 msgstr ""
-"Đơn vị này lớn hơn hoặc nhỏ hơn bao nhiêu so với Đơn vị tính tham chiếu cho "
+"Đơn vị này lớn hơn hoặc nhỏ hơn bao nhiêu so với đơn vị tính tham chiếu cho "
 "danh mục này: 1 * (đơn vị tham chiếu) = tỷ lệ * (đơn vị này)"
 
 #. module: uom
@@ -188,7 +188,7 @@ msgstr "Chiều dài / Khoảng cách"
 #. module: uom
 #: model:res.groups,name:uom.group_uom
 msgid "Manage Multiple Units of Measure"
-msgstr "Quản lý Đa Đơn vị tính"
+msgstr "Quản lý Đa đơn vị tính"
 
 #. module: uom
 #: model:ir.model,name:uom.model_uom_uom
@@ -219,7 +219,7 @@ msgstr ""
 #. module: uom
 #: model:ir.model.fields,field_description:uom.field_uom_uom__rounding
 msgid "Rounding Precision"
-msgstr "Độ chính xác Làm tròn"
+msgstr "Độ chính xác làm tròn"
 
 #. module: uom
 #: model_terms:ir.ui.view,arch_db:uom.uom_uom_view_search
@@ -261,7 +261,7 @@ msgid ""
 "of Measure that cannot be further split, such as a piece."
 msgstr ""
 "Số lượng được tính toán sẽ là bội số (số chia hết) của giá trị này. Sử dụng "
-"1.0 cho một Đơn vị tính mà không thể được chia nhỏ nữa, ví du như đơn vị là "
+"1.0 cho một đơn vị tính mà không thể được chia nhỏ nữa, ví du như đơn vị là "
 "một miếng (một mảnh)."
 
 #. module: uom
@@ -359,8 +359,8 @@ msgid ""
 "            <i>'Time'</i>, you will have the following units of measure:\n"
 "            Hours, Days."
 msgstr ""
-"Các Đơn vị tính trong cùng một nhóm có thể được chuyển đối qua\n"
-"            lại lẫn nhau. Ví dụ, trong nhóm <i>'Thời gian'</i>, bạn sẽ có            các Đơn vị tính như: giờ, ngày, phút.\n"
+"Các đơn vị tính trong cùng một nhóm có thể được chuyển đối qua\n"
+"            lại lẫn nhau. Ví dụ, trong nhóm <i>'Thời gian'</i>, bạn sẽ có            các đơn vị tính như: giờ, ngày, phút.\n"
 
 #. module: uom
 #: code:addons/uom/models/uom_uom.py:0 code:addons/uom/models/uom_uom.py:0
@@ -406,7 +406,7 @@ msgstr "Khối lượng"
 #. module: uom
 #: model:uom.category,name:uom.uom_categ_wtime
 msgid "Working Time"
-msgstr "Thời gian Làm việc"
+msgstr "Thời gian làm việc"
 
 #. module: uom
 #: model_terms:ir.actions.act_window,help:uom.product_uom_form_action
@@ -414,7 +414,7 @@ msgid ""
 "You must define a conversion rate between several Units of\n"
 "            Measure within the same category."
 msgstr ""
-"Bạn phải định nghĩa một tỉ lệ chuyển đổi giữa các Đơn vị\n"
+"Bạn phải định nghĩa một tỉ lệ chuyển đổi giữa các đơn vị\n"
 "            Đo lường trong cùng một Nhóm"
 
 #. module: uom

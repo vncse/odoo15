@@ -803,7 +803,7 @@ msgstr "Lưu thời gian"
 #: code:addons/hr_timesheet/static/src/xml/qr_modal_template.xml:0
 #, python-format
 msgid "Scan this QR code to get the Awesome Timesheet app:"
-msgstr "Quét mã QR để tải ứng dụng Bảng chấm công hiệu quả:"
+msgstr "Quét mã QR để tải ứng dụng bảng chấm công hiệu quả:"
 
 #. module: hr_timesheet
 #: code:addons/hr_timesheet/controllers/portal.py:0

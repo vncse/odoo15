@@ -1,14 +1,14 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* auth_oauth
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # fanha99 <fanha99@hotmail.com>, 2021
 # Thang Duong Bao <nothingctrl@gmail.com>, 2021
 # Dao Nguyen <trucdao.uel@gmail.com>, 2021
 # Trần Hà <tranthuha13590@gmail.com>, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~13.3\n"
@@ -83,7 +83,7 @@ msgstr "Client ID:"
 #. module: auth_oauth
 #: model:ir.model,name:auth_oauth.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: auth_oauth
 #: model:ir.model.fields,field_description:auth_oauth.field_auth_oauth_provider__create_uid
@@ -204,7 +204,7 @@ msgstr "Oauth Provider user_id"
 #. module: auth_oauth
 #: model:ir.model.fields,field_description:auth_oauth.field_auth_oauth_provider__name
 msgid "Provider name"
-msgstr "Tên Nhà cung cấp"
+msgstr "Tên nhà cung cấp"
 
 #. module: auth_oauth
 #: model:ir.actions.act_window,name:auth_oauth.action_oauth_provider

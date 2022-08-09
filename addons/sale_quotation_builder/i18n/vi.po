@@ -128,7 +128,7 @@ msgid ""
 msgstr ""
 "Nếu bạn chỉnh sửa báo giá từ 'Xem trước' của báo giá, bạn sẽ \n"
 "                        chỉ cập nhật báo giá đó. Nếu bạn chỉnh sửa mẫu báo giá\n"
-"                        (từ menu Cấu hình), tất cả các báo giá trong tương lai sẽ\n"
+"                        (từ menu cấu hình), tất cả các báo giá trong tương lai sẽ\n"
 "                        sử dụng mẫu sửa đổi này."
 
 #. module: sale_quotation_builder

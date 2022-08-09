@@ -55,7 +55,7 @@ msgstr "Company database ID"
 #. module: partner_autocomplete
 #: model:ir.model,name:partner_autocomplete.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: partner_autocomplete
 #: model:ir.model,name:partner_autocomplete.model_res_partner

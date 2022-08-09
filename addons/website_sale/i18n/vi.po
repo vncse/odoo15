@@ -245,7 +245,7 @@ msgid ""
 "                                        <span class=\"\">Continue Shopping</span>"
 msgstr ""
 "<span class=\"fa fa-chevron-left\"/>\n"
-"                                        <span class=\"\">Tiếp tục Mua sắm</span>"
+"                                        <span class=\"\">Tiếp tục mua sắm</span>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.cart
@@ -1162,7 +1162,7 @@ msgstr "Tính toán phí giao hàng trên đơn bán"
 #. module: website_sale
 #: model:ir.model,name:website_sale.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.payment
@@ -1265,7 +1265,7 @@ msgstr "Khách hàng"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.sale_report_view_search_website
 msgid "Customer Country"
-msgstr "Quốc gia Khách hàng"
+msgstr "Quốc gia khách hàng"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_comment
@@ -3171,7 +3171,7 @@ msgid ""
 "Shop > Customize and enable 'eCommerce categories' to view all eCommerce "
 "categories."
 msgstr ""
-"Sản phẩm sẽ có trong từng nhóm hàng thương mại điện tử được đề cập. Truy cập"
+"Sản phẩm sẽ có trong từng nhóm hàng thương mại điện tử được đề cập. truy cập"
 " Cửa hàng > Tùy biến và kích hoạt 'Nhóm hàng thương mại điện tử' để xem tất "
 "cả nhóm hàng."
 

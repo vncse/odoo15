@@ -673,7 +673,7 @@ msgstr "Đang Thực hiện"
 #. module: maintenance
 #: model:maintenance.team,name:maintenance.equipment_team_maintenance
 msgid "Internal Maintenance"
-msgstr "Đội bảo trì Nội bộ"
+msgstr "Đội bảo trì nội bộ"
 
 #. module: maintenance
 #: model_terms:ir.ui.view,arch_db:maintenance.hr_equipment_request_view_form
@@ -1184,7 +1184,7 @@ msgstr "Ngày đề nghị"
 #: model:ir.model.fields,field_description:maintenance.field_maintenance_request__done
 #: model:ir.model.fields,field_description:maintenance.field_maintenance_stage__done
 msgid "Request Done"
-msgstr "Đề nghị đã Hoàn thành"
+msgstr "Đề nghị đã hoàn thành"
 
 #. module: maintenance
 #: code:addons/maintenance/models/maintenance.py:0

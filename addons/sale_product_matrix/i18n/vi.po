@@ -74,7 +74,7 @@ msgstr "In Lưới Biến thể"
 #. module: sale_product_matrix
 #: model:ir.model.fields.selection,name:sale_product_matrix.selection__product_template__product_add_mode__configurator
 msgid "Product Configurator"
-msgstr "Trình Cấu hình sản phẩm"
+msgstr "Trình cấu hình sản phẩm"
 
 #. module: sale_product_matrix
 #: model:ir.model,name:sale_product_matrix.model_product_template

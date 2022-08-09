@@ -1,14 +1,14 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* event_sale
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # Nancy Momoland <thanhnguyen.icsc@gmail.com>, 2021
 # Duy BQ <duybq86@gmail.com>, 2021
 # Trinh Tran Thi Phuong <trinhttp@trobz.com>, 2021
 # Vo Thanh Thuy, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.5\n"
@@ -182,7 +182,7 @@ msgstr "Sự kiện"
 #. module: event_sale
 #: model:ir.model,name:event_sale.model_event_event_configurator
 msgid "Event Configurator"
-msgstr "Trình Cấu hình sự kiện"
+msgstr "Trình cấu hình sự kiện"
 
 #. module: event_sale
 #: model:ir.model.fields,field_description:event_sale.field_sale_order_line__event_ok

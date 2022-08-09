@@ -370,7 +370,7 @@ msgstr ""
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_session__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__active
@@ -671,7 +671,7 @@ msgstr ""
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__iface_print_auto
 msgid "Automatic Receipt Printing"
-msgstr "In Biên lai Tự động"
+msgstr "In Biên lai tự động"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config__iface_cashdrawer
@@ -750,12 +750,12 @@ msgstr "Mã vạch"
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__barcode_nomenclature_id
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
 msgid "Barcode Nomenclature"
-msgstr "Phép đặt Mã vạch"
+msgstr "Phép đặt mã vạch"
 
 #. module: point_of_sale
 #: model:ir.model,name:point_of_sale.model_barcode_rule
 msgid "Barcode Rule"
-msgstr "Quy tắc Mã vạch"
+msgstr "Quy tắc mã vạch"
 
 #. module: point_of_sale
 #. openerp-web
@@ -1072,7 +1072,7 @@ msgstr "Tiền thừa"
 #: code:addons/point_of_sale/static/src/js/Screens/ClientListScreen/ClientListScreen.js:0
 #, python-format
 msgid "Change Customer"
-msgstr "Đổi Khách hàng"
+msgstr "Đổi khách hàng"
 
 #. module: point_of_sale
 #. openerp-web
@@ -1307,7 +1307,7 @@ msgstr "Công ty đã có hệ thống tài khoản"
 #. module: point_of_sale
 #: model:ir.model,name:point_of_sale.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: point_of_sale
 #: model:ir.ui.menu,name:point_of_sale.menu_point_config_product
@@ -1614,12 +1614,12 @@ msgstr "Tài khoản khách hàng"
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
 msgid "Customer Display"
-msgstr "Hiển thị Khách hàng"
+msgstr "Hiển thị khách hàng"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__iface_customer_facing_display_via_proxy
 msgid "Customer Facing Display"
-msgstr "Màn hình Đối diện Khách hàng"
+msgstr "Màn hình đối diện khách hàng"
 
 #. module: point_of_sale
 #: code:addons/point_of_sale/models/pos_order.py:0
@@ -1707,7 +1707,7 @@ msgstr "Tài khoản nhận mặc định (PoS)"
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__default_fiscal_position_id
 msgid "Default Fiscal Position"
-msgstr "Vị thế Tài khoá Mặc định"
+msgstr "Vị thế Tài khoá mặc định"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.res_config_settings_view_form
@@ -1823,7 +1823,7 @@ msgstr "Xoá Đơn hàng Chưa thanh toán?"
 #: code:addons/point_of_sale/static/src/js/Screens/ClientListScreen/ClientListScreen.js:0
 #, python-format
 msgid "Deselect Customer"
-msgstr "Bỏ chọn Khách hàng"
+msgstr "Bỏ chọn khách hàng"
 
 #. module: point_of_sale
 #: model:product.product,name:point_of_sale.desk_organizer
@@ -2645,12 +2645,12 @@ msgstr "Tài khoản trung gian"
 #. module: point_of_sale
 #: model:ir.actions.act_window,name:point_of_sale.product_category_action
 msgid "Internal Categories"
-msgstr "Nhóm Nội bộ"
+msgstr "Nhóm nội bộ"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_order__note
 msgid "Internal Notes"
-msgstr "Ghi chú Nội bộ"
+msgstr "Ghi chú nội bộ"
 
 #. module: point_of_sale
 #. openerp-web
@@ -3088,7 +3088,7 @@ msgstr "Số Lô/Sê-ri"
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__module_pos_loyalty
 msgid "Loyalty Program"
-msgstr "CT Khách hàng thân thiết"
+msgstr "Chương trình khách hàng thân thiết"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
@@ -3513,7 +3513,7 @@ msgstr "Lỗi ngoại tuyến"
 #: code:addons/point_of_sale/static/src/js/Chrome.js:0
 #, python-format
 msgid "Offline Orders"
-msgstr "Đơn Ngoại tuyến"
+msgstr "Đơn ngoại tuyến"
 
 #. module: point_of_sale
 #. openerp-web
@@ -3699,7 +3699,7 @@ msgstr ""
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
 msgid "Operation types show up in the Inventory dashboard."
-msgstr "Các Kiểu hoạt động được hiển thị ở Bảng thông tin Kho."
+msgstr "Các Kiểu hoạt động được hiển thị ở bảng thông tin Kho."
 
 #. module: point_of_sale
 #. openerp-web
@@ -4375,7 +4375,7 @@ msgstr "Kiểm tra điểm bán hàng"
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__group_pos_user_id
 msgid "Point of Sale User Group"
-msgstr "Nhóm Người dùng PoS"
+msgstr "Nhóm người dùng PoS"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_bill__pos_config_ids
@@ -5359,7 +5359,7 @@ msgstr "Phiên"
 #: code:addons/point_of_sale/static/src/js/Screens/ClientListScreen/ClientListScreen.js:0
 #, python-format
 msgid "Set Customer"
-msgstr "Chọn Khách hàng"
+msgstr "Chọn khách hàng"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__set_maximum_difference
@@ -5995,7 +5995,7 @@ msgid ""
 " Pricelist configured."
 msgstr ""
 "Bảng giá được sử dụng nếu không có khách hàng nào được chọn hoặc nếu khách "
-"hàng không có Bảng giá bán được định cấu hình."
+"hàng không có bảng giá bán được định cấu hình."
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config__iface_display_categ_images
@@ -6620,7 +6620,7 @@ msgid ""
 "Unable to modify this PoS Configuration because you can't modify %s while a "
 "session is open."
 msgstr ""
-"Không thể chỉnh sửa Cấu hình PoS vì bạn không thể chỉnh sửa %s trong khi một"
+"Không thể chỉnh sửa cấu hình PoS vì bạn không thể chỉnh sửa %s trong khi một"
 " phiên đang mở. "
 
 #. module: point_of_sale
@@ -6763,7 +6763,7 @@ msgstr "Người dùng"
 #. module: point_of_sale
 #: model:ir.actions.report,name:point_of_sale.report_user_label
 msgid "User Labels"
-msgstr "Nhãn Người dùng"
+msgstr "Nhãn người dùng"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__uuid

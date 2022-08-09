@@ -387,7 +387,7 @@ msgstr "SA"
 #. module: lunch
 #: model:ir.model.fields,field_description:lunch.field_lunch_supplier__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: lunch
 #: model:ir.model.fields,field_description:lunch.field_lunch_alert__active
@@ -670,7 +670,7 @@ msgstr "Công ty"
 #. module: lunch
 #: model:ir.model,name:lunch.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: lunch
 #: model:ir.ui.menu,name:lunch.menu_lunch_config
@@ -1164,7 +1164,7 @@ msgstr "Địa điểm"
 #. module: lunch
 #: model:ir.model.fields,field_description:lunch.field_lunch_location__name
 msgid "Location Name"
-msgstr "Tên Địa điểm"
+msgstr "Tên địa điểm"
 
 #. module: lunch
 #: model:ir.ui.menu,name:lunch.lunch_location_menu

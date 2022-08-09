@@ -903,29 +903,29 @@ msgstr "In lại biên lai"
 #: model:ir.model,name:pos_restaurant.model_restaurant_floor
 #: model_terms:ir.ui.view,arch_db:pos_restaurant.view_restaurant_floor_form
 msgid "Restaurant Floor"
-msgstr "Sàn Nhà hàng"
+msgstr "Sàn nhà hàng"
 
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_pos_config__floor_ids
 #: model_terms:ir.ui.view,arch_db:pos_restaurant.view_restaurant_floor_tree
 msgid "Restaurant Floors"
-msgstr "Sàn Nhà hàng"
+msgstr "Sàn nhà hàng"
 
 #. module: pos_restaurant
 #: model_terms:ir.ui.view,arch_db:pos_restaurant.view_restaurant_printer
 msgid "Restaurant Order Printers"
-msgstr "Máy in Lệnh Nhà hàng"
+msgstr "Máy in Lệnh nhà hàng"
 
 #. module: pos_restaurant
 #: model:ir.model,name:pos_restaurant.model_restaurant_printer
 msgid "Restaurant Printer"
-msgstr "Máy in Nhà hàng"
+msgstr "Máy in nhà hàng"
 
 #. module: pos_restaurant
 #: model:ir.model,name:pos_restaurant.model_restaurant_table
 #: model_terms:ir.ui.view,arch_db:pos_restaurant.view_restaurant_table_form
 msgid "Restaurant Table"
-msgstr "Bàn Nhà hàng"
+msgstr "Bàn nhà hàng"
 
 #. module: pos_restaurant
 #. openerp-web

@@ -44,7 +44,7 @@ msgstr "Công ty"
 #. module: stock_sms
 #: model:ir.model,name:stock_sms.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: stock_sms
 #: model_terms:ir.ui.view,arch_db:stock_sms.view_confirm_stock_sms

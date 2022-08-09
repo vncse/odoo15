@@ -14,7 +14,7 @@
 # Vo Thanh Thuy, 2022
 # Martin Trigaux, 2022
 # Nancy Momoland <thanhnguyen.icsc@gmail.com>, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0\n"
@@ -423,7 +423,7 @@ msgstr ""
 #. module: portal
 #: model:ir.model.fields,help:portal.field_portal_mixin__access_url
 msgid "Customer Portal URL"
-msgstr "URL Cổng thông tin Khách hàng"
+msgstr "URL Cổng thông tin khách hàng"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_share_template
@@ -779,12 +779,12 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:portal.wizard_view
 #, python-format
 msgid "Portal Access Management"
-msgstr "Quản lý Truy cập Portal"
+msgstr "Quản lý truy cập Portal"
 
 #. module: portal
 #: model:ir.model.fields,field_description:portal.field_portal_mixin__access_url
 msgid "Portal Access URL"
-msgstr "URL Truy cập Portal"
+msgstr "URL truy cập Portal"
 
 #. module: portal
 #: model:ir.model,name:portal.model_portal_mixin
@@ -799,7 +799,7 @@ msgstr "Portal Sharing"
 #. module: portal
 #: model:ir.model,name:portal.model_portal_wizard_user
 msgid "Portal User Config"
-msgstr "Cấu hình Người dùng Portal"
+msgstr "Cấu hình người dùng Portal"
 
 #. module: portal
 #: model:mail.template,name:portal.mail_template_data_portal_welcome
@@ -1097,12 +1097,12 @@ msgstr "Người dùng"
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_details
 msgid "VAT Number"
-msgstr "MS Thuế GTGT"
+msgstr "MS thuế GTGT"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_security
 msgid "Verify New Password:"
-msgstr "Xác nhận Mật khẩu mới:"
+msgstr "Xác nhận mật khẩu mới:"
 
 #. module: portal
 #: model:ir.model,name:portal.model_ir_ui_view

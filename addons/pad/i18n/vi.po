@@ -30,7 +30,7 @@ msgstr "Khóa API"
 #. module: pad
 #: model:ir.model,name:pad.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: pad
 #. openerp-web

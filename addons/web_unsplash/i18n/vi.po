@@ -47,7 +47,7 @@ msgstr "Áp dụng"
 #. module: web_unsplash
 #: model:ir.model,name:web_unsplash.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: web_unsplash
 #: code:addons/web_unsplash/controllers/main.py:0

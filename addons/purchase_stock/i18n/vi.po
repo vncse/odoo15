@@ -160,7 +160,7 @@ msgstr "Ngày hoàn thành đơn hàng giao hàng đầu tiên."
 #. module: purchase_stock
 #: model:ir.model,name:purchase_stock.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: purchase_stock
 #: model:ir.model,name:purchase_stock.model_res_partner
@@ -220,7 +220,7 @@ msgstr ""
 #. module: purchase_stock
 #: model:ir.model.fields,field_description:purchase_stock.field_purchase_order__default_location_dest_id_usage
 msgid "Destination Location Type"
-msgstr "Kiểu Địa điểm Đích"
+msgstr "Kiểu địa điểm Đích"
 
 #. module: purchase_stock
 #: model:ir.model.fields,field_description:purchase_stock.field_vendor_delay_report__display_name
@@ -369,7 +369,7 @@ msgid ""
 "Orders for reordering products,they will be scheduled that many days earlier"
 " to cope with unexpected vendor delays."
 msgstr ""
-"Biên độ lỗi cho thời gian chờ của nhà cung cấp. Khi hệ thống tạo Đơn Mua để "
+"Biên độ lỗi cho thời gian chờ của nhà cung cấp. Khi hệ thống tạo đơn mua để "
 "tái cung ứng các sản phẩm, chúng sẽ được lên lịch trước đó nhiều ngày để đối"
 " phó với sự chậm trễ không mong muốn từ phía nhà cung cấp."
 
@@ -495,26 +495,26 @@ msgstr "Chi tiết mua hàng"
 #. module: purchase_stock
 #: model:ir.model,name:purchase_stock.model_purchase_order
 msgid "Purchase Order"
-msgstr "Đơn Mua"
+msgstr "Đơn mua"
 
 #. module: purchase_stock
 #: model:ir.model,name:purchase_stock.model_purchase_order_line
 #: model:ir.model.fields,field_description:purchase_stock.field_product_product__purchase_order_line_ids
 #: model:ir.model.fields,field_description:purchase_stock.field_stock_move__purchase_line_id
 msgid "Purchase Order Line"
-msgstr "Dòng hàng Đơn Mua"
+msgstr "Dòng hàng đơn mua"
 
 #. module: purchase_stock
 #: model:ir.model.fields,field_description:purchase_stock.field_stock_picking__purchase_id
 #: model:ir.model.fields,field_description:purchase_stock.field_stock_production_lot__purchase_order_ids
 #: model_terms:ir.ui.view,arch_db:purchase_stock.stock_production_lot_view_form
 msgid "Purchase Orders"
-msgstr "Đơn Mua"
+msgstr "Đơn mua"
 
 #. module: purchase_stock
 #: model:ir.model,name:purchase_stock.model_purchase_report
 msgid "Purchase Report"
-msgstr "Báo cáo Mua"
+msgstr "Báo cáo mua"
 
 #. module: purchase_stock
 #: code:addons/purchase_stock/models/stock_rule.py:0
@@ -806,7 +806,7 @@ msgstr ""
 #: code:addons/purchase_stock/models/purchase.py:0
 #, python-format
 msgid "You must set a Vendor Location for this partner %s"
-msgstr "Bạn phải thiết lập Địa điểm Nhà cung cấp cho đối tác này %s"
+msgstr "Bạn phải thiết lập địa điểm nhà cung cấp cho đối tác này %s"
 
 #. module: purchase_stock
 #: model_terms:ir.ui.view,arch_db:purchase_stock.res_config_settings_view_form_stock

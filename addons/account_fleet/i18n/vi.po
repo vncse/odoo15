@@ -1,10 +1,10 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* account_fleet
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.5\n"
@@ -61,7 +61,7 @@ msgid ""
 "Service Vendor Bill: <a href=# data-oe-model=account.move data-oe-"
 "id={move_id}>{move_name}</a>"
 msgstr ""
-"Hóa đơn Nhà cung cấp dịch vụ: <a href=# data-oe-model=account.move data-oe-"
+"Hóa đơn nhà cung cấp dịch vụ: <a href=# data-oe-model=account.move data-oe-"
 "id={move_id}>{move_name}</a>"
 
 #. module: account_fleet

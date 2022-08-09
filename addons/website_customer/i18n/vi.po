@@ -171,7 +171,7 @@ msgid ""
 "Partner Tags - These tags can be used on website to find customers by "
 "sector, or ..."
 msgstr ""
-"Thẻ Khách hàng - Các thẻ này có thể sử dụng trên website để tìm kiếm khách "
+"Thẻ khách hàng - Các thẻ này có thể sử dụng trên website để tìm kiếm khách "
 "hàng dễ dàng hơn phân khúc, hoặc..."
 
 #. module: website_customer

@@ -1,12 +1,12 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* product_images
-# 
+#
 # Translators:
 # Vo Thanh Thuy, 2021
 # Martin Trigaux, 2021
 # Dung Nguyen Thi <dungnt@trobz.com>, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.5\n"
@@ -59,7 +59,7 @@ msgstr "Hủy"
 #. module: product_images
 #: model:ir.model,name:product_images.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: product_images
 #: model:ir.model.fields,field_description:product_images.field_product_fetch_image_wizard__create_uid

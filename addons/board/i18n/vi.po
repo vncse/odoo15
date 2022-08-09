@@ -1,14 +1,14 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* board
-# 
+#
 # Translators:
 # file aio <fileaio@gmail.com>, 2021
 # Martin Trigaux, 2021
 # Minh Nguyen <ndminh210994@gmail.com>, 2021
 # Trinh Tran Thi Phuong <trinhttp@trobz.com>, 2021
 # Duy BQ <duybq86@gmail.com>, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.5\n"
@@ -69,7 +69,7 @@ msgstr "Thêm"
 #: code:addons/board/static/src/legacy/xml/board.xml:0
 #, python-format
 msgid "Add to my Dashboard"
-msgstr "Thêm vào Bảng thông tin của tôi"
+msgstr "Thêm vào bảng thông tin của tôi"
 
 #. module: board
 #. openerp-web
@@ -77,7 +77,7 @@ msgstr "Thêm vào Bảng thông tin của tôi"
 #: code:addons/board/static/src/legacy/xml/board.xml:0
 #, python-format
 msgid "Add to my dashboard"
-msgstr "Thêm vào Bảng thông tin của tôi"
+msgstr "Thêm vào bảng thông tin của tôi"
 
 #. module: board
 #. openerp-web

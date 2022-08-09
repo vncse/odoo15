@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* website
-# 
+#
 # Translators:
 # file aio <fileaio@gmail.com>, 2021
 # Dung Nguyen Thi <dungnt@trobz.com>, 2021
@@ -1581,7 +1581,7 @@ msgstr "Về Chúng tôi"
 #: code:addons/website/controllers/backend.py:0
 #, python-format
 msgid "Access Error"
-msgstr "Lỗi Truy cập"
+msgstr "Lỗi truy cập"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_visitor__access_token
@@ -2203,7 +2203,7 @@ msgstr ""
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website__auto_redirect_lang
 msgid "Autoredirect Language"
-msgstr "Tự động nhận dạng Ngôn ngữ"
+msgstr "Tự động nhận dạng ngôn ngữ"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.bs_debug_view
@@ -2889,7 +2889,7 @@ msgstr "Click để chọn"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Client ID"
-msgstr "ID Khách hàng"
+msgstr "ID khách hàng"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -3031,7 +3031,7 @@ msgstr "Có điều kiện"
 #. module: website
 #: model:ir.model,name:website.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: website
 #: model:ir.ui.menu,name:website.menu_website_global_configuration
@@ -3307,7 +3307,7 @@ msgstr "Tạo một"
 #: code:addons/website/static/src/xml/website.editor.xml:0
 #, python-format
 msgid "Create a Google Project and Get a Key"
-msgstr "Tạo một Dự án Google và Nhận một Chìa khóa"
+msgstr "Tạo một Google Project và nhận một Key"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -3437,7 +3437,7 @@ msgstr "Mã phần đầu tùy chỉnh"
 #: model:ir.model.fields,field_description:website.field_res_config_settings__auth_signup_uninvited
 #: model:ir.model.fields,field_description:website.field_website__auth_signup_uninvited
 msgid "Customer Account"
-msgstr "Tài khoản Khách hàng"
+msgstr "Tài khoản khách hàng"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_mega_menu_big_icons_subtitles
@@ -3564,7 +3564,7 @@ msgstr "Mặc định"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Default Access Rights"
-msgstr "Quyền Truy cập Mặc định"
+msgstr "Quyền truy cập mặc định"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website__default_lang_id
@@ -5706,7 +5706,7 @@ msgstr "Cài đặt"
 #. module: website
 #: model:ir.model,name:website.model_base_language_install
 msgid "Install Language"
-msgstr "Cài đặt Ngôn ngữ"
+msgstr "Cài đặt ngôn ngữ"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -7132,7 +7132,7 @@ msgstr "Số"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings__website_language_count
 msgid "Number of languages"
-msgstr "Số lượng Ngôn ngữ"
+msgstr "Số lượng ngôn ngữ"
 
 #. module: website
 #. openerp-web
@@ -8514,7 +8514,7 @@ msgstr "Chọn một phông chữ trên"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Select the Website to Configure"
-msgstr "Chọn một Website để Cấu hình"
+msgstr "Chọn một Website để cấu hình"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_website_form_options
@@ -8908,7 +8908,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website.field_res_config_settings__specific_user_account
 #: model:ir.model.fields,field_description:website.field_website__specific_user_account
 msgid "Specific User Account"
-msgstr "Tài khoản Người dùng cụ thể"
+msgstr "Tài khoản người dùng cụ thể"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.list_hybrid
@@ -11673,7 +11673,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.user_navbar
 msgid "or Edit Master"
-msgstr "hoặc Sửa Bản gốc"
+msgstr "hoặc Sửa bản gốc"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets

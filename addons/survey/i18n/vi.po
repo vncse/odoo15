@@ -746,7 +746,7 @@ msgstr "Token truy cập phải là duy nhất"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__active
@@ -1323,7 +1323,7 @@ msgstr "Ghế hội nghị"
 #. module: survey
 #: model_terms:gamification.badge,description:survey.vendor_certification_badge
 msgid "Congratulations, you are now official vendor of MyCompany"
-msgstr "Chúc mừng, bạn đã chính thức trở thành Nhà cung cấp của MyCompany"
+msgstr "Chúc mừng, bạn đã chính thức trở thành nhà cung cấp của MyCompany"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_fill_form_done
@@ -2685,7 +2685,7 @@ msgstr "Nhà cung cấp MyCompany"
 #. module: survey
 #: model:survey.survey,title:survey.vendor_certification
 msgid "MyCompany Vendor Certification"
-msgstr "Chứng nhận Nhà cung cấp MyCompany"
+msgstr "Chứng nhận nhà cung cấp MyCompany"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_view_search
@@ -2798,7 +2798,7 @@ msgstr "Số lượng"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Số lượng Hành động"
+msgstr "Số lượng hành động"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__attempts_limit
@@ -3399,7 +3399,7 @@ msgstr "Tìm kiếm Khảo sát"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_line_view_search
 msgid "Search User input lines"
-msgstr "Kiếm các Dòng mà Người dùng nhập"
+msgstr "Kiếm các Dòng mà người dùng nhập"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_user_input_line__page_id
@@ -3749,13 +3749,13 @@ msgstr "Dữ liệu người dùng nhập vào Khảo sát"
 #. module: survey
 #: model:ir.model,name:survey.model_survey_user_input_line
 msgid "Survey User Input Line"
-msgstr "Các dòng nhập liệu của Người dùng khảo sát"
+msgstr "Các dòng nhập liệu của người dùng khảo sát"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_view_form
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_view_tree
 msgid "Survey User inputs"
-msgstr "Nhập liệu của Người dùng khảo sát"
+msgstr "Nhập liệu của người dùng khảo sát"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.question_result_matrix
@@ -4392,13 +4392,13 @@ msgstr "Lựa chọn của người dùng"
 #: model:ir.model.fields,field_description:survey.field_survey_user_input_line__user_input_id
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_line_view_search
 msgid "User Input"
-msgstr "Nhập liệu của Người dùng"
+msgstr "Nhập liệu của người dùng"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.question_result_number_or_date
 #: model_terms:ir.ui.view,arch_db:survey.question_result_text
 msgid "User Responses"
-msgstr "Phản hồi của Người dùng"
+msgstr "Phản hồi của người dùng"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_line_view_form
@@ -4408,7 +4408,7 @@ msgstr "Chi tiết dòng người dùng nhập"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__user_input_ids
 msgid "User responses"
-msgstr "Phản hồi của Người dùng"
+msgstr "Phản hồi của người dùng"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__users_can_go_back

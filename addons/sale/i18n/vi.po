@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* sale
-# 
+#
 # Translators:
 # Dao Nguyen <trucdao.uel@gmail.com>, 2021
 # Roy Le <roy.le@viindoo.com>, 2021
@@ -632,7 +632,7 @@ msgid ""
 "                                <span class=\"o_stat_text\">Preview</span>"
 msgstr ""
 "<span class=\"o_stat_text\">Xem trước</span>\n"
-"                                <span class=\"o_stat_text\">cho Khách hàng</span>"
+"                                <span class=\"o_stat_text\">cho khách hàng</span>"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.product_form_view_sale_order_button
@@ -819,7 +819,7 @@ msgstr ""
 #. module: sale
 #: model:res.groups,name:sale.group_warning_sale
 msgid "A warning can be set on a product or a customer (Sale)"
-msgstr "Có thể lập cảnh báo đối với sản phẩm hoặc Khách hàng (Bán hàng)"
+msgstr "Có thể lập cảnh báo đối với sản phẩm hoặc khách hàng (Bán hàng)"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -878,7 +878,7 @@ msgstr "Mục nhập doanh thu tích lũy"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__activity_ids
@@ -1053,7 +1053,7 @@ msgstr "Giao dịch được ủy quyền"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__automatic_invoice
 msgid "Automatic Invoice"
-msgstr "Hoá đơn Tự động"
+msgstr "Hoá đơn tự động"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -1068,7 +1068,7 @@ msgstr "Tên Ngân hàng"
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__payment_acquirer__so_reference_type__partner
 msgid "Based on Customer ID"
-msgstr "Dựa trên ID Khách hàng"
+msgstr "Dựa trên ID khách hàng"
 
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__payment_acquirer__so_reference_type__so_name
@@ -1234,7 +1234,7 @@ msgstr "Tính toán phí giao hàng trên đơn bán"
 #. module: sale
 #: model:ir.model,name:sale.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: sale
 #: model:ir.ui.menu,name:sale.menu_sale_config
@@ -1275,7 +1275,7 @@ msgid ""
 "Conversion between Units of Measure can only occur if they belong to the "
 "same category. The conversion will be made based on the ratios."
 msgstr ""
-"Việc chuyển đổi qua lại giữa các Đơn vị tính chỉ có thể xảy ra nếu chúng "
+"Việc chuyển đổi qua lại giữa các đơn vị tính chỉ có thể xảy ra nếu chúng "
 "thuộc cùng một nhóm. Việc chuyển đổi sẽ dựa trên tỉ lệ."
 
 #. module: sale
@@ -1413,12 +1413,12 @@ msgstr "Khách hàng"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__auth_signup_uninvited
 msgid "Customer Account"
-msgstr "Tài khoản Khách hàng"
+msgstr "Tài khoản khách hàng"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__group_sale_delivery_address
 msgid "Customer Addresses"
-msgstr "Nhiều Địa chỉ Khách hàng"
+msgstr "Nhiều Địa chỉ khách hàng"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__country_id
@@ -1429,7 +1429,7 @@ msgstr "Quốc gia của khách hàng"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__commercial_partner_id
 msgid "Customer Entity"
-msgstr "Thực thể Khách hàng"
+msgstr "Thực thể khách hàng"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__industry_id
@@ -1440,22 +1440,22 @@ msgstr "Ngành của khách hàng"
 #. module: sale
 #: model:ir.model.fields,help:sale.field_sale_order__access_url
 msgid "Customer Portal URL"
-msgstr "URL Cổng thông tin Khách hàng"
+msgstr "URL Cổng thông tin khách hàng"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__client_order_ref
 msgid "Customer Reference"
-msgstr "Tham chiếu của Khách hàng"
+msgstr "Tham chiếu của khách hàng"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.view_order_form
 msgid "Customer Signature"
-msgstr "Chữ ký Khách hàng"
+msgstr "Chữ ký khách hàng"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_advance_payment_inv__deposit_taxes_id
 msgid "Customer Taxes"
-msgstr "Thuế Khách hàng"
+msgstr "Thuế khách hàng"
 
 #. module: sale
 #: model:ir.ui.menu,name:sale.res_partner_menu
@@ -1523,18 +1523,18 @@ msgstr "Giảm trừ các khoản ứng trước"
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
 msgid "Default Limit:"
-msgstr "Giới hạn Mặc định:"
+msgstr "Giới hạn mặc định:"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__use_quotation_validity_days
 msgid "Default Quotation Validity"
-msgstr "Thời hạn báo giá Mặc định"
+msgstr "Thời hạn báo giá mặc định"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_company__quotation_validity_days
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__quotation_validity_days
 msgid "Default Quotation Validity (Days)"
-msgstr "Thời hạn báo giá Mặc định (Ngày)"
+msgstr "Thời hạn báo giá mặc định (Ngày)"
 
 #. module: sale
 #: model:ir.model.fields,help:sale.field_res_config_settings__deposit_default_product_id
@@ -1578,13 +1578,13 @@ msgstr "Theo số lượng bàn giao"
 #: model:ir.model.fields,field_description:sale.field_account_payment__partner_shipping_id
 #: model:ir.model.fields,field_description:sale.field_sale_order__partner_shipping_id
 msgid "Delivery Address"
-msgstr "Địa chỉ Giao hàng"
+msgstr "Địa chỉ giao hàng"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__commitment_date
 #: model_terms:ir.ui.view,arch_db:sale.view_order_form
 msgid "Delivery Date"
-msgstr "Ngày Giao"
+msgstr "Ngày giao"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__module_delivery
@@ -2059,7 +2059,7 @@ msgstr "Bao gồm thuế)"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_advance_payment_inv__deposit_account_id
 msgid "Income Account"
-msgstr "Tài khoản Doanh thu"
+msgstr "Tài khoản doanh thu"
 
 #. module: sale
 #: code:addons/sale/controllers/portal.py:0
@@ -2230,7 +2230,7 @@ msgstr "Mục tiêu xuất hoá đơn"
 #: model_terms:ir.ui.view,arch_db:sale.report_saleorder_document
 #: model_terms:ir.ui.view,arch_db:sale.sale_order_portal_content
 msgid "Invoicing and Shipping Address:"
-msgstr "Địa chỉ Hoá đơn và Giao hàng:"
+msgstr "Địa chỉ Hoá đơn và giao hàng:"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__message_is_follower
@@ -2435,7 +2435,7 @@ msgstr ""
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__module_sale_margin
 msgid "Margins"
-msgstr "Biên Lợi nhuận"
+msgstr "Biên lợi nhuận"
 
 #. module: sale
 #: model:ir.actions.server,name:sale.model_sale_order_action_quotation_sent
@@ -2623,7 +2623,7 @@ msgstr "Số"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Số lượng Hành động"
+msgstr "Số lượng hành động"
 
 #. module: sale
 #: model:ir.model.fields,help:sale.field_sale_order_line__customer_lead
@@ -2718,7 +2718,7 @@ msgstr "Chỉ có các đơn dự thảo mới có thể được trực tiếp 
 msgid ""
 "Only one Custom Value is allowed per Attribute Value per Sales Order Line."
 msgstr ""
-"Chỉ cho phép một Giá trị tùy chỉnh cho mỗi Giá trị thuộc tính trong mỗi Dòng"
+"Chỉ cho phép một giá trị tùy chỉnh cho mỗi giá trị thuộc tính trong mỗi Dòng"
 " đơn bán hàng. "
 
 #. module: sale
@@ -2945,7 +2945,7 @@ msgstr "Điều khoản thanh toán"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_payment_acquirer_onboarding_wizard__paypal_user_type
 msgid "Paypal User Type"
-msgstr "Kiểu Người dùng Paypal"
+msgstr "Kiểu người dùng Paypal"
 
 #. module: sale
 #: code:addons/sale/models/sale_order.py:0
@@ -2963,7 +2963,7 @@ msgstr "Vui lòng nhập một giá trị số nguyên"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__access_url
 msgid "Portal Access URL"
-msgstr "URL Truy cập Portal"
+msgstr "URL truy cập Portal"
 
 #. module: sale
 #: model_terms:product.product,website_description:sale.product_product_4e
@@ -3129,7 +3129,7 @@ msgstr "SL"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__qty_delivered
 msgid "Qty Delivered"
-msgstr "SL đã Giao"
+msgstr "SL đã giao"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__qty_invoiced
@@ -3691,7 +3691,7 @@ msgstr ""
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
 msgid "Sell and purchase products in different units of measure"
-msgstr "Bán và mua sản phẩm theo các Đơn vị tính khác nhau"
+msgstr "Bán và mua sản phẩm theo các đơn vị tính khác nhau"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form

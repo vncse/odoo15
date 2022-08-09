@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* base
-# 
+#
 # Translators:
 # Thang Duong Bao <nothingctrl@gmail.com>, 2021
 # Dao Nguyen <trucdao.uel@gmail.com>, 2021
@@ -741,7 +741,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Cho phép tạo Bảng cân đối thử cho bút toán cuối kỳ.\n"
+"        Cho phép tạo bảng cân đối thử cho bút toán cuối kỳ.\n"
 "\n"
 "        Thông thường được gọi là \"Tháng 13\"\n"
 "    "
@@ -2547,7 +2547,7 @@ msgid ""
 "Add relation information between Sale Orders and Purchase Orders if Make to Order (MTO) is activated on one sold product.\n"
 msgstr ""
 "\n"
-"Thêm thông tin liên quan giữa Đơn đặt hàng và Đơn mua hàng nếu Kích hoạt Đặt hàng theo đơn đặt hàng (MTO) trên một sản phẩm đã bán.\n"
+"Thêm thông tin liên quan giữa đơn đặt hàng và đơn mua hàng nếu Kích hoạt Đặt hàng theo đơn đặt hàng (MTO) trên một sản phẩm đã bán.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_documents_project
@@ -2735,7 +2735,7 @@ msgid ""
 "=============================================\n"
 msgstr ""
 "\n"
-"Cho phép người dùng đăng nhập thông qua Nhà cung cấp OAuth2.\n"
+"Cho phép người dùng đăng nhập thông qua nhà cung cấp OAuth2.\n"
 "=============================================\n"
 
 #. module: base
@@ -4057,7 +4057,7 @@ msgid ""
 "        "
 msgstr ""
 "\n"
-"Học tập trực tuyến và Kỹ năng cho Nhân sự\n"
+"Học tập trực tuyến và kỹ năng cho nhân sự\n"
 "============================\n"
 "\n"
 "Mô-đun này bổ sung các khóa học đã hoàn thành cho lý lịch của nhân viên.\n"
@@ -5226,7 +5226,7 @@ msgstr ""
 "  * Tạo tường twitter trực tiếp cho sự kiện\n"
 "  * Không cần kiểm duyệt phức tạp.\n"
 "  * Tùy chỉnh chế độ xem trực tiếp của bạn với sự trợ giúp của các tùy chọn khác nhau.\n"
-"  * Chế độ xem Tự động Storify sau khi sự kiện kết thúc.\n"
+"  * Chế độ xem tự động Storify sau khi sự kiện kết thúc.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_3way_match
@@ -7250,7 +7250,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Đây là mô-đun cơ sở để quản lý Đơn vị tính.\n"
+"Đây là mô-đun cơ sở để quản lý đơn vị tính.\n"
 "========================================================================\n"
 "    "
 
@@ -7955,7 +7955,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Phân hệ này cho phép hiển thị phần 'Biên Lợi nhuận' trên đơn bán.\n"
+"Phân hệ này cho phép hiển thị phần 'Biên lợi nhuận' trên đơn bán.\n"
 "=============================================\n"
 "\n"
 "Nó cho phép tính phần chênh lệch giữa giá bán\n"
@@ -8347,7 +8347,7 @@ msgstr ""
 "Mô-đun này cung cấp một khung cho tin nhắn văn bản SMS\n"
 "-------------------------------------------------- -\n"
 "\n"
-"Dịch vụ được cung cấp bởi nền tảng Mua trong ứng dụng Odoo.\n"
+"Dịch vụ được cung cấp bởi nền tảng mua trong ứng dụng Odoo.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_contacts
@@ -10485,12 +10485,12 @@ msgstr "Kiểm soát Quyền truy cập"
 #. module: base
 #: model:ir.model,name:base.model_res_groups
 msgid "Access Groups"
-msgstr "Nhóm Truy cập"
+msgstr "Nhóm truy cập"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_groups__menu_access
 msgid "Access Menu"
-msgstr "Trình đơn Truy cập"
+msgstr "Trình đơn truy cập"
 
 #. module: base
 #: code:addons/base/models/res_users.py:0
@@ -10652,7 +10652,7 @@ msgstr "Tài khoản TaxCloud - Bán hàng (phiếu giảm giá)"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_coupon_taxcloud_delivery
 msgid "Account Taxcloud - Sale (coupon) - Delivery"
-msgstr "Tài khoản TaxCloud - Bán hàng (phiếu giảm giá) - Giao hàng"
+msgstr "Tài khoản TaxCloud - Bán hàng (phiếu giảm giá) - giao hàng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_account_winbooks_import
@@ -10832,18 +10832,18 @@ msgstr "Hành động để thực hiện"
 #: model:ir.model.fields,field_description:base.field_ir_cron__type
 #: model_terms:ir.ui.view,arch_db:base.view_server_action_search
 msgid "Action Type"
-msgstr "Kiểu Hành động"
+msgstr "Kiểu hành động"
 
 #. module: base
 #: model:ir.model,name:base.model_ir_actions_act_url
 #: model:ir.model.fields,field_description:base.field_ir_actions_act_url__url
 msgid "Action URL"
-msgstr "URL Hành động"
+msgstr "URL hành động"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_actions_act_window__usage
 msgid "Action Usage"
-msgstr "Cách dùng Hành động"
+msgstr "Cách dùng hành động"
 
 #. module: base
 #: model:ir.model,name:base.model_ir_actions_act_window
@@ -10975,7 +10975,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,summary:base.module_delivery_barcode
 msgid "Add barcode scanning facilities to Delivery."
-msgstr "Thêm tiện ích quét mã vạch vào Giao hàng."
+msgstr "Thêm tiện ích quét mã vạch vào giao hàng."
 
 #. module: base
 #: model:ir.module.module,summary:base.module_event_barcode
@@ -11831,12 +11831,12 @@ msgstr "Phê duyệt"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_approvals_purchase
 msgid "Approvals - Purchase"
-msgstr "Phê duyệt - Mua hàng"
+msgstr "Phê duyệt - mua hàng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_approvals_purchase_stock
 msgid "Approvals - Purchase - Stock"
-msgstr "Phê duyệt - Mua hàng - Kho"
+msgstr "Phê duyệt - mua hàng - Kho"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.open_module_tree
@@ -12455,7 +12455,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_stock_barcode_quality_control
 msgid "Barcode Quality bridge module"
-msgstr "Mô-đun cầu nối Mã vạch chất lượng"
+msgstr "Mô-đun cầu nối mã vạch chất lượng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_stock_barcode_picking_batch
@@ -12487,7 +12487,7 @@ msgstr "Loại mã vạch, ví dụ: UPCA, EAN13, Code128"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_stock_barcode_quality_control_picking_batch
 msgid "Barcode/Quality/Batch Transfer bridge module"
-msgstr "Mô-đun cầu nối Mã vạch chất lượng"
+msgstr "Mô-đun cầu nối mã vạch chất lượng"
 
 #. module: base
 #: model:ir.model,name:base.model_base
@@ -12697,7 +12697,7 @@ msgstr "Bỉ - Import sao kê ngân hàng CODA"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_be_hr_payroll
 msgid "Belgium - Payroll"
-msgstr "Bỉ - Bảng lương"
+msgstr "Bỉ - bảng lương"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_be_hr_payroll_december
@@ -12712,7 +12712,7 @@ msgstr "Belgium - Lương - Phương tiện"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_be_hr_payroll_account
 msgid "Belgium - Payroll with Accounting"
-msgstr "Bỉ - Bảng lương có Kế toán"
+msgstr "Bỉ - bảng lương có Kế toán"
 
 #. module: base
 #: model:res.country,name:base.bz
@@ -13094,7 +13094,7 @@ msgstr "C5E 24  163 x 229 mm"
 #: model:ir.module.category,name:base.module_category_sales_crm
 #: model:ir.module.module,shortdesc:base.module_crm
 msgid "CRM"
-msgstr "Quản lý quan hệ Khách hàng"
+msgstr "Quản lý quan hệ khách hàng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_data_merge_crm
@@ -13663,7 +13663,7 @@ msgstr "Xem Cohort"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_pad
 msgid "Collaborative Pads"
-msgstr "Pad Cộng tác"
+msgstr "Pad cộng tác"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_account_sepa_direct_debit
@@ -14012,7 +14012,7 @@ msgstr "Cấu hình cài đặt"
 #. module: base
 #: model:ir.model,name:base.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.config_wizard_step_view_form
@@ -14041,7 +14041,7 @@ msgstr "Cấu hình cài đặt"
 #: model:ir.model,name:base.model_ir_actions_todo
 #: model:ir.ui.menu,name:base.menu_ir_actions_todo_form
 msgid "Configuration Wizards"
-msgstr "Đồ thuật Cấu hình"
+msgstr "Đồ thuật cấu hình"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_event_twitter_wall
@@ -14087,7 +14087,7 @@ msgstr "Kết nối máy in nhà bếp với PoS của bạn"
 #. module: base
 #: model:ir.module.module,summary:base.module_hw_drivers
 msgid "Connect the Web Client to Hardware Peripherals"
-msgstr "Kết nối Máy khách Web với Thiết bị Ngoại vi Phần cứng"
+msgstr "Kết nối Máy khách Web với Thiết bị ngoại vi Phần cứng"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.ir_mail_server_form
@@ -14243,7 +14243,7 @@ msgstr "Liên lạc bắt buộc phải có một cái tên"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.module_form
 msgid "Contains In-App Purchases"
-msgstr "Ràng buộc Mua Trong-Ứng-dụng"
+msgstr "Ràng buộc mua Trong-Ứng-dụng"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_filters__context
@@ -14423,7 +14423,7 @@ msgstr "Quyền Tạo"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_rule_search
 msgid "Create Access Right"
-msgstr "Tạo Quyền Truy cập"
+msgstr "Tạo Quyền truy cập"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_server_action_form
@@ -14898,7 +14898,7 @@ msgstr "Đơn vị Tiền tệ"
 #. module: base
 #: model:ir.model.fields,help:base.field_res_currency__currency_unit_label
 msgid "Currency Unit Name"
-msgstr "Tên Đơn vị Tiền tệ"
+msgstr "Tên đơn vị Tiền tệ"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_res_currency__symbol
@@ -14964,7 +14964,7 @@ msgstr "Các trường được tùy chỉnh phải có tên bắt đầu bằng
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_country__name_position
 msgid "Customer Name Position"
-msgstr "Vị trí tên Khách hàng"
+msgstr "Vị trí tên khách hàng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_portal
@@ -14996,7 +14996,7 @@ msgstr "Tuỳ chỉnh"
 #. module: base
 #: model:ir.module.module,summary:base.module_purchase_stock_enterprise
 msgid "Customized Dashboard for Purchase Stock"
-msgstr "Bảng thông tin  tùy chỉnh cho Mua hàng tồn kho"
+msgstr "Bảng thông tin  tùy chỉnh cho mua hàng tồn kho"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.action_ui_view_custom
@@ -15014,7 +15014,7 @@ msgid ""
 "dashboard views (via web client)"
 msgstr ""
 "Giao diện được tuỳ biến là các giao diện được sử dụng khi người dùng tái tổ "
-"chức nội dung ở giao diện Bảng thông tin (thông qua giao diện web)"
+"chức nội dung ở giao diện bảng thông tin (thông qua giao diện web)"
 
 #. module: base
 #: model:res.country,name:base.cy
@@ -15274,7 +15274,7 @@ msgstr "Bộ lọc mặc định"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_theme_default
 msgid "Default Theme"
-msgstr "Chủ đề Mặc định"
+msgstr "Chủ đề mặc định"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_default__json_value
@@ -15351,12 +15351,12 @@ msgstr "Địa chỉ giao hàng"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_delivery_barcode
 msgid "Delivery Barcode Scanning"
-msgstr "Quét mã vạch Giao hàng"
+msgstr "Quét mã vạch giao hàng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_delivery
 msgid "Delivery Costs"
-msgstr "Phí Giao hàng"
+msgstr "Phí giao hàng"
 
 #. module: base
 #: model:ir.model,name:base.model_ir_demo
@@ -15835,7 +15835,7 @@ msgstr "Tài liệu - Kế toán"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_l10n_be_hr_payroll
 msgid "Documents - Belgian Payroll"
-msgstr "Tài liệu - Bảng lương Bỉ"
+msgstr "Tài liệu - bảng lương Bỉ"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_hr_contract
@@ -16049,7 +16049,7 @@ msgstr ""
 #: model:ir.module.module,summary:base.module_l10n_be_edi
 msgid "E-Invoicing, Universal Business Language (UBL 2.0), e-fff protocol"
 msgstr ""
-"Lập hóa đơn điện tử, Ngôn ngữ kinh doanh chung (UBL 2.0), giao thức e-fff"
+"Lập hóa đơn điện tử, ngôn ngữ kinh doanh chung (UBL 2.0), giao thức e-fff"
 
 #. module: base
 #: model:ir.module.category,name:base.module_category_accounting_localizations_edi
@@ -16480,7 +16480,7 @@ msgstr "Equatorial Guinea"
 #. module: base
 #: model:ir.module.module,summary:base.module_hr_maintenance
 msgid "Equipments, Assets, Internal Hardware, Allocation Tracking"
-msgstr "Thiết bị, Tài sản, Phần cứng Nội bộ, Theo dõi Phân bổ"
+msgstr "Thiết bị, Tài sản, Phần cứng nội bộ, Theo dõi Phân bổ"
 
 #. module: base
 #: model:res.country,name:base.er
@@ -16791,12 +16791,12 @@ msgstr "Thiết lập Xuất"
 #: model:ir.actions.act_window,name:base.action_wizard_lang_export
 #: model:ir.ui.menu,name:base.menu_wizard_lang_export
 msgid "Export Translation"
-msgstr "Xuất Bản dịch"
+msgstr "Xuất bản dịch"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.wizard_lang_export
 msgid "Export Translations"
-msgstr "Xuất các Bản dịch"
+msgstr "Xuất các bản dịch"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_l10n_au_aba
@@ -16873,7 +16873,7 @@ msgstr "External IDs không thể chứa khoảng trắng"
 #: model:ir.model.fields,field_description:base.field_ir_model_data__name
 #: model_terms:ir.ui.view,arch_db:base.view_model_data_search
 msgid "External Identifier"
-msgstr "Định danh Ngoại trú"
+msgstr "Định danh ngoại trú"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.action_model_data
@@ -16882,7 +16882,7 @@ msgstr "Định danh Ngoại trú"
 #: model_terms:ir.ui.view,arch_db:base.view_model_data_list
 #: model_terms:ir.ui.view,arch_db:base.view_model_data_search
 msgid "External Identifiers"
-msgstr "Định danh Ngoại trú"
+msgstr "Định danh ngoại trú"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_model_data__name
@@ -17870,7 +17870,7 @@ msgstr "Gantt"
 #. module: base
 #: model:ir.module.module,summary:base.module_hr_holidays_gantt
 msgid "Gantt view for Time Off Dashboard"
-msgstr "Chế độ Gantt cho Bảng thông tin Nghỉ phép"
+msgstr "Chế độ Gantt cho bảng thông tin Nghỉ phép"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_web_kanban_gauge
@@ -17911,7 +17911,7 @@ msgstr "Tạo tiềm năng/Cơ hội theo quốc gia, ngành nghề, kích thư�
 #: model:ir.module.module,summary:base.module_website_crm_iap_reveal
 msgid "Generate Leads/Opportunities from your website's traffic"
 msgstr ""
-"Tạo Khách hàng tiềm năng / Cơ hội từ lưu lượng truy cập trang web của bạn"
+"Tạo khách hàng tiềm năng / Cơ hội từ lưu lượng truy cập trang web của bạn"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.action_wizard_update_translations
@@ -18950,7 +18950,7 @@ msgstr "Mã ISO"
 #. module: base
 #: model:ir.model.fields,help:base.field_base_language_import__code
 msgid "ISO Language and Country code, e.g. en_US"
-msgstr "Mã Ngôn ngữ và Quốc gia theo ISO, ví dụ: en_US, vi_VN"
+msgstr "Mã ngôn ngữ và Quốc gia theo ISO, ví dụ: en_US, vi_VN"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_lang__iso_code
@@ -19319,7 +19319,7 @@ msgstr "Mẫu import cho khách hàng"
 #: model:ir.ui.menu,name:base.menu_view_base_import_language
 #: model_terms:ir.ui.view,arch_db:base.view_base_import_language
 msgid "Import Translation"
-msgstr "Nhập Ngôn ngữ dịch"
+msgstr "Nhập ngôn ngữ dịch"
 
 #. module: base
 #: model:ir.module.module,description:base.module_currency_rate_live
@@ -19581,7 +19581,7 @@ msgstr "Cài ứng dụng"
 #. module: base
 #: model:ir.model,name:base.model_base_language_install
 msgid "Install Language"
-msgstr "Cài đặt Ngôn ngữ"
+msgstr "Cài đặt ngôn ngữ"
 
 #. module: base
 #: model:ir.actions.server,name:base.action_server_module_immediate_install
@@ -19720,17 +19720,17 @@ msgstr "Quy tắc cho SO/PO/INV đa công ty"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_groups_search
 msgid "Internal Groups"
-msgstr "Nhóm Nội bộ"
+msgstr "Nhóm nội bộ"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_partner_form
 msgid "Internal Notes"
-msgstr "Ghi chú Nội bộ"
+msgstr "Ghi chú nội bộ"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_translation__src
 msgid "Internal Source"
-msgstr "Nguồn Nội bộ"
+msgstr "Nguồn nội bộ"
 
 #. module: base
 #: model:res.groups,name:base.group_user
@@ -19740,7 +19740,7 @@ msgstr "Người sử dụng nội bộ"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_search
 msgid "Internal Users"
-msgstr "Người dùng Nội bộ"
+msgstr "Người dùng nội bộ"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_partner_form
@@ -20004,7 +20004,7 @@ msgstr "Tính năng IoT cho Lệnh làm việc"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_delivery_iot
 msgid "IoT for Delivery"
-msgstr "IoT cho Giao hàng"
+msgstr "IoT cho giao hàng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_pos_iot
@@ -20960,7 +20960,7 @@ msgstr "Nạp dữ liệu mô phỏng"
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_lang__code
 msgid "Locale Code"
-msgstr "Mã Bản địa (Locale)"
+msgstr "Mã bản địa (Locale)"
 
 #. module: base
 #: model:ir.module.category,name:base.module_category_accounting_localizations
@@ -21011,12 +21011,12 @@ msgstr "Dài"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_pos_loyalty
 msgid "Loyalty Program"
-msgstr "CT Khách hàng thân thiết"
+msgstr "CT khách hàng thân thiết"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_pos_loyalty
 msgid "Loyalty Program for the Point of Sale "
-msgstr "CT Khách hàng thân thiết cho Điểm bán lẻ "
+msgstr "CT khách hàng thân thiết cho Điểm bán lẻ "
 
 #. module: base
 #: model:ir.module.category,name:base.module_category_human_resources_lunch
@@ -21539,7 +21539,7 @@ msgstr "Tự động hóa Marketing"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_test_marketing_automation
 msgid "Marketing Automation Tests"
-msgstr "Kiểm thử Tự động hóa Marketing"
+msgstr "Kiểm thử tự động hóa Marketing"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_ma
@@ -23471,7 +23471,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_mx_edi_landing
 msgid "Odoo Mexico Localization for Stock/Landing"
-msgstr "Odoo Mexico Bản địa hóa cho kho / kho bãi"
+msgstr "Odoo Mexico bản địa hóa cho kho / kho bãi"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_web_mobile
@@ -25126,7 +25126,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_auth_password_policy
 msgid "Password Policy"
-msgstr "Chính sách Mật khẩu"
+msgstr "Chính sách mật khẩu"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_auth_password_policy_portal
@@ -26110,7 +26110,7 @@ msgstr "Mua"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_purchase_requisition
 msgid "Purchase Agreements"
-msgstr "Yêu cầu Mua sắm"
+msgstr "Yêu cầu mua sắm"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_purchase_intrastat
@@ -26155,7 +26155,7 @@ msgstr "Purchase Stock Enterprise"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_purchase_mrp
 msgid "Purchase and MRP Management"
-msgstr "Quản lý Mua hàng và SX"
+msgstr "Quản lý mua hàng và SX"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subcontracting_purchase
@@ -26303,7 +26303,7 @@ msgstr "Xây dựng báo giá"
 #: model:ir.module.module,summary:base.module_sale_expense
 #: model:ir.module.module,summary:base.module_sale_stock
 msgid "Quotation, Sales Orders, Delivery & Invoicing Control"
-msgstr "Báo giá, đơn bán, Giao hàng & Kiểm soát hoá đơn"
+msgstr "Báo giá, đơn bán, giao hàng & Kiểm soát hoá đơn"
 
 #. module: base
 #: model:ir.model,name:base.model_ir_qweb
@@ -27044,7 +27044,7 @@ msgstr "SMS Marketing"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_marketing_automation_sms
 msgid "SMS Marketing in Marketing Automation"
-msgstr "SMS Marketing trong Marketing Tự động"
+msgstr "SMS Marketing trong Marketing tự động"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_sms
@@ -27263,7 +27263,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_product_configurator
 msgid "Sale Product Configurator"
-msgstr "Trình Cấu hình sản phẩm Bán"
+msgstr "Trình cấu hình sản phẩm Bán"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_project_forecast
@@ -27452,7 +27452,7 @@ msgstr "Lịch trình chấm công khi nghỉ phép"
 #: model:ir.model.fields.selection,name:base.selection__ir_actions_server__usage__ir_cron
 #: model_terms:ir.ui.view,arch_db:base.ir_cron_view_search
 msgid "Scheduled Action"
-msgstr "Hành động Định kỳ"
+msgstr "Hành động định kỳ"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.ir_cron_act
@@ -27462,13 +27462,13 @@ msgstr "Hành động Định kỳ"
 #: model_terms:ir.ui.view,arch_db:base.ir_cron_view_search
 #: model_terms:ir.ui.view,arch_db:base.ir_cron_view_tree
 msgid "Scheduled Actions"
-msgstr "Hành động Định kỳ"
+msgstr "Hành động định kỳ"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.ir_cron_trigger_action
 #: model:ir.ui.menu,name:base.ir_cron_trigger_menu
 msgid "Scheduled Actions Triggers"
-msgstr "Bộ khởi chạy Hành động Định kỳ"
+msgstr "Bộ khởi chạy hành động định kỳ"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_cron__user_id
@@ -29158,7 +29158,7 @@ msgstr ""
 #. module: base
 #: model:ir.model.fields,help:base.field_res_lang__url_code
 msgid "The Lang Code displayed in the URL"
-msgstr "Mã Ngôn ngữ được hiển thị trong URL"
+msgstr "Mã ngôn ngữ được hiển thị trong URL"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_res_lang__grouping
@@ -29169,7 +29169,7 @@ msgid ""
 "as 106,500. Provided ',' as the thousand separator in each case."
 msgstr ""
 "Định dạng Dấu phân tách phải giống như [, n] trong đó 0 <n: bắt đầu từ chữ "
-"số Đơn vị. -1 sẽ kết thúc sự phân tách. ví dụ. [3,2, -1] sẽ đại diện cho "
+"số đơn vị. -1 sẽ kết thúc sự phân tách. ví dụ. [3,2, -1] sẽ đại diện cho "
 "106500 là 1,06,500; [1,2, -1] sẽ đại diện cho nó là 106,50,0; [3] sẽ đại "
 "diện cho nó là 106,500. Đã cung cấp ',' làm dấu phân cách hàng nghìn trong "
 "mỗi trường hợp."
@@ -29184,7 +29184,7 @@ msgid ""
 " 106,500. Provided as the thousand separator in each case."
 msgstr ""
 "Định dạng Dấu phân tách phải giống như [, n] trong đó 0 <n: bắt đầu từ chữ "
-"số Đơn vị. -1 sẽ kết thúc sự phân tách. ví dụ. [3,2, -1] sẽ đại diện cho "
+"số đơn vị. -1 sẽ kết thúc sự phân tách. ví dụ. [3,2, -1] sẽ đại diện cho "
 "106500 là 1,06,500; [1,2, -1] sẽ đại diện cho nó là 106,50,0; [3] sẽ đại "
 "diện cho nó là 106,500. Được cung cấp dưới dạng dấu phân cách nghìn trong "
 "mỗi trường hợp."
@@ -31234,7 +31234,7 @@ msgstr "Người dùng"
 #. module: base
 #: model:ir.ui.menu,name:base.next_id_2
 msgid "User Interface"
-msgstr "Giao diện Người dùng"
+msgstr "Giao diện người dùng"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_change_password_user__user_login
@@ -31268,13 +31268,13 @@ msgstr "Thay đổi mật khẩu người dùng"
 #: model_terms:ir.ui.view,arch_db:base.ir_default_search_view
 #: model_terms:ir.ui.view,arch_db:base.ir_default_tree_view
 msgid "User-defined Defaults"
-msgstr "Mặc định do Người dùng Định nghĩa"
+msgstr "Mặc định do người dùng định nghĩa"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.actions_ir_filters_view
 #: model:ir.ui.menu,name:base.menu_ir_filters
 msgid "User-defined Filters"
-msgstr "Bộ lọc do Người dùng định nghĩa"
+msgstr "Bộ lọc do người dùng định nghĩa"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_point_of_sale
@@ -31491,7 +31491,7 @@ msgstr "Nhà cung cấp"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_account_3way_match
 msgid "Vendor Bill: Release to Pay"
-msgstr "Hoá đơn Nhà cung cấp: Giao hàng rồi thanh toán"
+msgstr "Hoá đơn nhà cung cấp: Giao hàng rồi thanh toán"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.action_partner_supplier_form
@@ -31557,7 +31557,7 @@ msgstr "Kiến trúc giao diện"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_translation_search
 msgid "View ID"
-msgstr "ID Giao diện"
+msgstr "ID giao diện"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_actions_act_window__view_mode
@@ -31877,7 +31877,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_sale_product_configurator
 msgid "Website Sale Product Configurator"
-msgstr "Trình Cấu hình sản phẩm ở Website"
+msgstr "Trình cấu hình sản phẩm ở Website"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_sale_stock_product_configurator

@@ -128,7 +128,7 @@ msgstr "Client Secret"
 #. module: microsoft_calendar
 #: model:ir.model,name:microsoft_calendar.model_res_config_settings
 msgid "Config Settings"
-msgstr "Thiết lập Cấu hình"
+msgstr "Thiết lập cấu hình"
 
 #. module: microsoft_calendar
 #. openerp-web
@@ -426,7 +426,7 @@ msgstr "Mã token người dùng"
 #. module: microsoft_calendar
 #: model:ir.model.fields,field_description:microsoft_calendar.field_microsoft_calendar_account_reset__delete_policy
 msgid "User's Existing Events"
-msgstr "Sự kiện đang có của Người dùng"
+msgstr "Sự kiện đang có của người dùng"
 
 #. module: microsoft_calendar
 #: model:ir.model,name:microsoft_calendar.model_res_users

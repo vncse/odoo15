@@ -74,7 +74,7 @@ msgid ""
 "automatically created to buy the product. Tip: don't forget to set a vendor "
 "on the product."
 msgstr ""
-"Nếu đánh dấu, mỗi lần bạn bán sản phẩm này thông qua một đơn bán, một Yêu "
+"Nếu đánh dấu, mỗi lần bạn bán sản phẩm này thông qua một đơn bán, một yêu "
 "cầu báo giá sẽ được tạo tự động để mua sản phẩm này. Khuyên: Đừng quên thiết"
 " lập một nhà cung cấp ở trên form sản phẩm."
 
@@ -122,12 +122,12 @@ msgstr "Sản phẩm mà không phải dịch vụ thì không thể tạo đư�
 #. module: sale_purchase
 #: model:ir.model,name:sale_purchase.model_purchase_order
 msgid "Purchase Order"
-msgstr "Đơn Mua"
+msgstr "Đơn mua"
 
 #. module: sale_purchase
 #: model:ir.model,name:sale_purchase.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr "Dòng hàng Đơn Mua"
+msgstr "Dòng hàng đơn mua"
 
 #. module: sale_purchase
 #: code:addons/sale_purchase/models/sale_order.py:0

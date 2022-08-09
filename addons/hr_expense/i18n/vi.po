@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* hr_expense
-# 
+#
 # Translators:
 # fanha99 <fanha99@hotmail.com>, 2021
 # Phuc Tran Thanh <phuctran.odoo@gmail.com>, 2021
@@ -12,7 +12,7 @@
 # Vo Thanh Thuy, 2022
 # Duy BQ <duybq86@gmail.com>, 2022
 # Martin Trigaux, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0\n"
@@ -186,7 +186,7 @@ msgstr "Ngày kế toán"
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__message_needaction
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense_sheet__message_needaction
 msgid "Action Needed"
-msgstr "Cần có Hành động"
+msgstr "Cần có hành động"
 
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__activity_ids
@@ -453,7 +453,7 @@ msgid ""
 "Conversion between Units of Measure can only occur if they belong to the "
 "same category. The conversion will be made based on the ratios."
 msgstr ""
-"Việc chuyển đổi qua lại giữa các Đơn vị tính chỉ có thể xảy ra nếu chúng "
+"Việc chuyển đổi qua lại giữa các đơn vị tính chỉ có thể xảy ra nếu chúng "
 "thuộc cùng một nhóm. Việc chuyển đổi sẽ dựa trên tỉ lệ."
 
 #. module: hr_expense
@@ -467,7 +467,7 @@ msgstr "Tạo"
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_view_expenses_analysis_tree
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_view_form
 msgid "Create Report"
-msgstr "Tạo Bảng kê"
+msgstr "Tạo bảng kê"
 
 #. module: hr_expense
 #: model_terms:ir.actions.act_window,help:hr_expense.action_hr_expense_account
@@ -540,7 +540,7 @@ msgstr "Gửi"
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_res_config_settings__expense_alias_prefix
 msgid "Default Alias Name for Expenses"
-msgstr "Tên Bí danh Mặc định cho chi tiêu"
+msgstr "Tên Bí danh mặc định cho chi tiêu"
 
 #. module: hr_expense
 #: model:ir.model,name:hr_expense.model_hr_department
@@ -851,7 +851,7 @@ msgstr "Chi tiêu chờ Xuất hoá đơn"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.account_journal_dashboard_kanban_view_inherit_hr_expense
 msgid "Expenses to Process"
-msgstr "Chi tiêu chờ Xử lý"
+msgstr "Chi tiêu chờ xử lý"
 
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__is_refused
@@ -1251,7 +1251,7 @@ msgstr "Ghi chú..."
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__message_needaction_counter
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense_sheet__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Số lượng Hành động"
+msgstr "Số lượng hành động"
 
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__attachment_number
@@ -1633,7 +1633,7 @@ msgid ""
 "If empty, the approval is done by an Administrator or Approver (determined in settings/users)."
 msgstr ""
 "Chọn người dùng phụ trách phê duyệt \"Chi phí\" của nhân viên này.\n"
-"Nếu để trống, phê duyệt được thực hiện bởi Quản trị viên hoặc Người phê duyệt (được xác định trong cài đặt/người dùng.)"
+"Nếu để trống, phê duyệt được thực hiện bởi Quản trị viên hoặc người phê duyệt (được xác định trong cài đặt/người dùng.)"
 
 #. module: hr_expense
 #: code:addons/hr_expense/models/hr_expense.py:0
@@ -1737,7 +1737,7 @@ msgstr "Tình trạng của chi tiêu."
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.view_hr_expense_sheet_form
 msgid "Submit to Manager"
-msgstr "Trình cho Người Quản lý"
+msgstr "Trình cho người Quản lý"
 
 #. module: hr_expense
 #: model:ir.model.fields.selection,name:hr_expense.selection__hr_expense__state__reported
@@ -2127,7 +2127,7 @@ msgstr "vd: Ăn trưa"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_view_form
 msgid "e.g. Lunch with Customer"
-msgstr "vd: Ăn trưa với Khách hàng"
+msgstr "vd: Ăn trưa với khách hàng"
 
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.view_hr_expense_sheet_form
