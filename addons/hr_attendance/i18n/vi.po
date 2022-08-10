@@ -375,7 +375,7 @@ msgstr "Công ty"
 #: code:addons/hr_attendance/static/src/xml/attendance.xml:0
 #, python-format
 msgid "Company Logo"
-msgstr "Logo Công ty"
+msgstr "Logo công ty"
 
 #. module: hr_attendance
 #: model_terms:ir.ui.view,arch_db:hr_attendance.res_config_settings_view_form

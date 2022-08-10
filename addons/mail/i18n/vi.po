@@ -907,7 +907,7 @@ msgstr "Bí danh"
 #: model:ir.model.fields,field_description:mail.field_mail_alias__alias_contact
 #: model:ir.model.fields,field_description:mail.field_mail_channel__alias_contact
 msgid "Alias Contact Security"
-msgstr "An ninh về Bí danh liên hệ"
+msgstr "An ninh về bí danh liên hệ"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_res_config_settings__alias_domain
@@ -1289,7 +1289,7 @@ msgstr "Địa chỉ thuộc danh sách đen"
 #. module: mail
 #: model:ir.actions.act_window,name:mail.mail_blacklist_action
 msgid "Blacklisted Email Addresses"
-msgstr "Địa chỉ email bị liệt vào danh sách đen"
+msgstr "Danh sách đen (Email)"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_template__body_html
@@ -2765,7 +2765,7 @@ msgstr "Thoát toàn màn hình"
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.view_mail_search
 msgid "Extended Filters..."
-msgstr "Các bộ lọc Mở rộng..."
+msgstr "Các bộ lọc mở rộng..."
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_res_config_settings__fail_counter
@@ -3606,7 +3606,7 @@ msgstr ""
 #: code:addons/mail/static/src/components/channel_invitation_form/channel_invitation_form.xml:0
 #, python-format
 msgid "Invitation Link"
-msgstr "Link lời mời"
+msgstr "Liên kết mời tham gia"
 
 #. module: mail
 #: code:addons/mail/wizard/mail_wizard_invite.py:0
@@ -3645,7 +3645,7 @@ msgstr "Mời tham gia nhóm chat"
 #. module: mail
 #: model:ir.model,name:mail.model_mail_wizard_invite
 msgid "Invite wizard"
-msgstr "Đồ thuật Mời"
+msgstr "Đồ thuật mời"
 
 #. module: mail
 #: model:ir.model.fields.selection,name:mail.selection__mail_channel__public__private
@@ -4118,7 +4118,7 @@ msgstr "Luồng Mail"
 #. module: mail
 #: model:ir.model,name:mail.model_mail_tracking_value
 msgid "Mail Tracking Value"
-msgstr "Giá trị Theo vết Thư"
+msgstr "Giá trị Truy vết Thư"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_mail__is_notification
@@ -5598,14 +5598,14 @@ msgstr "Kênh riêng tư"
 #: code:addons/mail/static/src/models/discuss_sidebar_category/discuss_sidebar_category.js:0
 #, python-format
 msgid "Public Channels"
-msgstr "Kênh Công cộng"
+msgstr "Kênh công cộng"
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/components/thread_icon/thread_icon.xml:0
 #, python-format
 msgid "Public channel"
-msgstr "Kênh Công cộng"
+msgstr "Kênh công cộng"
 
 #. module: mail
 #: model:ir.model,name:mail.model_publisher_warranty_contract
@@ -6160,12 +6160,12 @@ msgstr "Ngày gửi được Ấn định"
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.view_mail_alias_search
 msgid "Search Alias"
-msgstr "Tìm kiếm Bí danh"
+msgstr "Tìm kiếm bí danh"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.mail_channel_view_search
 msgid "Search Groups"
-msgstr "Tìm kiếm Nhóm"
+msgstr "Tìm kiếm nhóm"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.mail_channel_rtc_session_view_search
@@ -6519,7 +6519,7 @@ msgstr ""
 #: code:addons/mail/static/src/components/rtc_layout_menu/rtc_layout_menu.xml:0
 #, python-format
 msgid "Spotlight"
-msgstr "Đèn sân khấu"
+msgstr "Tiêu điểm"
 
 #. module: mail
 #. openerp-web
@@ -6920,7 +6920,7 @@ msgid ""
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
 "Model (Kiểu Tài liệu Odoo) mà bí danh này ứng với nó. Bất kỳ thông điệp "
-"email mà không đáp lại (reply) một bản ghi có sẵn sẽ làm cho Hệ thống tự "
+"email mà không đáp lại (reply) một bản ghi có sẵn sẽ làm cho hệ thống tự "
 "động tạo một bản ghi mới cho model này (vd: tạo mới một Nhiệm vụ Dự án nếu "
 "model là project.task)"
 
@@ -7057,7 +7057,7 @@ msgid ""
 "storage space of your Odoo database."
 msgstr ""
 "Tùy chọn này sẽ xóa vĩnh viễn mọi dấu vết của email sau khi nó được gửi đi, "
-"bao gồm cả từ menu Kỹ thuật trong Cài đặt, để duy trì không gian lưu trữ "
+"bao gồm cả từ menu Kỹ thuật trong cài đặt, để duy trì không gian lưu trữ "
 "trong cơ sở dữ liệu của bạn."
 
 #. module: mail
@@ -7092,7 +7092,7 @@ msgstr "Ảnh luồng"
 #: code:addons/mail/static/src/components/rtc_layout_menu/rtc_layout_menu.xml:0
 #, python-format
 msgid "Tiled"
-msgstr ""
+msgstr "Lưới"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_guest__timezone
@@ -7188,19 +7188,19 @@ msgstr ""
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.mail_message_view_form
 msgid "Tracking"
-msgstr "Theo vết"
+msgstr "Truy vết"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.view_mail_tracking_value_form
 #: model_terms:ir.ui.view,arch_db:mail.view_mail_tracking_value_tree
 msgid "Tracking Value"
-msgstr "Giá trị Truy vết"
+msgstr "Giá trị truy vết"
 
 #. module: mail
 #: model:ir.actions.act_window,name:mail.action_view_mail_tracking_value
 #: model:ir.ui.menu,name:mail.menu_mail_tracking_value
 msgid "Tracking Values"
-msgstr "Giá trị Truy vết"
+msgstr "Giá trị truy vết"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_tracking_value__tracking_sequence
@@ -7211,7 +7211,7 @@ msgstr "Theo dõi thứ tự trường"
 #: model:ir.model.fields,field_description:mail.field_mail_mail__tracking_value_ids
 #: model:ir.model.fields,field_description:mail.field_mail_message__tracking_value_ids
 msgid "Tracking values"
-msgstr "Giá trị Truy vết"
+msgstr "Giá trị truy vết"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_activity_type__triggered_next_type_id

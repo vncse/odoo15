@@ -305,7 +305,7 @@ msgstr "<span class=\"o_form_label\">Email xác nhận</span>"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
 msgid "<span class=\"o_form_label\">Invoicing Policy</span>"
-msgstr "<span class=\"o_form_label\">Chính sách Xuất hoá đơn</span>"
+msgstr "<span class=\"o_form_label\">Chính sách xuất hoá đơn</span>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.extra_info
@@ -876,7 +876,7 @@ msgstr "Địa chỉ xuất hóa đơn"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.checkout
 msgid "Billing Address"
-msgstr "Địa chỉ Xuất hoá đơn"
+msgstr "Địa chỉ xuất hoá đơn"
 
 #. module: website_sale
 #: code:addons/website_sale/models/website_snippet_filter.py:0
@@ -1117,7 +1117,7 @@ msgstr "Công ty"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.address_b2b
 msgid "Company Name"
-msgstr "Tên Công ty"
+msgstr "Tên công ty"
 
 #. module: website_sale
 #: model:product.public.category,name:website_sale.public_category_desks_components
@@ -2176,7 +2176,7 @@ msgstr "Theo dõi đơn bán"
 #. module: website_sale
 #: model:ir.actions.act_window,name:website_sale.sale_order_action_to_invoice
 msgid "Orders To Invoice"
-msgstr "Đơn chờ Xuất hoá đơn"
+msgstr "Đơn chờ xuất hoá đơn"
 
 #. module: website_sale
 #. openerp-web
@@ -2963,7 +2963,7 @@ msgstr "Hiển thị giỏ hàng trống"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.products_categories
 msgid "Show categories"
-msgstr "Hiển thị Nhóm"
+msgstr "Hiển thị nhóm"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.products_attributes

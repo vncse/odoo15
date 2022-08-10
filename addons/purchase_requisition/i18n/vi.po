@@ -33,7 +33,7 @@ msgstr "'Mời thầu - %s' % (object.name)"
 #. module: purchase_requisition
 #: model_terms:ir.ui.view,arch_db:purchase_requisition.report_purchaserequisitions
 msgid "<strong>Call for Tender Reference:</strong><br/>"
-msgstr "<strong>Tham chiếu Hồ sơ Mời thầu:</strong><br/>"
+msgstr "<strong>Tham chiếu hồ sơ mời thầu:</strong><br/>"
 
 #. module: purchase_requisition
 #: model_terms:ir.ui.view,arch_db:purchase_requisition.report_purchaserequisitions
@@ -73,7 +73,7 @@ msgstr "<strong>Ngày đặt hàng kế hoạch:</strong><br/>"
 #. module: purchase_requisition
 #: model_terms:ir.ui.view,arch_db:purchase_requisition.report_purchaserequisitions
 msgid "<strong>Selection Type:</strong><br/>"
-msgstr "<strong>Kiểu Lựa chọn</strong><br/>"
+msgstr "<strong>Kiểu lựa chọn</strong><br/>"
 
 #. module: purchase_requisition
 #: model_terms:ir.ui.view,arch_db:purchase_requisition.report_purchaserequisitions
@@ -128,7 +128,7 @@ msgstr "Hạn chót Đặt hàng"
 #. module: purchase_requisition
 #: model:ir.model.fields,field_description:purchase_requisition.field_purchase_requisition_type__exclusive
 msgid "Agreement Selection Type"
-msgstr "Kiểu Lựa chọn"
+msgstr "Kiểu lựa chọn"
 
 #. module: purchase_requisition
 #: model:ir.model.fields,field_description:purchase_requisition.field_purchase_requisition__type_id
@@ -454,7 +454,7 @@ msgstr "Hoạt động trễ"
 #. module: purchase_requisition
 #: model:ir.model.fields,field_description:purchase_requisition.field_purchase_requisition_type__line_copy
 msgid "Lines"
-msgstr "Dòng Chi tiết"
+msgstr "Dòng chi tiết"
 
 #. module: purchase_requisition
 #: model:ir.model.fields,field_description:purchase_requisition.field_purchase_requisition__message_main_attachment_id
@@ -566,7 +566,7 @@ msgstr "Số lượng Đặt hàng"
 #: model:ir.model.fields,field_description:purchase_requisition.field_purchase_requisition__ordering_date
 #: model_terms:ir.ui.view,arch_db:purchase_requisition.view_purchase_requisition_filter
 msgid "Ordering Date"
-msgstr "Ngày Mời thầu"
+msgstr "Ngày mời thầu"
 
 #. module: purchase_requisition
 #: model:ir.model.fields,field_description:purchase_requisition.field_product_product__purchase_requisition
@@ -605,7 +605,7 @@ msgstr "Sản phẩm cần mua"
 #. module: purchase_requisition
 #: model:ir.model.fields.selection,name:purchase_requisition.selection__product_template__purchase_requisition__tenders
 msgid "Propose a call for tenders"
-msgstr "Đề xuất một Hồ sơ mời thầu"
+msgstr "Đề xuất một hồ sơ mời thầu"
 
 #. module: purchase_requisition
 #: model:ir.model.fields,field_description:purchase_requisition.field_purchase_order__requisition_id

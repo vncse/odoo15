@@ -235,7 +235,7 @@ msgstr "Đăng ký không được cho phép đối với cơ sở dữ liệu n
 #. module: auth_oauth
 #: model:ir.model,name:auth_oauth.model_ir_config_parameter
 msgid "System Parameter"
-msgstr "Thông số Hệ thống"
+msgstr "Thông số hệ thống"
 
 #. module: auth_oauth
 #: model:ir.model.fields,field_description:auth_oauth.field_auth_oauth_provider__validation_endpoint

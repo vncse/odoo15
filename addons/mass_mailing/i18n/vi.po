@@ -73,7 +73,7 @@ msgstr "%s (bản sao)"
 #: code:addons/mass_mailing/wizard/mailing_contact_to_list.py:0
 #, python-format
 msgid "%s Mailing Contacts have been added. "
-msgstr "%s Liên hệ gửi thư đã được thêm."
+msgstr "%s liên hệ gửi thư đã được thêm."
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_mail_block_steps
@@ -949,7 +949,7 @@ msgstr "Có lỗi xảy ra. Thay đổi có thể không được lưu, thử l�
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_masonry_block_reversed_template
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_masonry_block_texts_image_texts_template
 msgid "And a great subtitle"
-msgstr "Và một tiêu đề phụ lôi cuốn"
+msgstr "Và một phụ đề lôi cuốn"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_color_blocks_2
@@ -1085,7 +1085,7 @@ msgstr "Địa chỉ thuộc danh sách đen"
 #. module: mass_mailing
 #: model:ir.ui.menu,name:mass_mailing.mail_blacklist_mm_menu
 msgid "Blacklisted Email Addresses"
-msgstr "Địa chỉ email bị liệt vào danh sách đen"
+msgstr "Danh sách đen (Email)"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_mailing__body_arch
@@ -1391,12 +1391,12 @@ msgstr "Công ty"
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_contact__company_name
 msgid "Company Name"
-msgstr "Tên Công ty"
+msgstr "Tên công ty"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.layout
 msgid "Company name"
-msgstr "Tên Công ty"
+msgstr "Tên công ty"
 
 #. module: mass_mailing
 #: model:ir.model,name:mass_mailing.model_res_config_settings
@@ -2611,7 +2611,7 @@ msgstr "Gửi thư hàng loạt"
 #. module: mass_mailing
 #: model:ir.actions.act_window,name:mass_mailing.mailing_trace_report_action_mail
 msgid "Mass Mailing Analysis"
-msgstr "Phân tích Gửi thư hàng loạt"
+msgstr "Phân tích gửi thư hàng loạt"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_account_invoice_send__campaign_id
@@ -2731,7 +2731,7 @@ msgstr ""
 #. module: mass_mailing
 #: model:ir.model.fields.selection,name:mass_mailing.selection__mailing_trace__failure_type__mail_email_missing
 msgid "Missing email address"
-msgstr ""
+msgstr "Thiếu địa chỉ email"
 
 #. module: mass_mailing
 #: model:ir.model,name:mass_mailing.model_ir_model
@@ -2874,7 +2874,7 @@ msgstr "Không hỗ trợ"
 #: model_terms:ir.ui.view,arch_db:mass_mailing.mailing_mailing_view_form_full_width
 #: model_terms:ir.ui.view,arch_db:mass_mailing.view_mail_mass_mailing_form
 msgid "No template picked yet."
-msgstr ""
+msgstr "Chưa có template nào được chọn."
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.snippet_options
@@ -2900,22 +2900,22 @@ msgstr "Số lượng hành động"
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_list__contact_count_blacklisted
 msgid "Number of Blacklisted"
-msgstr ""
+msgstr "Số lượng danh sách đen"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_mailing__clicks_ratio
 msgid "Number of Clicks"
-msgstr "Số lượng Click"
+msgstr "Số lượng click"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_list__contact_count
 msgid "Number of Contacts"
-msgstr "Số lượng Liên hệ"
+msgstr "Số lượng liên hệ"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_list__contact_count_email
 msgid "Number of Emails"
-msgstr ""
+msgstr "Số lượng email"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_list__mailing_count
@@ -2980,12 +2980,12 @@ msgstr ""
 #: code:addons/mass_mailing/models/mailing.py:0
 #, python-format
 msgid "OPENED (%i)"
-msgstr ""
+msgstr "ĐÃ MỞ (%i)"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.layout
 msgid "Odoo"
-msgstr "Viindoo"
+msgstr "Odoo"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_image_text

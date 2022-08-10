@@ -206,7 +206,7 @@ msgstr "Hồ sơ"
 #. module: hr_skills
 #: model:ir.actions.act_window,name:hr_skills.hr_resume_type_action
 msgid "Resumé Line Types"
-msgstr "Kiểu Chi tiết Hồ sơ"
+msgstr "Kiểu chi tiết hồ sơ"
 
 #. module: hr_skills
 #. openerp-web

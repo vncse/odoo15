@@ -368,7 +368,7 @@ msgstr ""
 msgid "UoM category %s should have a reference unit of measure."
 msgstr ""
 "Nhóm đơn vị %s cần phải có đơn vị gốc. Nếu bạn vừa tạo"
-" một Nhóm mới, hãy chọn một đơn vị gốc trước."
+" một nhóm mới, hãy chọn một đơn vị gốc trước."
 
 #. module: uom
 #: code:addons/uom/models/uom_uom.py:0
@@ -415,7 +415,7 @@ msgid ""
 "            Measure within the same category."
 msgstr ""
 "Bạn phải định nghĩa một tỉ lệ chuyển đổi giữa các đơn vị\n"
-"            Đo lường trong cùng một Nhóm"
+"            Đo lường trong cùng một nhóm"
 
 #. module: uom
 #: model:uom.uom,name:uom.product_uom_cm

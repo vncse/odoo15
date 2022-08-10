@@ -544,7 +544,7 @@ msgid ""
 "The Administrator can set default Terms & Conditions in Sales Settings. "
 "Terms set here will show up instead if you select this quotation template."
 msgstr ""
-"Quản trị viên có thể đặt Điều khoản & Điều kiện mặc định trong Cài đặt bán "
+"Quản trị viên có thể đặt Điều khoản & Điều kiện mặc định trong cài đặt bán "
 "hàng. Điều khoản đặt ở đây sẽ hiển thị thay thế nếu bạn chọn mẫu báo giá "
 "này. "
 

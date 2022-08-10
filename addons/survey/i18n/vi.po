@@ -893,7 +893,7 @@ msgstr "Trả lời"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_user_input_line__answer_type
 msgid "Answer Type"
-msgstr "Kiểu Trả lời"
+msgstr "Kiểu trả lời"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_invite__deadline
@@ -979,7 +979,7 @@ msgstr "Đính kèm"
 #: model:ir.model.fields,field_description:survey.field_survey_user_input__attempts_number
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_view_form
 msgid "Attempt n°"
-msgstr "Số lần Thử lại"
+msgstr "Số lần thử lại"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__answer_done_count
@@ -1221,7 +1221,7 @@ msgstr "Trung Quốc"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_question_form
 msgid "Choices"
-msgstr "Các Lựa chọn"
+msgstr "Các lựa chọn"
 
 #. module: survey
 #: model:ir.model.fields.selection,name:survey.selection__survey_survey__certification_report_layout__classic_blue
@@ -1279,7 +1279,7 @@ msgstr "Bình luận"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_question__comment_count_as_answer
 msgid "Comment Field is an Answer Choice"
-msgstr "Trường Bình luận là một Lựa chọn Trả lời"
+msgstr "Trường Bình luận là một lựa chọn trả lời"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_question__comments_message
@@ -1290,7 +1290,7 @@ msgstr "Lời bình"
 #: model:ir.model.fields,field_description:survey.field_res_partner__certifications_company_count
 #: model:ir.model.fields,field_description:survey.field_res_users__certifications_company_count
 msgid "Company Certifications Count"
-msgstr "SL Chứng nhận Công ty"
+msgstr "SL Chứng nhận công ty"
 
 #. module: survey
 #: model:ir.model.fields.selection,name:survey.selection__survey_user_input__state__done
@@ -1817,12 +1817,12 @@ msgstr "Font awesome, ví dụ: fa-tasks"
 #. module: survey
 #: model:ir.model.fields.selection,name:survey.selection__survey_user_input_line__answer_type__text_box
 msgid "Free Text"
-msgstr "Chữ Tự do"
+msgstr "Chữ tự do"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_user_input_line__value_text_box
 msgid "Free Text answer"
-msgstr "Câu trả lời với Chữ Tự do"
+msgstr "Câu trả lời với Chữ tự do"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_invite__email_from

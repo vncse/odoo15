@@ -34,7 +34,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:product.field_product_product__product_variant_count
 #: model:ir.model.fields,field_description:product.field_product_template__product_variant_count
 msgid "# Product Variants"
-msgstr "SL Biến thể sản phẩm"
+msgstr "SL biến thể sản phẩm"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_category__product_count
@@ -409,7 +409,7 @@ msgstr "Dòng thuộc tính"
 #: model_terms:ir.ui.view,arch_db:product.product_attribute_view_form
 #: model_terms:ir.ui.view,arch_db:product.product_template_attribute_line_form
 msgid "Attribute Name"
-msgstr "Tên Thuộc tính"
+msgstr "Tên thuộc tính"
 
 #. module: product
 #: model:ir.model,name:product.model_product_attribute_value
@@ -417,14 +417,14 @@ msgstr "Tên Thuộc tính"
 #: model:ir.model.fields,field_description:product.field_product_template_attribute_exclusion__product_template_attribute_value_id
 #: model:ir.model.fields,field_description:product.field_product_template_attribute_value__product_attribute_value_id
 msgid "Attribute Value"
-msgstr "Giá trị Thuộc tính"
+msgstr "Giá trị thuộc tính"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__product_template_attribute_value_ids
 #: model:ir.model.fields,field_description:product.field_product_template_attribute_exclusion__value_ids
 #: model_terms:ir.ui.view,arch_db:product.product_attribute_view_form
 msgid "Attribute Values"
-msgstr "Giá trị Thuộc tính"
+msgstr "Giá trị thuộc tính"
 
 #. module: product
 #: model:ir.actions.act_window,name:product.attribute_action
@@ -1575,7 +1575,7 @@ msgstr "Quản lý đóng gói sản phẩm"
 #. module: product
 #: model:res.groups,name:product.group_product_variant
 msgid "Manage Product Variants"
-msgstr "Quản lý Biến thể sản phẩm"
+msgstr "Quản lý biến thể sản phẩm"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_pricelist_item_form_view
@@ -2048,7 +2048,7 @@ msgstr "Giá trị thuộc tính"
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_template_attribute_line_form
 msgid "Product Attribute and Values"
-msgstr "Thuộc tính và giá trị Thuộc tính sản phẩm"
+msgstr "Thuộc tính và giá trị thuộc tính sản phẩm"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__attribute_line_ids
@@ -2148,7 +2148,7 @@ msgstr "Dòng thuộc tính mẫu sản phẩm"
 #. module: product
 #: model:ir.model,name:product.model_product_template_attribute_value
 msgid "Product Template Attribute Value"
-msgstr "Giá trị Thuộc tính mẫu sản phẩm"
+msgstr "Giá trị thuộc tính mẫu sản phẩm"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_label_layout__product_tmpl_ids
@@ -2968,7 +2968,7 @@ msgstr "Biến thể"
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_supplierinfo__product_variant_count
 msgid "Variant Count"
-msgstr "SL Biến thể"
+msgstr "SL biến thể"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__image_variant_1920
@@ -2998,12 +2998,12 @@ msgstr "Hình ảnh biến thể 512"
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_variant_easy_edit_view
 msgid "Variant Information"
-msgstr "Thông tin Biến thể"
+msgstr "Thông tin biến thể"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__price_extra
 msgid "Variant Price Extra"
-msgstr "Giá Cộng thêm cho Biến thể"
+msgstr "Giá Cộng thêm cho biến thể"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__variant_seller_ids

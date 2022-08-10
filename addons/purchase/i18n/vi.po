@@ -776,12 +776,12 @@ msgstr "Hoá đơn đã nhận"
 #: model:ir.model.fields.selection,name:purchase.selection__product_template__purchase_line_warn__block
 #: model:ir.model.fields.selection,name:purchase.selection__res_partner__purchase_warn__block
 msgid "Blocking Message"
-msgstr "Thông điệp Chặn"
+msgstr "Thông điệp chặn"
 
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.purchase_order_calendar
 msgid "Calendar View"
-msgstr "Giao diện Lịch"
+msgstr "Giao diện lịch"
 
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.res_config_settings_view_form_purchase
@@ -2260,7 +2260,7 @@ msgstr "Y/c báo giá và đơn mua"
 #. module: purchase
 #: model:ir.model.fields,help:purchase.field_purchase_order__currency_rate
 msgid "Ratio between the purchase order currency and the company currency"
-msgstr "Tỷ lệ tiền tệ của đơn mua hàng và tiền tệ Công ty"
+msgstr "Tỷ lệ tiền tệ của đơn mua hàng và tiền tệ công ty"
 
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.purchase_order_form

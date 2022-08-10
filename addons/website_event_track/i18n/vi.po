@@ -635,7 +635,7 @@ msgstr "Công ty"
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__partner_company_name
 msgid "Company Name"
-msgstr "Tên Công ty"
+msgstr "Tên công ty"
 
 #. module: website_event_track
 #: model:ir.model,name:website_event_track.model_res_config_settings
@@ -942,7 +942,7 @@ msgstr "Giai đoạn bài sự kiện"
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_tag_form
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_tag_tree
 msgid "Event Track Tag"
-msgstr "Thẻ Theo vết sự kiện"
+msgstr "Thẻ truy vết sự kiện"
 
 #. module: website_event_track
 #: model:ir.model,name:website_event_track.model_event_track_tag_category
@@ -955,7 +955,7 @@ msgstr "Danh mục thẻ của bài sự kiện"
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_calendar
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_search
 msgid "Event Tracks"
-msgstr "Theo vết sự kiện"
+msgstr "Truy vết sự kiện"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_event__track_menu_ids

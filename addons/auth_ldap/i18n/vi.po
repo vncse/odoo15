@@ -60,7 +60,7 @@ msgstr "Công ty"
 #. module: auth_ldap
 #: model:ir.model,name:auth_ldap.model_res_company_ldap
 msgid "Company LDAP configuration"
-msgstr "Cấu hình LDAP Công ty"
+msgstr "Cấu hình LDAP công ty"
 
 #. module: auth_ldap
 #: model:ir.model,name:auth_ldap.model_res_config_settings

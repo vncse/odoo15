@@ -185,7 +185,7 @@ msgstr ""
 #: code:addons/website_twitter/controllers/main.py:0
 #, python-format
 msgid "Please set the Twitter API Key and Secret in the Website Settings."
-msgstr "Hãy đặt Twitter API Key và Secret trong Cài đặt website"
+msgstr "Hãy đặt Twitter API Key và Secret trong cài đặt website"
 
 #. module: website_twitter
 #. openerp-web

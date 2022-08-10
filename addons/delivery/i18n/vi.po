@@ -1007,7 +1007,7 @@ msgstr "Truy vết"
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_stock_picking__carrier_tracking_ref
 msgid "Tracking Reference"
-msgstr "Mã số Truy vết"
+msgstr "Mã số truy vết"
 
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_stock_picking__carrier_tracking_url

@@ -358,7 +358,7 @@ msgstr "Lead Recall"
 #. module: utm
 #: model:ir.ui.menu,name:utm.menu_link_tracker_root
 msgid "Link Tracker"
-msgstr "Theo vết Link"
+msgstr "Truy vết Link"
 
 #. module: utm
 #: model:utm.source,name:utm.utm_source_linkedin

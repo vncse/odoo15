@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* website_slides
-# 
+#
 # Translators:
 # Dao Nguyen <trucdao.uel@gmail.com>, 2021
 # sao sang <saosangmo@yahoo.com>, 2021
@@ -13,7 +13,7 @@
 # Nancy Momoland <thanhnguyen.icsc@gmail.com>, 2021
 # Thang Duong Bao <nothingctrl@gmail.com>, 2021
 # Vo Thanh Thuy, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0\n"
@@ -1573,7 +1573,7 @@ msgstr "Thẻ Kênh/Khóa học"
 #. module: website_slides
 #: model:mail.template,name:website_slides.mail_template_slide_channel_invite
 msgid "Channel: Invite by email"
-msgstr "Kênh: Mời qua email "
+msgstr "Kênh: mời qua email "
 
 #. module: website_slides
 #: model:ir.model.fields,field_description:website_slides.field_slide_channel_tag__channel_ids
@@ -5925,7 +5925,7 @@ msgstr "ví dụ: Giới thiệu"
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.slide_channel_tag_group_view_form
 msgid "e.g. Your Level"
-msgstr "ví dụ: Cấp của bạn"
+msgstr "ví dụ: cấp của bạn"
 
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_form

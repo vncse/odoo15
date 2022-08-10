@@ -217,7 +217,7 @@ msgstr "/ (số ngày + 2) **"
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.display_post_question_block
 msgid "0 Answers"
-msgstr "0 Trả lời"
+msgstr "0 trả lời"
 
 #. module: website_forum
 #. openerp-web
@@ -830,7 +830,7 @@ msgstr "Tất cả"
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.forum_nav_header
 msgid "All Forums"
-msgstr "Tất cả Diễn đàn"
+msgstr "Tất cả diễn đàn"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.header
@@ -846,12 +846,12 @@ msgstr "Tất cả các chủ đề"
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.forum_nav_header
 msgid "All forums"
-msgstr "Tất cả các Diễn đàn"
+msgstr "Tất cả các diễn đàn"
 
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_forum__allow_bump
 msgid "Allow Bump"
-msgstr "Cho phép Đẩy lên"
+msgstr "Cho phép đẩy lên"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.forum_index
@@ -1102,7 +1102,7 @@ msgstr "Có thể Chấp thuận"
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_post__can_answer
 msgid "Can Answer"
-msgstr "Có thể Trả lời"
+msgstr "Có thể trả lời"
 
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_post__can_ask
@@ -1813,7 +1813,7 @@ msgstr "Diễn đàn"
 #: code:addons/website_forum/static/src/xml/website_forum_templates.xml:0
 #, python-format
 msgid "Forum Mode"
-msgstr "Chế độ Diễn đàn"
+msgstr "Chế độ diễn đàn"
 
 #. module: website_forum
 #. openerp-web
@@ -1821,7 +1821,7 @@ msgstr "Chế độ Diễn đàn"
 #: model:ir.model.fields,field_description:website_forum.field_forum_forum__name
 #, python-format
 msgid "Forum Name"
-msgstr "Tên Diễn đàn"
+msgstr "Tên diễn đàn"
 
 #. module: website_forum
 #: model:ir.model,name:website_forum.model_forum_post
@@ -1838,7 +1838,7 @@ msgstr "Bài viết"
 #. module: website_forum
 #: model:ir.model,name:website_forum.model_forum_tag
 msgid "Forum Tag"
-msgstr "Từ khoá Diễn đàn"
+msgstr "Từ khoá diễn đàn"
 
 #. module: website_forum
 #: model:ir.actions.act_window,name:website_forum.action_forum_forum
@@ -1851,7 +1851,7 @@ msgstr "Diễn đàn"
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_website__forums_count
 msgid "Forums Count"
-msgstr "Số lượng Diễn đàn"
+msgstr "Số lượng diễn đàn"
 
 #. module: website_forum
 #: model:ir.model,name:website_forum.model_gamification_challenge
@@ -2349,7 +2349,7 @@ msgstr "Bầu chọn của tôi"
 #: model_terms:ir.ui.view,arch_db:website_forum.forum_nav_header
 #: model_terms:ir.ui.view,arch_db:website_forum.user_sidebar
 msgid "My profile"
-msgstr "Hồ sơ Cá nhân"
+msgstr "Hồ sơ cá nhân"
 
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_tag__name
@@ -2645,7 +2645,7 @@ msgstr "Đăng"
 #: model_terms:ir.ui.view,arch_db:website_forum.post_answer
 #: model_terms:ir.ui.view,arch_db:website_forum.post_reply
 msgid "Post Answer"
-msgstr "Đăng Trả lời"
+msgstr "Đăng trả lời"
 
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_post__child_ids
@@ -2919,7 +2919,7 @@ msgstr "Lý do"
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_post_reason__reason_type
 msgid "Reason Type"
-msgstr "Kiểu Lý do"
+msgstr "Kiểu lý do"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.close_post
@@ -3701,7 +3701,7 @@ msgstr "Lịch sử thông tin liên lạc website"
 #: model:ir.model.fields,field_description:website_forum.field_forum_post__website_meta_description
 #: model:ir.model.fields,field_description:website_forum.field_forum_tag__website_meta_description
 msgid "Website meta description"
-msgstr "Dữ liệu Mô tả Website"
+msgstr "Dữ liệu mô tả Website"
 
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_forum__website_meta_keywords

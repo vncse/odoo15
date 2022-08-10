@@ -4146,7 +4146,7 @@ msgstr "Chỉnh sửa tin nhắn"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_features_grid
 msgid "Edit Styles"
-msgstr "Sửa Phong cách"
+msgstr "Sửa phong cách"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.user_navbar
@@ -4366,7 +4366,7 @@ msgstr ""
 #. module: website
 #: model:ir.model.fields.selection,name:website.selection__theme_ir_ui_view__mode__extension
 msgid "Extension View"
-msgstr "Giao diện Mở rộng"
+msgstr "Giao diện mở rộng"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_actions_server__xml_id
@@ -4772,7 +4772,7 @@ msgstr "Đóng khung"
 #. module: website
 #: model:ir.model.fields.selection,name:website.selection__website__auth_signup_uninvited__b2c
 msgid "Free sign up"
-msgstr "Đăng ký Tự do"
+msgstr "Đăng ký tự do"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_facebook_page_options
@@ -5295,7 +5295,7 @@ msgid ""
 "Hint: How to use Google Map on your website (Contact Us page and as a "
 "snippet)"
 msgstr ""
-"Gợi ý: Cách sử dụng Google Map trên trang web của bạn (Trang Liên hệ với "
+"Gợi ý: Cách sử dụng Google Map trên trang web của bạn (Trang liên hệ với "
 "chúng tôi và dưới dạng một đoạn trích)"
 
 #. module: website
@@ -7226,7 +7226,7 @@ msgstr "Trên Website"
 #. module: website
 #: model:ir.model.fields.selection,name:website.selection__website__auth_signup_uninvited__b2b
 msgid "On invitation"
-msgstr "Khi được Mời"
+msgstr "Khi được mời"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -9268,7 +9268,7 @@ msgstr "Màu chữ"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_text_highlight
 msgid "Text Highlight"
-msgstr "Tiêu đề Nội dung nhấn mạnh"
+msgstr "Tiêu đề nội dung nhấn mạnh"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_masonry_block_options
@@ -9887,7 +9887,7 @@ msgstr "Theo dõi khách truy cập"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
 msgid "Track visits in Google Analytics"
-msgstr "Theo vết truy cập trong Google Analytics"
+msgstr "Truy vết truy cập trong Google Analytics"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.website_pages_view_search
@@ -9904,7 +9904,7 @@ msgstr "Giao dịch"
 #: code:addons/website/static/src/js/menu/translate.js:0
 #, python-format
 msgid "Translate Attribute"
-msgstr "Dịch Thuộc tính"
+msgstr "Dịch thuộc tính"
 
 #. module: website
 #. openerp-web
@@ -10140,7 +10140,7 @@ msgstr "Dùng Google Map cho website của bạn ("
 #, python-format
 msgid "Use Google Map on your website (Contact Us page, snippets, etc)."
 msgstr ""
-"Dùng Google Map trên trang web của bạn (trang Liên hệ với chúng tôi, các "
+"Dùng Google Map trên trang web của bạn (trang liên hệ với chúng tôi, các "
 "đoạn trích, v.v.)."
 
 #. module: website
@@ -10680,7 +10680,7 @@ msgstr "Website"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings__website_company_id
 msgid "Website Company"
-msgstr "Website Công ty"
+msgstr "Website công ty"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_configurator_feature__website_config_preselection
@@ -10863,7 +10863,7 @@ msgstr "Trình đơn website"
 #: model:ir.model.fields,field_description:website.field_website_page__website_meta_description
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata__website_meta_description
 msgid "Website meta description"
-msgstr "Dữ liệu Mô tả Website"
+msgstr "Dữ liệu mô tả Website"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_ui_view__website_meta_keywords

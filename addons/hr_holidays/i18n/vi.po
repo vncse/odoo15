@@ -1282,8 +1282,8 @@ msgid ""
 "By Employee: Allocation/Request for individual Employee, By Employee Tag: "
 "Allocation/Request for group of employees in category"
 msgstr ""
-"Theo nhân viên: cấp phát / yêu cầu cho một Nhân viên, theo Nhóm nhân viên "
-"(tags): cấp phát / yêu cầu các Nhân viên có cùng Nhóm (tags)"
+"Theo nhân viên: cấp phát / yêu cầu cho một Nhân viên, theo nhóm nhân viên "
+"(tags): cấp phát / yêu cầu các Nhân viên có cùng nhóm (tags)"
 
 #. module: hr_holidays
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_type__leave_validation_type__hr
@@ -1384,7 +1384,7 @@ msgstr "Công ty"
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave__mode_company_id
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave_allocation__mode_company_id
 msgid "Company Mode"
-msgstr "Chế độ Công ty"
+msgstr "Chế độ công ty"
 
 #. module: hr_holidays
 #: model:hr.leave.type,name:hr_holidays.holiday_status_comp
@@ -1615,7 +1615,7 @@ msgstr "Tùy chọn hiển thị"
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave_type__create_calendar_meeting
 msgid "Display Time Off in Calendar"
-msgstr "Hiện nghỉ ở Lịch"
+msgstr "Hiện nghỉ ở lịch"
 
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.hr_leave_allocation_view_kanban

@@ -501,7 +501,7 @@ msgid ""
 " company currency if that is not set."
 msgstr ""
 "Tất cả các phương thức thanh toán phải được thiết lập cùng tiền tệ với Sổ "
-"Nhật ký bán hàng hoặc Công ty nếu chưa thiết lập sổ."
+"Nhật ký bán hàng hoặc công ty nếu chưa thiết lập sổ."
 
 #. module: point_of_sale
 #: model:ir.actions.act_window,name:point_of_sale.action_pos_all_sales_lines
@@ -1046,7 +1046,7 @@ msgstr "Tên danh mục"
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
 msgid "Category Pictures"
-msgstr "Hình Nhóm sản phẩm"
+msgstr "Hình nhóm sản phẩm"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_product_product__pos_categ_id
@@ -1962,7 +1962,7 @@ msgstr "Bỏ qua"
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__iface_display_categ_images
 msgid "Display Category Pictures"
-msgstr "Hiện Hình của Nhóm sản phẩm"
+msgstr "Hiện Hình của nhóm sản phẩm"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_bill__display_name
@@ -2244,7 +2244,7 @@ msgstr "Tài chính"
 #: code:addons/point_of_sale/static/src/xml/Popups/OrderImportPopup.xml:0
 #, python-format
 msgid "Finished Importing Orders"
-msgstr "Đã Hoàn tất Nhập đơn hàng"
+msgstr "Đã hoàn tất Nhập đơn hàng"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_order__fiscal_position_id
@@ -2628,7 +2628,7 @@ msgid ""
 "                Invocing/Accounting app will create Bank and Cash payment\n"
 "                methods automatically."
 msgstr ""
-"Cài đặt hệ thống tài khoản từ Cài đặt chung của ứng dụng\n"
+"Cài đặt hệ thống tài khoản từ cài đặt chung của ứng dụng\n"
 "                Lập hóa đơn/Kế toán sẽ tự động tạo phương thức thanh toán\n"
 "                Ngân hàng và Tiền mặt.."
 
@@ -2772,7 +2772,7 @@ msgstr "Sử dụng tiền tệ công ty hiện hành"
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__module_pos_restaurant
 msgid "Is a Bar/Restaurant"
-msgstr "Là một Nhà hàng/Quầy Bar"
+msgstr "Là một nhà hàng/Quầy Bar"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__is_installed_account_accountant
@@ -3678,7 +3678,7 @@ msgstr "Tiền mặt khi mở"
 #. module: point_of_sale
 #: model:ir.actions.act_window,name:point_of_sale.account_cashbox_line_action
 msgid "Opening/Closing Values"
-msgstr "Giá trị Mở/Đóng"
+msgstr "Giá trị mở/Đóng"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__picking_type_id
@@ -4233,7 +4233,7 @@ msgstr "Các đơn hàng POS"
 #: model:ir.ui.menu,name:point_of_sale.menu_products_pos_category
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
 msgid "PoS Product Categories"
-msgstr "Các Nhóm sản phẩm PoS"
+msgstr "Các nhóm sản phẩm PoS"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.product_pos_category_tree_view
@@ -6339,7 +6339,7 @@ msgid ""
 "This sequence is automatically created by Odoo but you can change it to "
 "customize the reference numbers of your orders lines."
 msgstr ""
-"Thứ tự này được tạo tự động bởi Hệ thống nhưng bạn có thể thay đổi nó để tùy"
+"Thứ tự này được tạo tự động bởi hệ thống nhưng bạn có thể thay đổi nó để tùy"
 " chỉnh số tham chiếu của các dòng đơn hàng của bạn."
 
 #. module: point_of_sale
@@ -6348,7 +6348,7 @@ msgid ""
 "This sequence is automatically created by Odoo but you can change it to "
 "customize the reference numbers of your orders."
 msgstr ""
-"Thứ tự này được tạo tự động bởi Hệ thống nhưng bạn có thể thay đổi nó để tùy"
+"Thứ tự này được tạo tự động bởi hệ thống nhưng bạn có thể thay đổi nó để tùy"
 " chỉnh số tham chiếu của đơn hàng của bạn."
 
 #. module: point_of_sale
@@ -7120,7 +7120,7 @@ msgstr "VD: Tiền mặt"
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
 msgid "e.g. Company Address, Website"
-msgstr "vd: Địa chỉ Công ty, Website"
+msgstr "vd: Địa chỉ công ty, Website"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form

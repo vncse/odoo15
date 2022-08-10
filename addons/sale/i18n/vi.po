@@ -695,7 +695,7 @@ msgstr "<span>Cho giá trị:</span>"
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.report_saleorder_document
 msgid "<span>Pro-Forma Invoice # </span>"
-msgstr "<span>Hoá đơn Chiếu lệ # </span>"
+msgstr "<span>Hoá đơn chiếu lệ # </span>"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.sale_order_portal_content
@@ -934,12 +934,12 @@ msgstr "Địa chỉ trên đơn bán"
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
 msgid "Allows you to send Pro-Forma Invoice to your customers"
-msgstr "Cho phép gửi hoá đơn Chiếu lệ đến khách hàng của bạn"
+msgstr "Cho phép gửi hoá đơn chiếu lệ đến khách hàng của bạn"
 
 #. module: sale
 #: model:ir.model.fields,help:sale.field_res_config_settings__group_proforma_sales
 msgid "Allows you to send pro-forma invoice."
-msgstr "Cho phép bạn gửi hoá đơn Chiếu lệ"
+msgstr "Cho phép bạn gửi hoá đơn chiếu lệ"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__module_sale_amazon
@@ -981,7 +981,7 @@ msgstr "Tài khoản quản trị"
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__sale_order_line__qty_delivered_method__analytic
 msgid "Analytic From Expenses"
-msgstr "Phân tích từ Chi phí"
+msgstr "Phân tích từ chi phí"
 
 #. module: sale
 #: model:ir.model,name:sale.model_account_analytic_line
@@ -1079,7 +1079,7 @@ msgstr "Dựa trên Tham chiếu Tài liệu"
 #: model:ir.model.fields.selection,name:sale.selection__product_template__sale_line_warn__block
 #: model:ir.model.fields.selection,name:sale.selection__res_partner__sale_warn__block
 msgid "Blocking Message"
-msgstr "Thông điệp Chặn"
+msgstr "Thông điệp chặn"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -1544,7 +1544,7 @@ msgstr "Sản phẩm mặc định để ghi nhận các khoản ứng trước"
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
 msgid "Deliver Content by Email"
-msgstr "Chuyển phát Nội dung bằng Email"
+msgstr "Chuyển phát nội dung bằng Email"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.view_order_form
@@ -1897,7 +1897,7 @@ msgstr "Giá trị bị cấm trên dòng đặt hàng không được ghi sổ"
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__res_config_settings__auth_signup_uninvited__b2c
 msgid "Free sign up"
-msgstr "Đăng ký Tự do"
+msgstr "Đăng ký tự do"
 
 #. module: sale
 #: model_terms:ir.actions.act_window,help:sale.action_account_invoice_report_salesteam
@@ -2219,7 +2219,7 @@ msgstr "Địa chỉ xuất hoá đơn:"
 #: model:ir.model.fields,field_description:sale.field_product_template__invoice_policy
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__default_invoice_policy
 msgid "Invoicing Policy"
-msgstr "Chính sách Xuất hoá đơn"
+msgstr "Chính sách xuất hoá đơn"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_crm_team__invoiced_target
@@ -2605,7 +2605,7 @@ msgstr "Ghi chú"
 #: model:ir.model.fields.selection,name:sale.selection__sale_order__invoice_status__no
 #: model:ir.model.fields.selection,name:sale.selection__sale_order_line__invoice_status__no
 msgid "Nothing to Invoice"
-msgstr "Không có gì để Xuất hoá đơn"
+msgstr "Không có gì để xuất hoá đơn"
 
 #. module: sale
 #. openerp-web
@@ -2799,7 +2799,7 @@ msgstr "Đơn đặt hàng được ký bởi %s"
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.crm_team_view_kanban_dashboard
 msgid "Order to Invoice"
-msgstr "Đơn chờ Xuất hoá đơn"
+msgstr "Đơn chờ xuất hoá đơn"
 
 #. module: sale
 #: code:addons/sale/models/sale_order_line.py:0
@@ -3022,12 +3022,12 @@ msgstr "In"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_config_settings__group_proforma_sales
 msgid "Pro-Forma Invoice"
-msgstr "Hoá đơn Chiếu lệ"
+msgstr "Hoá đơn chiếu lệ"
 
 #. module: sale
 #: model:res.groups,name:sale.group_proforma_sales
 msgid "Pro-forma Invoices"
-msgstr "Hoá đơn Chiếu lệ"
+msgstr "Hoá đơn chiếu lệ"
 
 #. module: sale
 #: model:ir.model,name:sale.model_product_product
@@ -3049,7 +3049,7 @@ msgstr "Thuộc tính sản phẩm"
 #. module: sale
 #: model:ir.model,name:sale.model_product_attribute_custom_value
 msgid "Product Attribute Custom Value"
-msgstr "Giá trị tuỳ ý cho Thuộc tính sản phẩm"
+msgstr "Giá trị tuỳ ý cho thuộc tính sản phẩm"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -3134,7 +3134,7 @@ msgstr "SL đã giao"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__qty_invoiced
 msgid "Qty Invoiced"
-msgstr "SL đã Xuất hoá đơn"
+msgstr "SL đã xuất hoá đơn"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__product_uom_qty
@@ -3149,7 +3149,7 @@ msgstr "SL sẽ giao"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__qty_to_invoice
 msgid "Qty To Invoice"
-msgstr "SL chờ Xuất hoá đơn"
+msgstr "SL chờ xuất hoá đơn"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -4542,7 +4542,7 @@ msgstr "Số tiền chưa thuế chờ xuất hoá đơn"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order_line__untaxed_amount_invoiced
 msgid "Untaxed Invoiced Amount"
-msgstr "Giá trị Xuất hoá đơn Trước Thuế"
+msgstr "Giá trị xuất hoá đơn Trước Thuế"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__price_subtotal

@@ -4208,7 +4208,7 @@ msgstr "Script"
 #: code:addons/project/controllers/portal.py:0
 #, python-format
 msgid "Search <span class=\"nolabel\"> (in Content)</span>"
-msgstr "Tìm <span class=\"nolabel\"> (trong Nội dung)</span>"
+msgstr "Tìm <span class=\"nolabel\"> (trong nội dung)</span>"
 
 #. module: project
 #: model_terms:ir.ui.view,arch_db:project.view_project_project_filter
@@ -4398,7 +4398,7 @@ msgstr ""
 #: code:addons/project/static/src/js/project_task_kanban_examples.js:0
 #, python-format
 msgid "Sprint Complete"
-msgstr "Sprint Hoàn tất"
+msgstr "Sprint hoàn tất"
 
 #. module: project
 #: model_terms:ir.ui.view,arch_db:project.project_update_default_description
@@ -4438,7 +4438,7 @@ msgstr "Giai đoạn được Thay đổi"
 #. module: project
 #: model_terms:ir.ui.view,arch_db:project.task_type_edit
 msgid "Stage Description and Tooltips"
-msgstr "Tooltip và Mô tả cho các giai đoạn"
+msgstr "Tooltip và mô tả cho các giai đoạn"
 
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_task_type__user_id
@@ -4599,7 +4599,7 @@ msgstr "Các hoạt động nhiệm vụ"
 #: model:mail.message.subtype,name:project.mt_project_task_blocked
 #: model:mail.message.subtype,name:project.mt_task_blocked
 msgid "Task Blocked"
-msgstr "Nhiệm vụ bị Phong tỏa"
+msgstr "Nhiệm vụ bị phong tỏa"
 
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_delete_wizard__task_count

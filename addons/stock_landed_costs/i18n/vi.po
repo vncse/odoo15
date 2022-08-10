@@ -353,7 +353,7 @@ msgstr "Nếu có đánh dấu, một số thông điệp đã có lỗi gửi �
 #: model:ir.model.fields,help:stock_landed_costs.field_product_product__landed_cost_ok
 #: model:ir.model.fields,help:stock_landed_costs.field_product_template__landed_cost_ok
 msgid "Indicates whether the product is a landed cost."
-msgstr "Chỉ báo rằng sản phẩm có phải là một Chi phí về kho hay không."
+msgstr "Chỉ báo rằng sản phẩm có phải là một chi phí về kho hay không."
 
 #. module: stock_landed_costs
 #: model:ir.model.fields,field_description:stock_landed_costs.field_stock_landed_cost__message_is_follower

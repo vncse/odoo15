@@ -98,7 +98,7 @@ msgstr "Chuyên mục"
 #. module: website_sale_comparison
 #: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute_category__name
 msgid "Category Name"
-msgstr "Tên Nhóm"
+msgstr "Tên nhóm"
 
 #. module: website_sale_comparison
 #. openerp-web

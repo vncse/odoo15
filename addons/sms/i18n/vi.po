@@ -166,7 +166,7 @@ msgstr "Bị vào sổ đen"
 #. module: sms
 #: model:ir.model.fields,field_description:sms.field_res_partner__mobile_blacklisted
 msgid "Blacklisted Phone Is Mobile"
-msgstr "Số điện thoại vào sổ đen là Di động"
+msgstr "Số điện thoại vào sổ đen là di động"
 
 #. module: sms
 #: model:ir.model.fields,field_description:sms.field_res_partner__phone_blacklisted

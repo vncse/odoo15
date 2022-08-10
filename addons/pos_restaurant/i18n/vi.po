@@ -41,8 +41,8 @@ msgid ""
 "<span class=\"fa fa-lg fa-cutlery\" title=\"For bars and restaurants\" "
 "role=\"img\" aria-label=\"For bars and restaurants\"/>"
 msgstr ""
-"<span class=\"fa fa-lg fa-cutlery\" title=\"Cho Nhà hàng và Quán bar\" "
-"role=\"img\" aria-label=\"Cho Nhà hàng và Quán bar\"/>"
+"<span class=\"fa fa-lg fa-cutlery\" title=\"Cho nhà hàng và Quán bar\" "
+"role=\"img\" aria-label=\"Cho nhà hàng và Quán bar\"/>"
 
 #. module: pos_restaurant
 #: model_terms:ir.ui.view,arch_db:pos_restaurant.view_restaurant_floor_kanban
@@ -538,7 +538,7 @@ msgstr "Ghi chú nội bộ"
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_pos_config__module_pos_restaurant
 msgid "Is a Bar/Restaurant"
-msgstr "Là một Nhà hàng/Quầy Bar"
+msgstr "Là một nhà hàng/Quầy Bar"
 
 #. module: pos_restaurant
 #. openerp-web

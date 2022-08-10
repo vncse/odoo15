@@ -32,7 +32,7 @@ msgid ""
 msgstr ""
 "Tốt, bạn có thể tùy biến các câu trả lời mẫu ở ứng dụng chat trực "
 "tuyến.<br/><br/><b>Nó sẽ xuất hiện ở cuối quá trình tổng quan này</b>, chúc "
-"bạn khám phá thành công Viindoo!"
+"bạn khám phá thành công Odoo!"
 
 #. module: im_livechat_mail_bot
 #: model:ir.model,name:im_livechat_mail_bot.model_mail_bot

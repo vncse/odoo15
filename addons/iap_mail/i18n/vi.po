@@ -1,11 +1,11 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* iap_mail
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # Trần Hà <tranthuha13590@gmail.com>, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~13.5\n"
@@ -118,7 +118,7 @@ msgstr "<span> per year</span>"
 #. module: iap_mail
 #: model_terms:ir.ui.view,arch_db:iap_mail.enrich_company
 msgid "Company Logo"
-msgstr "Logo Công ty"
+msgstr "Logo công ty"
 
 #. module: iap_mail
 #: model_terms:ir.ui.view,arch_db:iap_mail.enrich_company

@@ -736,7 +736,7 @@ msgstr "An ninh về bí danh liên hệ"
 #. module: hr_recruitment
 #: model:ir.model.fields,field_description:hr_recruitment.field_hr_recruitment_source__alias_id
 msgid "Alias ID"
-msgstr "ID Bí danh"
+msgstr "ID bí danh"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,field_description:hr_recruitment.field_hr_job__alias_name

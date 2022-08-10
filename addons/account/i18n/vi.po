@@ -701,7 +701,7 @@ msgstr "<span class=\"o_form_label\">Incoterm mặc định</span>"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
 msgid "<span class=\"o_form_label\">Default Sending Options</span>"
-msgstr "<span class=\"o_form_label\">Tuỳ chọn Gửi đi mặc định</span>"
+msgstr "<span class=\"o_form_label\">Tuỳ chọn gửi đi mặc định</span>"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
@@ -1401,7 +1401,7 @@ msgstr "Nhóm tài khoản"
 #: code:addons/account/models/account_account.py:0
 #, python-format
 msgid "Account Groups with the same granularity can't overlap"
-msgstr "Các Nhóm tài khoản có cùng mức độ chi tiết không được trùng lặp"
+msgstr "Các nhóm tài khoản có cùng mức độ chi tiết không được trùng lặp"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_journal__company_partner_id
@@ -3704,7 +3704,7 @@ msgstr "Mẫu hệ thống tài khoản"
 #. module: account
 #: model:ir.actions.act_window,name:account.open_account_charts_modules
 msgid "Chart Templates"
-msgstr "Mẫu Hệ thống tài khoản"
+msgstr "Mẫu hệ thống tài khoản"
 
 #. module: account
 #: code:addons/account/models/company.py:0
@@ -4019,7 +4019,7 @@ msgstr "Công ty liên quan tới sổ nhật ký này"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_chart_template__complete_tax_set
 msgid "Complete Set of Taxes"
-msgstr "Bộ thuế Hoàn chỉnh"
+msgstr "Bộ thuế hoàn chỉnh"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_tax_report_line__name
@@ -5089,7 +5089,7 @@ msgstr "Điều khoản Incoterm mặc định của công ty bạn"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__account_default_pos_receivable_account_id
 msgid "Default PoS Receivable Account"
-msgstr "Tài khoản Phải thu mặc định cho PoS"
+msgstr "Tài khoản phải thu mặc định cho PoS"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__account_purchase_tax_id
@@ -5114,17 +5114,17 @@ msgstr "Thuế mặc định"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_config_settings__use_invoice_terms
 msgid "Default Terms & Conditions"
-msgstr "Điều khoản & Điều kiện mặc định"
+msgstr "Điều khoản dịch vụ mặc định"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__invoice_terms
 msgid "Default Terms and Conditions"
-msgstr "Điều khoản và Điều kiện mặc định"
+msgstr "Điều khoản dịch vụ mặc định"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__invoice_terms_html
 msgid "Default Terms and Conditions as a Web page"
-msgstr "Điều khoản và Điều kiện mặc định dưới dạng một trang Web"
+msgstr "Điều khoản dịch vụ mặc định dưới dạng một trang Web"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_invoice_send__null_value
@@ -5626,7 +5626,7 @@ msgstr "Biên lai bán dự thảo"
 #: code:addons/account/models/account_move.py:0
 #, python-format
 msgid "Draft Vendor Credit Note"
-msgstr "Hoá đơn Hoàn tiền NCC Dự thảo"
+msgstr "Hoá đơn hoàn tiền NCC Dự thảo"
 
 #. module: account
 #: code:addons/account/models/account_journal_dashboard.py:0
@@ -5922,12 +5922,12 @@ msgstr "Chi phí"
 #: model:ir.model.fields,field_description:account.field_product_template__property_account_expense_id
 #: model_terms:ir.ui.view,arch_db:account.view_account_chart_template_seacrh
 msgid "Expense Account"
-msgstr "Tài khoản Chi phí"
+msgstr "Tài khoản chi phí"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_chart_template__property_account_expense_id
 msgid "Expense Account on Product Template"
-msgstr "Tài khoản Chi phí trên mẫu sản phẩm"
+msgstr "Tài khoản chi phí trên mẫu sản phẩm"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_automatic_entry_wizard__expense_accrual_account
@@ -6356,7 +6356,7 @@ msgstr ""
 #: model:ir.model,name:account.model_account_full_reconcile
 #: model:ir.model.fields,field_description:account.field_account_partial_reconcile__full_reconcile_id
 msgid "Full Reconcile"
-msgstr "Đối soát Hoàn toàn"
+msgstr "Đối soát hoàn toàn"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_move_reversal__refund_method__cancel
@@ -7025,7 +7025,7 @@ msgstr "Phương thức thanh toán thu tiền"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax__analytic
 msgid "Include in Analytic Cost"
-msgstr "Bao gồm trong Chi phí kế toán QT"
+msgstr "Bao gồm trong chi phí kế toán QT"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax__price_include
@@ -7068,7 +7068,7 @@ msgid ""
 "Bank transactions are then reconciled on the Outstanding Receipts Accounts rather than the Receivable Account."
 msgstr ""
 "Các khoản thu được vào sổ ở tài khoản nhận tiền tạm thời. Trong tiện ích đối soát ngân hàng, chúng xuất hiện dưới dạng các đường màu xanh lam.\n"
-"Các giao dịch ngân hàng sau đó được đối soát trên các TTài khoản nhận tiền tạm thời thay vì tài khoản Phải thu."
+"Các giao dịch ngân hàng sau đó được đối soát trên các TTài khoản nhận tiền tạm thời thay vì tài khoản phải thu."
 
 #. module: account
 #: code:addons/account/wizard/setup_wizards.py:0
@@ -8037,7 +8037,7 @@ msgstr "Để trống để không kiểm soát"
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_payment_register__payment_difference_handling__open
 msgid "Keep open"
-msgstr "Để ở trạng thái Mở"
+msgstr "Để ở trạng thái mở"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_product_product__property_account_income_id
@@ -8613,7 +8613,7 @@ msgstr "Tháng Ba"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
 msgid "Margin Analysis"
-msgstr "Phân tích Biên lợi nhuận"
+msgstr "Phân tích biên lợi nhuận"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_payment_form
@@ -9987,18 +9987,18 @@ msgstr "Phải trả"
 #: model:ir.model.fields,field_description:account.field_account_chart_template__property_account_payable_id
 #: model_terms:ir.ui.view,arch_db:account.view_account_chart_template_seacrh
 msgid "Payable Account"
-msgstr "Tài khoản Phải trả"
+msgstr "Tài khoản phải trả"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_search
 msgid "Payable Accounts"
-msgstr "Tài khoản Phải trả"
+msgstr "Tài khoản phải trả"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_partner__debit_limit
 #: model:ir.model.fields,field_description:account.field_res_users__debit_limit
 msgid "Payable Limit"
-msgstr "Hạn mức Phải trả"
+msgstr "Hạn mức phải trả"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.product_template_form_view
@@ -10849,7 +10849,7 @@ msgstr "Phải thu"
 #: model:ir.model.fields,field_description:account.field_account_chart_template__property_account_receivable_id
 #: model_terms:ir.ui.view,arch_db:account.view_account_chart_template_seacrh
 msgid "Receivable Account"
-msgstr "Tài khoản Phải thu"
+msgstr "Tài khoản phải thu"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_account_search
@@ -11221,7 +11221,7 @@ msgstr "Giá trị còn lại"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_move_line__amount_residual_currency
 msgid "Residual Amount in Currency"
-msgstr "Giá trị còn lại Nguyên tệ"
+msgstr "Giá trị còn lại nguyên tệ"
 
 #. module: account
 #: code:addons/account/models/account_journal_dashboard.py:0
@@ -12515,7 +12515,7 @@ msgstr "Tài khoản tạm thời"
 #. module: account
 #: model:ir.actions.server,name:account.action_move_switch_invoice_to_credit_note
 msgid "Switch into refund/credit note"
-msgstr "Chuyển thành hoá đơn Hoàn tiền / điều chỉnh giảm"
+msgstr "Chuyển thành hoá đơn hoàn tiền / điều chỉnh giảm"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_account_tag__name
@@ -14830,7 +14830,7 @@ msgid ""
 "storage space of your Odoo database."
 msgstr ""
 "Tùy chọn này sẽ xóa vĩnh viễn mọi dấu vết của email sau khi nó được gửi đi, "
-"bao gồm cả từ menu Kỹ thuật trong Cài đặt, để duy trì không gian lưu trữ "
+"bao gồm cả từ menu Kỹ thuật trong cài đặt, để duy trì không gian lưu trữ "
 "trong cơ sở dữ liệu của bạn."
 
 #. module: account

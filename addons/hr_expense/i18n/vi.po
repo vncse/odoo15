@@ -540,7 +540,7 @@ msgstr "Gửi"
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_res_config_settings__expense_alias_prefix
 msgid "Default Alias Name for Expenses"
-msgstr "Tên Bí danh mặc định cho chi tiêu"
+msgstr "Tên bí danh mặc định cho chi tiêu"
 
 #. module: hr_expense
 #: model:ir.model,name:hr_expense.model_hr_department
@@ -846,7 +846,7 @@ msgstr "Chi tiêu của Thành viên của đội"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_sheet_view_search
 msgid "Expenses to Invoice"
-msgstr "Chi tiêu chờ Xuất hoá đơn"
+msgstr "Chi tiêu chờ xuất hoá đơn"
 
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.account_journal_dashboard_kanban_view_inherit_hr_expense
@@ -1373,7 +1373,7 @@ msgid ""
 "Please configure Default Expense account for Category expense: "
 "`property_account_expense_categ_id`."
 msgstr ""
-"Hãy đặt cấu hình tài khoản Chi phí mặc định cho Danh mục chi phí: "
+"Hãy đặt cấu hình tài khoản chi phí mặc định cho Danh mục chi phí: "
 "`property_account_expense_categ_id`."
 
 #. module: hr_expense
@@ -1413,7 +1413,7 @@ msgstr "Giá"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.report_expense_sheet
 msgid "Price in Company Currency"
-msgstr "Giá theo Tiền tệ Công ty"
+msgstr "Giá theo Tiền tệ công ty"
 
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_template_register

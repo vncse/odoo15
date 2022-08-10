@@ -32,7 +32,7 @@ msgstr "Số ngày để đóng Deal"
 #. module: gamification_sale_crm
 #: model:gamification.challenge,name:gamification_sale_crm.challenge_crm_marketing
 msgid "Lead Acquisition"
-msgstr "Thu lượm Tiềm năng"
+msgstr "Thu lượm tiềm năng"
 
 #. module: gamification_sale_crm
 #: model:gamification.challenge,name:gamification_sale_crm.challenge_crm_sale
@@ -43,7 +43,7 @@ msgstr "Mục tiêu Doanh số hàng tháng"
 #: model:gamification.challenge.line,name:gamification_sale_crm.line_crm_marketing1
 #: model:gamification.goal.definition,name:gamification_sale_crm.definition_crm_nbr_new_leads
 msgid "New Leads"
-msgstr "SL Tiềm năng mới"
+msgstr "SL tiềm năng mới"
 
 #. module: gamification_sale_crm
 #: model:gamification.challenge.line,name:gamification_sale_crm.line_crm_marketing3
@@ -65,7 +65,7 @@ msgstr "SL đơn bán đã thanh toán"
 #: model:gamification.challenge.line,name:gamification_sale_crm.line_crm_marketing2
 #: model:gamification.goal.definition,name:gamification_sale_crm.definition_crm_lead_delay_open
 msgid "Time to Qualify a Lead"
-msgstr "Thời gian để thẩm định một Tiềm năng"
+msgstr "Thời gian để thẩm định một tiềm năng"
 
 #. module: gamification_sale_crm
 #: model:gamification.goal.definition,name:gamification_sale_crm.definition_crm_tot_customer_refunds

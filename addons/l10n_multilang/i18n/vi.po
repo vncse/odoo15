@@ -28,7 +28,7 @@ msgstr "Tài khoản"
 #. module: l10n_multilang
 #: model:ir.model,name:l10n_multilang.model_account_chart_template
 msgid "Account Chart Template"
-msgstr "Mẫu Hệ thống Tài khoản"
+msgstr "Mẫu hệ thống Tài khoản"
 
 #. module: l10n_multilang
 #: model:ir.model,name:l10n_multilang.model_account_account_tag

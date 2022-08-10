@@ -129,7 +129,7 @@ msgstr "Số lượng đính kèm"
 #. module: note
 #: model_terms:ir.ui.view,arch_db:note.view_note_note_filter
 msgid "By sticky note Category"
-msgstr "Theo Nhóm sticky note"
+msgstr "Theo nhóm sticky note"
 
 #. module: note
 #. openerp-web

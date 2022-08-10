@@ -194,7 +194,7 @@ msgstr "Vị trí ứng tuyển"
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.apply
 msgid "Apply Job"
-msgstr "Ứng tuyển Công việc"
+msgstr "Ứng tuyển công việc"
 
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.detail
@@ -368,7 +368,7 @@ msgstr "Chức vụ"
 #: code:addons/website_hr_recruitment/controllers/main.py:0
 #, python-format
 msgid "Job Title"
-msgstr "Chức danh Công việc"
+msgstr "Chức danh công việc"
 
 #. module: website_hr_recruitment
 #: code:addons/website_hr_recruitment/models/website.py:0

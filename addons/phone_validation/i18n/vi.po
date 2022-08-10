@@ -72,7 +72,7 @@ msgstr "Ngày vào danh sách đen"
 #. module: phone_validation
 #: model:ir.model.fields,field_description:phone_validation.field_mail_thread_phone__mobile_blacklisted
 msgid "Blacklisted Phone Is Mobile"
-msgstr "Số điện thoại vào sổ đen là Di động"
+msgstr "Số điện thoại vào sổ đen là di động"
 
 #. module: phone_validation
 #: model:ir.actions.act_window,name:phone_validation.phone_blacklist_action

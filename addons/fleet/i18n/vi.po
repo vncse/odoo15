@@ -530,7 +530,7 @@ msgstr "Chi phí"
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle_cost_report__cost_type
 msgid "Cost Type"
-msgstr "Kiểu Chi phí"
+msgstr "Kiểu chi phí"
 
 #. module: fleet
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_log_contract_view_form
@@ -550,7 +550,7 @@ msgstr "Chi phí"
 #. module: fleet
 #: model:ir.actions.act_window,name:fleet.fleet_costs_reporting_action
 msgid "Costs Analysis"
-msgstr "Phân tích Chi phí"
+msgstr "Phân tích chi phí"
 
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle__country_id

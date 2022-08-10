@@ -391,7 +391,7 @@ msgstr "Hiện diện nhân viên nâng cao"
 #: model:ir.model.fields,field_description:hr.field_mail_alias__alias_contact
 #: model:ir.model.fields,field_description:hr.field_mail_channel__alias_contact
 msgid "Alias Contact Security"
-msgstr "An ninh về Bí danh liên hệ"
+msgstr "An ninh về bí danh liên hệ"
 
 #. module: hr
 #: model:ir.model.fields,help:hr.field_hr_employee__lang
@@ -502,7 +502,7 @@ msgstr "Nhân viên Đã xác thực"
 #. module: hr
 #: model_terms:ir.ui.view,arch_db:hr.mail_channel_view_form_
 msgid "Auto Subscribe Departments"
-msgstr "Tự động đăng ký Phòng ban"
+msgstr "Tự động đăng ký phòng ban"
 
 #. module: hr
 #: model:ir.model.fields,help:hr.field_mail_channel__subscription_department_ids
@@ -724,7 +724,7 @@ msgstr "Quốc gia công ty"
 #. module: hr
 #: model_terms:ir.ui.view,arch_db:hr.print_employee_badge
 msgid "Company Logo"
-msgstr "Logo Công ty"
+msgstr "Logo công ty"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_res_config_settings__resource_calendar_id
@@ -1607,7 +1607,7 @@ msgstr "Chức vụ"
 #: model_terms:ir.ui.view,arch_db:hr.hr_employee_public_view_form
 #: model_terms:ir.ui.view,arch_db:hr.hr_employee_public_view_search
 msgid "Job Title"
-msgstr "Chức danh Công việc"
+msgstr "Chức danh công việc"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_department__jobs_ids
@@ -1841,7 +1841,7 @@ msgstr "Hạn chót hoạt động"
 #: code:addons/hr/static/src/xml/hr_templates.xml:0
 #, python-format
 msgid "My Profile"
-msgstr "Hồ sơ Cá nhân"
+msgstr "Hồ sơ cá nhân"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_base__name
@@ -2289,7 +2289,7 @@ msgstr "Thông tin Riêng tư"
 #: model:ir.model.fields,field_description:hr.field_hr_employee__phone
 #: model:ir.model.fields,field_description:hr.field_res_users__employee_phone
 msgid "Private Phone"
-msgstr "Điện thoại Cá nhân"
+msgstr "Điện thoại cá nhân"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_res_users__private_state_id
@@ -2700,8 +2700,8 @@ msgid ""
 "History."
 msgstr ""
 "Loại nhân viên. Mặc dù mục đích chính có vẻ như là để phân loại nhân viên, "
-"trường này cũng có tác động tới Lịch sử hợp đồng. Chỉ có loại nhân viên được"
-" cho là đã ký hợp đồng và sẽ có Lịch sử hợp đồng."
+"trường này cũng có tác động tới lịch sử hợp đồng. Chỉ có loại nhân viên được"
+" cho là đã ký hợp đồng và sẽ có lịch sử hợp đồng."
 
 #. module: hr
 #: model:ir.model.constraint,message:hr.constraint_hr_job_no_of_recruitment_positive
@@ -3000,7 +3000,7 @@ msgstr "Email công việc"
 #: model_terms:ir.ui.view,arch_db:hr.res_users_view_form_profile
 #: model_terms:ir.ui.view,arch_db:hr.view_employee_form
 msgid "Work Information"
-msgstr "Thông tin Công việc"
+msgstr "Thông tin công việc"
 
 #. module: hr
 #: model:ir.model,name:hr.model_hr_work_location
@@ -3026,12 +3026,12 @@ msgstr "Địa điểm làm việc"
 #: model:ir.model.fields,field_description:hr.field_hr_employee_public__mobile_phone
 #: model:ir.model.fields,field_description:hr.field_res_users__mobile_phone
 msgid "Work Mobile"
-msgstr "Số Di động Công việc"
+msgstr "Số di động công việc"
 
 #. module: hr
 #: model_terms:ir.ui.view,arch_db:hr.res_config_settings_view_form
 msgid "Work Organization"
-msgstr "Tổ chức Công việc"
+msgstr "Tổ chức công việc"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee__has_work_permit

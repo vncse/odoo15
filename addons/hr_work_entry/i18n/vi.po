@@ -325,7 +325,7 @@ msgstr "Mục công việc đã xác nhận không thể trùng lặp"
 #. module: hr_work_entry
 #: model:ir.model,name:hr_work_entry.model_resource_calendar_attendance
 msgid "Work Detail"
-msgstr "Chi tiết Công việc"
+msgstr "Chi tiết công việc"
 
 #. module: hr_work_entry
 #: model_terms:ir.ui.view,arch_db:hr_work_entry.hr_employee_view_form

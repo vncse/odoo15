@@ -811,7 +811,7 @@ msgstr "Hợp đồng đang thực hiện"
 #. module: hr_contract
 #: model_terms:ir.ui.view,arch_db:hr_contract.hr_contract_view_form
 msgid "Salary Information"
-msgstr "Thông tin Lương"
+msgstr "Thông tin lương"
 
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__structure_type_id

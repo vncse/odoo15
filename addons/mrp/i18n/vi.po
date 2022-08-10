@@ -61,12 +61,12 @@ msgstr " Khi có đủ tất cả các thành phần cấu thành"
 #: model:ir.model.fields,field_description:mrp.field_product_product__bom_count
 #: model:ir.model.fields,field_description:mrp.field_product_template__bom_count
 msgid "# Bill of Material"
-msgstr "SL Định mức Nguyên liệu"
+msgstr "SL định mức nguyên liệu"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_product_product__used_in_bom_count
 msgid "# BoM Where Used"
-msgstr "SL Định mức Sử dụng"
+msgstr "SL định mức Sử dụng"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_workcenter__workorder_ready_count
@@ -82,7 +82,7 @@ msgstr "SL Hoạt động sản xuất"
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_product_template__used_in_bom_count
 msgid "# of BoM Where is Used"
-msgstr "SL Định mức mà sản phẩm này được sử dụng"
+msgstr "SL định mức mà sản phẩm này được sử dụng"
 
 #. module: mrp
 #: code:addons/mrp/models/mrp_routing.py:0
@@ -351,7 +351,7 @@ msgstr "<strong>Thành phẩm:</strong><br/>"
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.view_mrp_workcenter_productivity_loss_kanban
 msgid "<strong>Is a Blocking Reason? </strong>"
-msgstr "<strong>Là một Lý do Chặn? </strong>"
+msgstr "<strong>Là một lý do chặn? </strong>"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.report_mrporder
@@ -415,7 +415,7 @@ msgstr "? Điều này có thể dẫn đến sự mâu thuẫn trong tồn kho 
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_bom_form_view
 msgid "A BoM of type kit is used to split the product into its components."
 msgstr ""
-"Một loại Định mức bộ được dùng để chia nhỏ sản phẩm trong các thành phần"
+"Một loại định mức bộ được dùng để chia nhỏ sản phẩm trong các thành phần"
 
 #. module: mrp
 #: code:addons/mrp/models/mrp_workorder.py:0
@@ -607,7 +607,7 @@ msgstr "Áp dụng"
 #: model:ir.model.fields,field_description:mrp.field_mrp_bom_line__bom_product_template_attribute_value_ids
 #: model:ir.model.fields,field_description:mrp.field_mrp_routing_workcenter__bom_product_template_attribute_value_ids
 msgid "Apply on Variants"
-msgstr "Áp dụng cho Biến thể"
+msgstr "Áp dụng cho biến thể"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.view_change_production_qty_wizard
@@ -701,13 +701,13 @@ msgid ""
 "level BOM, the manufacturing lead times of the components will be added."
 msgstr ""
 "Thời gian sản xuất trung bình tính theo ngày để sản xuất sản phẩm này. Trong"
-" trường hợp đa cấp Định mức nguyên liệu, thời gian sản xuất của các thành "
+" trường hợp đa cấp định mức nguyên liệu, thời gian sản xuất của các thành "
 "phần sẽ được cộng gộp vào."
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_product_product__variant_bom_ids
 msgid "BOM Product Variants"
-msgstr "BOM Biến thể Bản phẩm"
+msgstr "BOM biến thể sản phẩm"
 
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_bom_byproduct__bom_product_template_attribute_value_ids
@@ -779,17 +779,17 @@ msgstr "Dựa trên"
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_bom_form_view
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_routing_workcenter_filter
 msgid "Bill of Material"
-msgstr "Định mức Nguyên liệu"
+msgstr "Định mức nguyên liệu"
 
 #. module: mrp
 #: model:ir.model,name:mrp.model_mrp_bom_line
 msgid "Bill of Material Line"
-msgstr "Chi tiết Định mức Nguyên liệu"
+msgstr "Chi tiết định mức nguyên liệu"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_bom_line_view_form
 msgid "Bill of Material line"
-msgstr "Dòng Định mức Nguyên liệu"
+msgstr "Dòng định mức nguyên liệu"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_unbuild__mo_bom_id
@@ -807,7 +807,7 @@ msgstr "Định mức vật liệu dùng trên đơn sản xuất"
 #: model_terms:ir.ui.view,arch_db:mrp.product_template_form_view_bom_button
 #: model_terms:ir.ui.view,arch_db:mrp.view_mrp_bom_filter
 msgid "Bill of Materials"
-msgstr "Định mức Nguyên liệu"
+msgstr "Định mức nguyên liệu"
 
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_production__bom_id
@@ -848,7 +848,7 @@ msgstr "Chặn"
 #: model:ir.actions.act_window,name:mrp.act_mrp_block_workcenter_wo
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_workcenter_block_wizard_form
 msgid "Block Workcenter"
-msgstr "Phong toả Năng lực sản xuất"
+msgstr "Phong toả năng lực sản xuất"
 
 #. module: mrp
 #: model:ir.model.fields.selection,name:mrp.selection__mrp_bom__consumption__strict
@@ -856,12 +856,12 @@ msgstr "Phong toả Năng lực sản xuất"
 #: model:ir.model.fields.selection,name:mrp.selection__mrp_production__consumption__strict
 #: model:ir.model.fields.selection,name:mrp.selection__mrp_workcenter__working_state__blocked
 msgid "Blocked"
-msgstr "Bị Chặn"
+msgstr "Bị chặn"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_workcenter__blocked_time
 msgid "Blocked Time"
-msgstr "Thời gian Phong toả"
+msgstr "Thời gian phong toả"
 
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_workcenter__blocked_time
@@ -900,7 +900,7 @@ msgstr "Chi tiết định mức"
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_bom__bom_line_ids
 msgid "BoM Lines"
-msgstr "Chi tiết Định mức"
+msgstr "Chi tiết định mức"
 
 #. module: mrp
 #. openerp-web
@@ -917,13 +917,13 @@ msgstr "Cấu trúc BoM"
 #: model:ir.actions.client,name:mrp.action_report_mrp_bom
 #, python-format
 msgid "BoM Structure & Cost"
-msgstr "Cấu trúc & Chi phí Định mức"
+msgstr "Cấu trúc & chi phí định mức"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_bom__type
 #: model_terms:ir.ui.view,arch_db:mrp.view_mrp_bom_filter
 msgid "BoM Type"
-msgstr "Kiểu Định mức"
+msgstr "Kiểu định mức"
 
 #. module: mrp
 #: code:addons/mrp/models/mrp_bom.py:0
@@ -1411,8 +1411,8 @@ msgid ""
 msgstr ""
 "Số lượng hiện tại của sản phẩm.\n"
 "Trong ngữ cảnh với một Vị trí kho, số lượng bao gồm hàng hoá được lưu trữ tại vị trí này, hoặc bất kỳ vị trí còn nào.\n"
-"Trong ngữ cảnh với một Nhà kho, số lượng bao gồm hàng hoá được lưu trữ trong Vị trí kho của Nhà kho này, hoặc bất kỳ vị trí con nào.\n"
-"được lưu trữ trong Vị trí kho của Nhà kho của Cửa hàng này, hoặc bất kỳ vị trí con nào.\n"
+"Trong ngữ cảnh với một nhà kho, số lượng bao gồm hàng hoá được lưu trữ trong Vị trí kho của nhà kho này, hoặc bất kỳ vị trí con nào.\n"
+"được lưu trữ trong Vị trí kho của nhà kho của Cửa hàng này, hoặc bất kỳ vị trí con nào.\n"
 "Nếu không, số lượng bao gồm hàng hoá được lưu trữ trong bất kỳ Vị trí kho nào có loại 'nội bộ'. "
 
 #. module: mrp
@@ -1544,7 +1544,7 @@ msgstr "Mô tả"
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_workcenter__note
 msgid "Description of the Work Center."
-msgstr "Mô tả Năng lực sản xuất."
+msgstr "Mô tả năng lực sản xuất."
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_workcenter_view
@@ -1950,7 +1950,7 @@ msgstr "Cung cấp thứ tự tuần tự khi hiển thị danh sách các tài 
 #: model:ir.model.fields,help:mrp.field_mrp_bom__sequence
 msgid "Gives the sequence order when displaying a list of bills of material."
 msgstr ""
-"Chỉ ra trình tự sắp xếp khi hiển thị một danh sách Định mức nguyên liệu."
+"Chỉ ra trình tự sắp xếp khi hiển thị một danh sách định mức nguyên liệu."
 
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_routing_workcenter__sequence
@@ -2114,7 +2114,7 @@ msgid ""
 "If the active field is set to False, it will allow you to hide the bills of "
 "material without removing it."
 msgstr ""
-"Nếu bỏ chọn trường Hiệu lực, sẽ cho phép bạn ẩn Định mức nguyên liệu mà "
+"Nếu bỏ chọn trường Hiệu lực, sẽ cho phép bạn ẩn định mức nguyên liệu mà "
 "không cần xóa bỏ nó."
 
 #. module: mrp
@@ -2182,7 +2182,7 @@ msgstr "Điều chuyển bị ảnh hưởng"
 #: code:addons/mrp/models/mrp_bom.py:0
 #, python-format
 msgid "Import Template for Bills of Materials"
-msgstr "Mẫu Import cho Định mức Nguyên vật liệu"
+msgstr "Mẫu Import cho định mức nguyên vật liệu"
 
 #. module: mrp
 #: code:addons/mrp/models/mrp_production.py:0
@@ -2192,7 +2192,7 @@ msgid ""
 "availabilities."
 msgstr ""
 "Không thể lập kế hoạch cho hoạt động sản xuất. Vui lòng kiểm tra tính khả "
-"dụng  của các Năng lực sản xuất."
+"dụng  của các năng lực sản xuất."
 
 #. module: mrp
 #: model:ir.model.fields.selection,name:mrp.selection__mrp_production__state__progress
@@ -2253,12 +2253,12 @@ msgstr "Bị Khoá"
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_workcenter_productivity_loss__manual
 msgid "Is a Blocking Reason"
-msgstr "Là một Lý do Chặn"
+msgstr "Là một lý do chặn"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.view_mrp_workcenter_productivity_loss_kanban
 msgid "Is a Blocking Reason?"
-msgstr "Là một Lý do Chặn?"
+msgstr "Là một lý do chặn?"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_document__public
@@ -2758,7 +2758,7 @@ msgstr ""
 #: model:ir.actions.server,name:mrp.action_production_order_mark_done
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_production_form_view
 msgid "Mark as Done"
-msgstr "Đánh dấu Hoàn thành"
+msgstr "Đánh dấu hoàn thành"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_production_form_view
@@ -2768,12 +2768,12 @@ msgstr "Sản xuất hàng loạt"
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_res_config_settings__module_mrp_mps
 msgid "Master Production Schedule"
-msgstr "Kế hoạch sản xuất Tổng thể"
+msgstr "Kế hoạch sản xuất tổng thể"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.view_mrp_production_filter
 msgid "Material Availability"
-msgstr "Khả dụng Nguyên vật liệu"
+msgstr "Khả dụng nguyên vật liệu"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_bom__message_has_error
@@ -3155,7 +3155,7 @@ msgstr "Hoạt động"
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.report_mrporder
 msgid "Operations Done"
-msgstr "Hoạt động đã Hoàn thành"
+msgstr "Hoạt động đã hoàn thành"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.report_mrporder
@@ -3267,7 +3267,7 @@ msgstr "Năng suất"
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.oee_search_view
 msgid "Performance Losses"
-msgstr "Mất Năng suất"
+msgstr "Mất năng suất"
 
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_workcenter__performance
@@ -3278,7 +3278,7 @@ msgstr "Năng suất xuyên suốt của tháng trước"
 #: code:addons/mrp/models/stock_warehouse.py:0
 #, python-format
 msgid "Pick Components"
-msgstr "Lấy các Thành phần"
+msgstr "Lấy các thành phần"
 
 #. module: mrp
 #: code:addons/mrp/models/stock_warehouse.py:0
@@ -3796,8 +3796,8 @@ msgid ""
 "Recursion error!  A product with a Bill of Material should not have itself "
 "in its BoM or child BoMs!"
 msgstr ""
-"Lỗi Đệ quy! Một sản phẩm có Định mức Nguyên liệu không thể có chính nó trong"
-" định mức hoặc các Định mức con của Định mức đó!"
+"Lỗi Đệ quy! Một sản phẩm có định mức nguyên liệu không thể có chính nó trong"
+" định mức hoặc các định mức con của định mức đó!"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_bom__code
@@ -3995,7 +3995,7 @@ msgstr "Tìm"
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.view_mrp_bom_filter
 msgid "Search Bill Of Material"
-msgstr "Tìm kiếm Định mức nguyên liệu"
+msgstr "Tìm kiếm định mức nguyên liệu"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.view_mrp_production_filter
@@ -4340,7 +4340,7 @@ msgstr "Tên tệp tin được lưu trữ"
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_bom_form_view
 msgid "Structure & Cost"
-msgstr "Cấu trúc & Chi phí"
+msgstr "Cấu trúc & chi phí"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_bom_line__child_bom_id
@@ -4769,7 +4769,7 @@ msgstr "Thời gian tính bằng phút cho việc vệ sinh/làm sạch."
 msgid "Time in minutes for the setup."
 msgstr ""
 "Thời gian tính bằng phút để có thể chuẩn bị, khởi động hoạt động sản xuất "
-"thực hiện bởi Năng lực sản xuất này."
+"thực hiện bởi năng lực sản xuất này."
 
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_routing_workcenter__time_cycle_manual
@@ -5200,7 +5200,7 @@ msgstr "Chờ khả dụng"
 #: code:addons/mrp/static/src/js/mrp.js:0
 #, python-format
 msgid "Waiting Materials"
-msgstr "Chờ Nguyên liệu"
+msgstr "Chờ nguyên liệu"
 
 #. module: mrp
 #: model:ir.model.fields.selection,name:mrp.selection__mrp_workorder__state__pending
@@ -5368,12 +5368,12 @@ msgstr "Số Giờ dự kiến"
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_workcenter_view
 msgid "Work Center Name"
-msgstr "Tên Năng lực sản xuất"
+msgstr "Tên năng lực sản xuất"
 
 #. module: mrp
 #: model:ir.model,name:mrp.model_mrp_routing_workcenter
 msgid "Work Center Usage"
-msgstr "Sử dụng Năng lực sản xuất"
+msgstr "Sử dụng năng lực sản xuất"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.view_work_center_load_graph
@@ -5390,12 +5390,12 @@ msgstr "Năng lực sản xuất"
 #. module: mrp
 #: model:ir.actions.act_window,name:mrp.mrp_workcenter_kanban_action
 msgid "Work Centers Overview"
-msgstr "Tổng quan Năng lực sản xuất"
+msgstr "Tổng quan năng lực sản xuất"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_production_workorder_form_view_inherit
 msgid "Work Instruction"
-msgstr "Hướng dẫn Công việc"
+msgstr "Hướng dẫn công việc"
 
 #. module: mrp
 #: model:ir.model,name:mrp.model_mrp_workorder
@@ -5415,7 +5415,7 @@ msgid ""
 "produce a product. They are attached to bills of materials that will define "
 "the required components."
 msgstr ""
-"Các Hoạt động sản xuất cho phép bạn tạo và quản lý các công đoạn sản xuất mà"
+"Các hoạt động sản xuất cho phép bạn tạo và quản lý các công đoạn sản xuất mà"
 " phải được theo dõi trong phạm vi năng lực sản xuất của bạn để sản xuất một "
 "sản phẩm. Chúng được gắn kèm vào định mức nguyên vật là mà sẽ xác định "
 "nguyên vật liệu yêu cầu."
@@ -5510,29 +5510,29 @@ msgstr "Xưởng %s không thể là xưởng thay thế cho chính nó. "
 #: model_terms:ir.ui.view,arch_db:mrp.oee_pivot_view
 #: model_terms:ir.ui.view,arch_db:mrp.oee_tree_view
 msgid "Workcenter Productivity"
-msgstr "Năng suất Năng lực SX"
+msgstr "Năng suất năng lực SX"
 
 #. module: mrp
 #: model:ir.model,name:mrp.model_mrp_workcenter_productivity
 msgid "Workcenter Productivity Log"
-msgstr "Nhật ký Năng suất Năng lực SX"
+msgstr "Nhật ký năng suất năng lực SX"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.oee_loss_form_view
 #: model_terms:ir.ui.view,arch_db:mrp.oee_loss_tree_view
 msgid "Workcenter Productivity Loss"
-msgstr "Mất Năng suất Năng lực SX"
+msgstr "Mất năng suất năng lực SX"
 
 #. module: mrp
 #: model:ir.model,name:mrp.model_mrp_workcenter_productivity_loss
 msgid "Workcenter Productivity Losses"
-msgstr "Mất Năng suất Năng lực sản xuất"
+msgstr "Mất năng suất năng lực sản xuất"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_workcenter__working_state
 #: model:ir.model.fields,field_description:mrp.field_mrp_workorder__working_state
 msgid "Workcenter Status"
-msgstr "Tình trạng Năng lực sản xuất"
+msgstr "Tình trạng năng lực sản xuất"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_workcenter_kanban
@@ -5593,7 +5593,7 @@ msgid ""
 "You can not create a kit-type bill of materials for products that have at "
 "least one reordering rule."
 msgstr ""
-"Bạn không thể tạo Định mức nguyên liệu theo bộ cho sản phẩm khi nó đã tồn "
+"Bạn không thể tạo định mức nguyên liệu theo bộ cho sản phẩm khi nó đã tồn "
 "tại một qui tắc cung ứng."
 
 #. module: mrp
@@ -5603,7 +5603,7 @@ msgid ""
 "You can not delete a Bill of Material with running manufacturing orders.\n"
 "Please close or cancel it first."
 msgstr ""
-"Bạn không thể xoá một Định mức Nguyên liệu mà có một lệnh sản xuất đang chạy nó.\n"
+"Bạn không thể xoá một định mức nguyên liệu mà có một lệnh sản xuất đang chạy nó.\n"
 "Vui lòng đóng hoặc huỷ lệnh sản xuất trước."
 
 #. module: mrp
@@ -5613,14 +5613,14 @@ msgid ""
 "You cannot change the workcenter of a work order that is in progress or "
 "done."
 msgstr ""
-"Bạn không thể thay đổi Năng lực sản xuất của một lệnh sản xuất khi nó đang "
+"Bạn không thể thay đổi năng lực sản xuất của một lệnh sản xuất khi nó đang "
 "xử lý hoặc hoàn tất"
 
 #. module: mrp
 #: code:addons/mrp/models/mrp_bom.py:0
 #, python-format
 msgid "You cannot create a new Bill of Material from here."
-msgstr "Bạn không thể tạo một Định mức nguyên liệu mới từ đây."
+msgstr "Bạn không thể tạo một định mức nguyên liệu mới từ đây."
 
 #. module: mrp
 #: code:addons/mrp/models/mrp_unbuild.py:0
@@ -5743,7 +5743,7 @@ msgid ""
 "'Performance'. Create one from the Manufacturing app, menu: Configuration / "
 "Productivity Losses."
 msgstr ""
-"Bạn cần xác định ít nhất một tổn thất năng suất trong Nhóm 'Hiệu suất'. Tạo "
+"Bạn cần xác định ít nhất một tổn thất năng suất trong nhóm 'Hiệu suất'. Tạo "
 "một ứng dụng từ menu Ứng dụng, menu: Cấu hình/Mất năng suất."
 
 #. module: mrp
@@ -5754,7 +5754,7 @@ msgid ""
 "'Productivity'. Create one from the Manufacturing app, menu: Configuration /"
 " Productivity Losses."
 msgstr ""
-"Bạn cần xác định ít nhất một tổn thất năng suất trong Nhóm 'Năng suất'. Tạo "
+"Bạn cần xác định ít nhất một tổn thất năng suất trong nhóm 'Năng suất'. Tạo "
 "một ứng dụng từ menu Ứng dụng, menu: Cấu hình/Mất năng suất."
 
 #. module: mrp
@@ -5795,12 +5795,12 @@ msgstr "Bạn cần phải cung cấp một số lô cho thành phẩm."
 #. module: mrp
 #: model_terms:ir.actions.act_window,help:mrp.mrp_production_action
 msgid "and build finished products using"
-msgstr "and build finished products using"
+msgstr "và xây dựng thành phẩm bằng cách sử dụng"
 
 #. module: mrp
 #: model_terms:ir.actions.act_window,help:mrp.mrp_production_action
 msgid "bills of materials"
-msgstr "bills of materials"
+msgstr "định mức nguyên liệu"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.exception_on_mo
@@ -5810,7 +5810,7 @@ msgstr "đã hủy"
 #. module: mrp
 #: model_terms:ir.actions.act_window,help:mrp.mrp_production_action
 msgid "components"
-msgstr "components"
+msgstr "các nguyên liệu"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.view_assign_serial_numbers_production

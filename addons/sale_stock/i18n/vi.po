@@ -588,7 +588,7 @@ msgstr "Thời gian an toàn cho bán hàng"
 #. module: sale_stock
 #: model:ir.model.fields,field_description:sale_stock.field_stock_location_route__sale_selectable
 msgid "Selectable on Sales Order Line"
-msgstr "Có thể chọn trên Chi tiết đơn bán"
+msgstr "Có thể chọn trên chi tiết đơn bán"
 
 #. module: sale_stock
 #: model:ir.model.fields.selection,name:sale_stock.selection__res_config_settings__default_picking_policy__one

@@ -316,7 +316,7 @@ msgstr "Đóng"
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_details
 msgid "Company Name"
-msgstr "Tên Công ty"
+msgstr "Tên công ty"
 
 #. module: portal
 #: model:ir.model,name:portal.model_res_config_settings

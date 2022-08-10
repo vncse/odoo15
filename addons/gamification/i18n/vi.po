@@ -1098,7 +1098,7 @@ msgstr "Bình luận"
 #. module: gamification
 #: model:gamification.challenge,name:gamification.challenge_base_discover
 msgid "Complete your Profile"
-msgstr "Hoàn thành Hồ sơ của bạn"
+msgstr "Hoàn thành hồ sơ của bạn"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_goal__completeness
@@ -1954,7 +1954,7 @@ msgstr "Mục tiêu của tôi"
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_badge__stat_my_monthly_sending
 msgid "My Monthly Sending Total"
-msgstr "Tổng Gửi đi Hàng tháng của tôi"
+msgstr "Tổng gửi đi hàng tháng của tôi"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_badge__stat_my_this_month
@@ -2181,7 +2181,7 @@ msgstr "Cấp bậc"
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_karma_rank__name
 msgid "Rank Name"
-msgstr "Tên Cấp bậc"
+msgstr "Tên cấp bậc"
 
 #. module: gamification
 #: model:ir.model,name:gamification.model_gamification_karma_rank
@@ -2197,7 +2197,7 @@ msgstr "Cấp bậc"
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.gamification_karma_ranks_view_tree
 msgid "Ranks List"
-msgstr "Danh mục Cấp bậc"
+msgstr "Danh mục cấp bậc"
 
 #. module: gamification
 #: model_terms:gamification.karma.rank,description_motivational:gamification.rank_bachelor
@@ -2816,7 +2816,7 @@ msgstr "Theo dõi thay đổi karma"
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.gamification_karma_tracking_view_form
 msgid "Tracking"
-msgstr "Theo vết"
+msgstr "Truy vết"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_karma_tracking__tracking_date
@@ -2828,7 +2828,7 @@ msgstr "Ngày theo vết"
 #: model:ir.ui.menu,name:gamification.gamification_karma_tracking_menu
 #: model_terms:ir.ui.view,arch_db:gamification.gamification_karma_tracking_view_tree
 msgid "Trackings"
-msgstr "Theo vết"
+msgstr "Truy vết"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_badge__unique_owner_ids

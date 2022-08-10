@@ -258,12 +258,12 @@ msgstr "Công ty"
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__company_informations
 msgid "Company Informations"
-msgstr "Thông tin Công ty"
+msgstr "Thông tin công ty"
 
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__company_name
 msgid "Company Name"
-msgstr "Tên Công ty"
+msgstr "Tên công ty"
 
 #. module: base_setup
 #: model:ir.model,name:base_setup.model_res_config_settings
@@ -461,7 +461,7 @@ msgstr "Tích hợp"
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
 msgid "Inter-Company Transactions"
-msgstr "Giao dịch liên Công ty"
+msgstr "Giao dịch liên công ty"
 
 #. module: base_setup
 #. openerp-web
@@ -520,7 +520,7 @@ msgstr "Quản lý khóa API"
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
 msgid "Manage Companies"
-msgstr "Quản lý các Công ty"
+msgstr "Quản lý các công ty"
 
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__module_account_inter_company_rules
@@ -656,7 +656,7 @@ msgstr "Hiển thị hiệu ứng"
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
 msgid "Synchronize your calendar with Google Calendar"
-msgstr "Đồng bộ lịch của bạn trên Odoo với Lịch Google"
+msgstr "Đồng bộ lịch của bạn trên Odoo với lịch Google"
 
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form

@@ -265,7 +265,7 @@ msgstr "Thành viên yêu thích"
 msgid ""
 "Favorite teams to display them in the dashboard and access them easily."
 msgstr ""
-"Hiển thị các Nhóm ưa thích để hiển thị chúng trong bảng điều khiển và truy "
+"Hiển thị các nhóm ưa thích để hiển thị chúng trong bảng điều khiển và truy "
 "cập chúng một cách dễ dàng."
 
 #. module: sales_team
@@ -343,7 +343,7 @@ msgid ""
 "If set, this Sales Team will be used for sales and assignments related to "
 "this partner"
 msgstr ""
-"Nếu được cài, Nhóm bán hàng này sẽ được sử dụng để bán hàng và các nhiệm vụ "
+"Nếu được cài, nhóm bán hàng này sẽ được sử dụng để bán hàng và các nhiệm vụ "
 "liên quan đến đối tác này"
 
 #. module: sales_team

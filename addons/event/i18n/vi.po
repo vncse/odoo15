@@ -3125,7 +3125,7 @@ msgstr "Đăng ký"
 #: model_terms:ir.ui.view,arch_db:event.view_event_registration_tree
 #: model_terms:ir.ui.view,arch_db:event.view_registration_search
 msgid "Registration Date"
-msgstr "Ngày Mở Đăng ký"
+msgstr "Ngày mở Đăng ký"
 
 #. module: event
 #: model:res.groups,name:event.group_event_registration_desk
@@ -3373,7 +3373,7 @@ msgstr "Giai đoạn"
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.event_stage_view_form
 msgid "Stage Description and Tooltips"
-msgstr "Chú thích và Mô tả cho các giai đoạn"
+msgstr "Chú thích và mô tả cho các giai đoạn"
 
 #. module: event
 #: model:ir.model.fields,field_description:event.field_event_stage__name
@@ -3696,7 +3696,7 @@ msgstr "Tổng đăng ký cho sự kiện này"
 #. module: event
 #: model:ir.model.fields,field_description:event.field_res_config_settings__module_website_event_track
 msgid "Tracks and Agenda"
-msgstr "Theo vết và Lên chương trình"
+msgstr "Truy vết và Lên chương trình"
 
 #. module: event
 #: model:event.type,name:event.event_type_1
