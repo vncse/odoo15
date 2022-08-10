@@ -1273,7 +1273,7 @@ msgstr "Đối tác"
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_transaction__partner_name
 msgid "Partner Name"
-msgstr "Tên Đối tác"
+msgstr "Tên đối tác"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.checkout

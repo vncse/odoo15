@@ -1389,7 +1389,7 @@ msgid ""
 msgstr ""
 "Chủ sở hữu của các bản ghi được tạo khi nhận email về bí danh này. Nếu "
 "trường này không được đặt, hệ thống sẽ cố gắng tìm đúng chủ sở hữu dựa trên "
-"địa chỉ người gửi (Từ) hoặc sẽ sử dụng tài khoản Quản trị viên nếu không tìm"
+"địa chỉ người gửi (Từ) hoặc sẽ sử dụng tài khoản quản trị viên nếu không tìm"
 " thấy người dùng trên hệ thống cho địa chỉ đó."
 
 #. module: maintenance

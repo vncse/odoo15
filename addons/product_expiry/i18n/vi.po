@@ -268,7 +268,7 @@ msgstr "Proceed except for expired one"
 #. module: product_expiry
 #: model:ir.model,name:product_expiry.model_procurement_group
 msgid "Procurement Group"
-msgstr "Nhóm Cung ứng"
+msgstr "Nhóm cung ứng"
 
 #. module: product_expiry
 #: model:ir.model,name:product_expiry.model_product_product

@@ -475,7 +475,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Module này thêm một tuỳ chỉnh Đội bán hàng vào Điểm bán hàng. Điều này cho phép bạn xem và quản lý điểm bán hàng một cách dễ dàng hơn.\n"
+"Module này thêm một tuỳ chỉnh đội bán hàng vào Điểm bán hàng. Điều này cho phép bạn xem và quản lý điểm bán hàng một cách dễ dàng hơn.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_pos_restaurant
@@ -1573,7 +1573,7 @@ msgid ""
 "    Adds Quality Control to workorders with IoT.\n"
 msgstr ""
 "\n"
-"Thêm Kiểm soát chất lượng vào Lệnh sản xuất với thiết bị IoT.\n"
+"Thêm Kiểm soát chất lượng vào lệnh sản xuất với thiết bị IoT.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_quality_mrp_workorder
@@ -2480,7 +2480,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Thêm lựa chọn phương thức giao hàng vào cửa hàng Thương mại Điện tử của bạn.\n"
+"Thêm lựa chọn phương thức giao hàng vào cửa hàng thương mại Điện tử của bạn.\n"
 "Định cấu hình các phương thức của riêng bạn với lưới giá hoặc tích hợp với các nhà mạng cho quy trình vận chuyển hoàn toàn tự động.\n"
 "    "
 
@@ -2707,7 +2707,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Cho phép người mua hàng của cửa hàng Thương mại điện tử của bạn tạo các bộ sưu tập cá nhân các sản phẩm họ muốn mua và lưu chúng để tham khảo trong tương lai.\n"
+"Cho phép người mua hàng của cửa hàng thương mại điện tử của bạn tạo các bộ sưu tập cá nhân các sản phẩm họ muốn mua và lưu chúng để tham khảo trong tương lai.\n"
 "    "
 
 #. module: base
@@ -3831,7 +3831,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Tạo phiếu giảm giá và mã khuyến mãi để chia sẻ để tăng doanh số của bạn (sản phẩm miễn phí, giảm giá, v.v.). Người mua hàng có thể sử dụng chúng trong thanh toán Thương mại điện tử.\n"
+"Tạo phiếu giảm giá và mã khuyến mãi để chia sẻ để tăng doanh số của bạn (sản phẩm miễn phí, giảm giá, v.v.). Người mua hàng có thể sử dụng chúng trong thanh toán thương mại điện tử.\n"
 "\n"
 "Các chương trình khuyến mãi và khuyến mãi có thể được chỉnh sửa trong menu Danh mục của ứng dụng Trang web.\n"
 "    "
@@ -5485,7 +5485,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Quản lý kho của sản phẩm và hiển thị trạng thái sẵn có của chúng trong cửa hàng Thương mại Điện tử của bạn.\n"
+"Quản lý kho của sản phẩm và hiển thị trạng thái sẵn có của chúng trong cửa hàng thương mại Điện tử của bạn.\n"
 "Trong trường hợp tồn kho, bạn có thể quyết định chặn bán thêm hoặc tiếp tục bán.\n"
 "Một hành vi mặc định có thể được chọn trong cài đặt Trang web.\n"
 "Sau đó, nó có thể được thực hiện cụ thể ở cấp độ sản phẩm.\n"
@@ -10688,7 +10688,7 @@ msgstr "Kế toán"
 #: model:ir.module.module,shortdesc:base.module_mrp_account
 #: model:ir.module.module,shortdesc:base.module_mrp_account_enterprise
 msgid "Accounting - MRP"
-msgstr "Kế toán - Sản xuất"
+msgstr "Kế toán - sản xuất"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_timesheet_account_budget
@@ -11142,7 +11142,7 @@ msgstr "Định dạng địa chỉ..."
 #: code:addons/base/models/ir_qweb_fields.py:0
 #, python-format
 msgid "Address separator"
-msgstr "Phân cách Địa chỉ"
+msgstr "Phân cách đia chỉ"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_pos_restaurant_adyen
@@ -11319,12 +11319,12 @@ msgstr "Thông tin hành chính mỗi quốc gia. Vd. Tỉnh/TP/Bang, Bộ ngàn
 #: code:addons/base/models/ir_model.py:0
 #, python-format
 msgid "Administrator access is required to uninstall a module"
-msgstr "Yêu cầu quyền Quản trị viên để gỡ bỏ một phân hệ"
+msgstr "Yêu cầu quyền quản trị viên để gỡ bỏ một phân hệ"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_country_form
 msgid "Advanced Address Formatting"
-msgstr "Định dạng Địa chỉ Nâng cao"
+msgstr "Định dạng đia chỉ Nâng cao"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_website_event_track_gantt
@@ -11402,7 +11402,7 @@ msgstr "Sau"
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__res_country__name_position__after
 msgid "After Address"
-msgstr "Sau Địa chỉ"
+msgstr "Sau đia chỉ"
 
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__res_currency__position__after
@@ -11452,7 +11452,7 @@ msgid ""
 "All contacts must have the same email. Only the Administrator can merge "
 "contacts with different emails."
 msgstr ""
-"Tất cả liên hệ phải có cùng email. Chỉ Quản trị viên có thể trộn liên hệ với"
+"Tất cả liên hệ phải có cùng email. Chỉ quản trị viên có thể trộn liên hệ với"
 " các email khác nhau."
 
 #. module: base
@@ -11688,18 +11688,18 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_analytic
 msgid "Analytic Accounting"
-msgstr "Kế toán Quản trị"
+msgstr "Kế toán quản trị"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_analytic_enterprise
 msgid "Analytic Accounting Enterprise"
-msgstr "Kế toán Quản trị Enterprise"
+msgstr "Kế toán quản trị Enterprise"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mrp_account
 #: model:ir.module.module,summary:base.module_mrp_account_enterprise
 msgid "Analytic accounting in Manufacturing"
-msgstr "Kế toán Quản trị cho Sản xuất"
+msgstr "Kế toán quản trị cho sản xuất"
 
 #. module: base
 #: model:res.country,name:base.ad
@@ -12610,7 +12610,7 @@ msgstr "Trước"
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__res_country__name_position__before
 msgid "Before Address"
-msgstr "Trước Địa chỉ"
+msgstr "Trước đia chỉ"
 
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__res_currency__position__before
@@ -12882,7 +12882,7 @@ msgstr "Kết nối giữa IAP và mail"
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_account_accountant
 msgid "Bridge between Sale and Accounting"
-msgstr "Kết nối giữa Bán hàng và Kế toán"
+msgstr "Kết nối giữa bán hàng và Kế toán"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_stock_accountant
@@ -13787,7 +13787,7 @@ msgstr "Bình luận"
 #: model:ir.model.fields,field_description:base.field_res_partner__commercial_partner_id
 #: model:ir.model.fields,field_description:base.field_res_users__commercial_partner_id
 msgid "Commercial Entity"
-msgstr "Thực thể Thương mại"
+msgstr "Thực thể thương mại"
 
 #. module: base
 #: model:ir.module.category,name:base.module_category_sales_commissions
@@ -17192,7 +17192,7 @@ msgstr "Dịch vụ Hiện trường - Dự báo dự án"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_industry_fsm_sale
 msgid "Field Service - Sale"
-msgstr "Dịch vụ Hiện trường - Bán hàng"
+msgstr "Dịch vụ Hiện trường - bán hàng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_industry_fsm_report
@@ -17202,7 +17202,7 @@ msgstr "Báo cáo dịch vụ hiện trường"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_industry_fsm_sale_report
 msgid "Field Service Reports - Sale"
-msgstr "Báo cáo dịch vụ hiện trường - Bán hàng"
+msgstr "Báo cáo dịch vụ hiện trường - bán hàng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_industry_fsm_stock
@@ -17974,13 +17974,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:base.field_res_partner__partner_latitude
 #: model:ir.model.fields,field_description:base.field_res_users__partner_latitude
 msgid "Geo Latitude"
-msgstr "Vĩ độ Địa lý"
+msgstr "Vĩ độ đia lý"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_partner__partner_longitude
 #: model:ir.model.fields,field_description:base.field_res_users__partner_longitude
 msgid "Geo Longitude"
-msgstr "Kinh độ Địa lý"
+msgstr "Kinh độ đia lý"
 
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__res_company__layout_background__geometric
@@ -19999,7 +19999,7 @@ msgstr "Trang chủ IoT Box"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_workorder_iot
 msgid "IoT features for Work Order"
-msgstr "Tính năng IoT cho Lệnh làm việc"
+msgstr "Tính năng IoT cho lệnh làm việc"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_delivery_iot
@@ -20323,7 +20323,7 @@ msgstr "Chi phí vận chuyển trong MO"
 #. module: base
 #: model:ir.module.module,summary:base.module_mrp_landed_costs
 msgid "Landed Costs on Manufacturing Order"
-msgstr "Chi phí vận chuyển trong Lệnh sản xuất"
+msgstr "Chi phí vận chuyển trong lệnh sản xuất"
 
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__report_paperformat__orientation__landscape
@@ -24200,7 +24200,7 @@ msgstr "Gửi yêu cầu hỗ trợ trực tuyến"
 #: code:addons/base/models/res_config.py:0
 #, python-format
 msgid "Only administrators can change the settings"
-msgstr "Chỉ Quản trị viên mới có thể thay đổi thiết lập"
+msgstr "Chỉ quản trị viên mới có thể thay đổi thiết lập"
 
 #. module: base
 #: code:addons/base/models/ir_attachment.py:0
@@ -24421,7 +24421,7 @@ msgstr ""
 "Tổ chức sự kiện, đào tạo và hội thảo trên web\n"
 "-------------------------------------\n"
 "\n"
-"### Lịch trình, Quảng bá, Bán, Sắp xếp\n"
+"### Lịch trình, quảng bá, Bán, Sắp xếp\n"
 "\n"
 "Nhận thêm tính năng cho mỗi sự kiện; nhiều trang, nhà tài trợ, nhiều cuộc nói chuyện, mẫu đề xuất thảo luận, chương trình nghị sự, tin tức liên quan đến sự kiện, tài liệu (slide thuyết trình), thực đơn dành riêng cho sự kiện.\n"
 "\n"
@@ -24448,7 +24448,7 @@ msgstr ""
 "\n"
 "Thêm nhà tài trợ vào các sự kiện của bạn và xuất bản các nhà tài trợ theo cấp độ (ví dụ: đồng, bạc, vàng) ở cuối mỗi trang của sự kiện.\n"
 "\n"
-"Bán các gói tài trợ trực tuyến thông qua Thương mại điện tử Odoo để tích hợp chu trình bán hàng đầy đủ.\n"
+"Bán các gói tài trợ trực tuyến thông qua thương mại điện tử Odoo để tích hợp chu trình bán hàng đầy đủ.\n"
 "\n"
 "Giao tiếp hiệu quả\n"
 "-----------------------\n"
@@ -25093,7 +25093,7 @@ msgstr "Đối tác"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_base_geolocalize
 msgid "Partners Geolocation"
-msgstr "Định vị Đối tác"
+msgstr "Định vị đối tác"
 
 #. module: base
 #: code:addons/base/models/res_partner.py:0
@@ -25436,7 +25436,7 @@ msgid ""
 "Please use the change password wizard (in User Preferences or User menu) to "
 "change your own password."
 msgstr ""
-"Vui lòng sử dụng chức năng thay đổi mật khẩu (trong Tùy chọn hoặc Quản lý "
+"Vui lòng sử dụng chức năng thay đổi mật khẩu (trong Tùy chọn hoặc quản lý "
 "người dùng) để thay đổi mật khẩu của bạn."
 
 #. module: base
@@ -27086,7 +27086,7 @@ msgstr "Máy chủ SMTP"
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_purchase_stock
 msgid "SO/PO relation in case of MTO"
-msgstr "SO/PO liên quan trong trường hợp Bán theo đơn hàng"
+msgstr "SO/PO liên quan trong trường hợp bán theo đơn hàng"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_model__order
@@ -27263,7 +27263,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_product_configurator
 msgid "Sale Product Configurator"
-msgstr "Trình cấu hình sản phẩm Bán"
+msgstr "Trình cấu hình sản phẩm bán"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_project_forecast
@@ -27273,7 +27273,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_purchase
 msgid "Sale Purchase"
-msgstr "Mua Bán"
+msgstr "Mua bán"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_stock_margin
@@ -27323,7 +27323,7 @@ msgstr "Bán hàng - Dự án"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_expense
 msgid "Sales Expense"
-msgstr "Chi phí Bán"
+msgstr "Chi phí bán"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sales_team
@@ -27504,7 +27504,7 @@ msgstr "Tìm ngân hàng"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_res_partner_filter
 msgid "Search Partner"
-msgstr "Tìm kiếm Đối tác"
+msgstr "Tìm kiếm đối tác"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.res_partner_category_view_search
@@ -28917,7 +28917,7 @@ msgstr "Mã số thuế"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_sale_taxcloud_delivery
 msgid "TaxCloud and Delivery - Ecommerce"
-msgstr "TaxCloud và giao hàng - Thương mại điện tử"
+msgstr "TaxCloud và giao hàng - thương mại điện tử"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_subscription_taxcloud
@@ -31102,7 +31102,7 @@ msgstr "Sử dụng dấu phẩy thay vì thẻ <br> để hiển thị địa c
 #: model:ir.module.module,summary:base.module_website_sale_coupon
 msgid "Use coupon & promotion programs in your eCommerce store"
 msgstr ""
-"Sử dụng phiếu giảm giá và chương trình khuyến mãi trong gian hàng Thương mại"
+"Sử dụng phiếu giảm giá và chương trình khuyến mãi trong gian hàng thương mại"
 " điện tử của bạn"
 
 #. module: base
@@ -32312,7 +32312,7 @@ msgstr ""
 #: code:addons/base/models/res_partner.py:0
 #, python-format
 msgid "You cannot create recursive Partner hierarchies."
-msgstr "Bạn không thể tạo cấu trúc Đối tác lặp đi lặp lại."
+msgstr "Bạn không thể tạo cấu trúc đối tác lặp đi lặp lại."
 
 #. module: base
 #: code:addons/base/models/res_company.py:0
@@ -32405,7 +32405,7 @@ msgstr "Bạn không có quyền thực hiện hành động này."
 #, python-format
 msgid ""
 "You don't have the rights to export data. Please contact an Administrator."
-msgstr "Bạn không có quyền xuất dữ liệu. Vui lòng liên hệ với Quản trị viên."
+msgstr "Bạn không có quyền xuất dữ liệu. Vui lòng liên hệ với quản trị viên."
 
 #. module: base
 #: code:addons/base/wizard/base_partner_merge.py:0
@@ -32728,7 +32728,7 @@ msgstr "Thương mại điện tử"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_sale_delivery
 msgid "eCommerce Delivery"
-msgstr "Quản lý giao hàng cho Thương mại điện tử"
+msgstr "Quản lý giao hàng cho thương mại điện tử"
 
 #. module: base
 #: model:ir.module.category,name:base.module_category_website_elearning

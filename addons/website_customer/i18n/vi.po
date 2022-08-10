@@ -163,7 +163,7 @@ msgstr "Thành tựu của chúng tôi"
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.view_partner_tag_form
 msgid "Partner Tag"
-msgstr "Thẻ Đối tác"
+msgstr "Thẻ đối tác"
 
 #. module: website_customer
 #: model:ir.model,name:website_customer.model_res_partner_tag

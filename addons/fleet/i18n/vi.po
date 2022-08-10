@@ -1206,7 +1206,7 @@ msgstr "Thay thế gioăng cổ hút"
 #. module: fleet
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_log_contract_view_form
 msgid "Invoice Date"
-msgstr "Ngày Hoá đơn"
+msgstr "Ngày hoá đơn"
 
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle__message_is_follower
@@ -1502,7 +1502,7 @@ msgstr "Mới"
 #. module: fleet
 #: model:fleet.vehicle.state,name:fleet.fleet_vehicle_state_new_request
 msgid "New Request"
-msgstr "Đề nghị Mới"
+msgstr "Đề nghị mới"
 
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle__activity_calendar_event_id

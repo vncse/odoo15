@@ -281,7 +281,7 @@ msgstr "Tổng số nhân của giá hoá đơn và số lượng hoá đơn c�
 msgid ""
 "Sum of Multiplication of Sale Catalog price and quantity of Customer "
 "Invoices"
-msgstr "Tổng của tích giá catalô và số lượng trong Hoá đơn khách hàng"
+msgstr "Tổng của tích giá catalô và số lượng trong hoá đơn khách hàng"
 
 #. module: product_margin
 #: model:ir.model.fields,help:product_margin.field_product_product__sale_num_invoiced

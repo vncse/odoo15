@@ -400,7 +400,7 @@ msgstr "Phát sinh Kế toán"
 #. module: stock_account
 #: model:ir.model.fields,field_description:stock_account.field_res_config_settings__module_stock_landed_costs
 msgid "Landed Costs"
-msgstr "Chi phí Về kho"
+msgstr "Chi phí về kho"
 
 #. module: stock_account
 #: model:ir.model.fields,field_description:stock_account.field_stock_valuation_layer____last_update

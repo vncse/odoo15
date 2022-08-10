@@ -3097,7 +3097,7 @@ msgstr "Bạn không thể tạo phòng ban đệ quy."
 #: code:addons/hr/models/res_config_settings.py:0
 #, python-format
 msgid "You should select at least one Advanced Presence Control option."
-msgstr "Bạn nên chọn ít nhất một tùy chọn Quản lý có mặt nâng cao."
+msgstr "Bạn nên chọn ít nhất một tùy chọn quản lý có mặt nâng cao."
 
 #. module: hr
 #: model_terms:ir.ui.view,arch_db:hr.res_users_view_form_profile
@@ -3128,7 +3128,7 @@ msgstr "VD: Hội nhập"
 #. module: hr
 #: model_terms:ir.ui.view,arch_db:hr.view_hr_job_form
 msgid "e.g. Sales Manager"
-msgstr "vd: Quản lý Bán hàng"
+msgstr "vd: Quản lý bán hàng"
 
 #. module: hr
 #: model:ir.model,name:hr.model_hr_plan

@@ -368,7 +368,7 @@ msgstr "Đăng ký"
 #. module: event_sale
 #: model:ir.model.fields,field_description:event_sale.field_registration_editor__event_registration_ids
 msgid "Registrations to Edit"
-msgstr "Đăng ký để Sửa"
+msgstr "Đăng ký để sửa"
 
 #. module: event_sale
 #: model_terms:ir.ui.view,arch_db:event_sale.event_registration_ticket_view_form

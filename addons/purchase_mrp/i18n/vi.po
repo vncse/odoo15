@@ -61,7 +61,7 @@ msgstr ""
 #. module: purchase_mrp
 #: model:ir.model,name:purchase_mrp.model_mrp_production
 msgid "Production Order"
-msgstr "Lệnh Sản xuất"
+msgstr "Lệnh sản xuất"
 
 #. module: purchase_mrp
 #: model:ir.model,name:purchase_mrp.model_purchase_order

@@ -61,7 +61,7 @@ msgstr "Không tìm thấy sản phẩm chiết khấu"
 #. module: pos_discount
 #: model:ir.model.fields,field_description:pos_discount.field_pos_config__iface_discount
 msgid "Order Discounts"
-msgstr "Chiết khấu Đơn hàng"
+msgstr "Chiết khấu đơn hàng"
 
 #. module: pos_discount
 #: model:ir.model,name:pos_discount.model_pos_config
@@ -82,7 +82,7 @@ msgid ""
 " Sold' and 'Available in Point of Sale'."
 msgstr ""
 "Sản phẩm chiết khấu dường như được cấu hình sai. Hãy chắc chắn rằng nó được "
-"đánh dấu 'Có thể Bán' và 'Khả dụng ở Điểm bán lẻ'."
+"đánh dấu 'Có thể bán' và 'Khả dụng ở Điểm bán lẻ'."
 
 #. module: pos_discount
 #: model:ir.model.fields,help:pos_discount.field_pos_config__discount_product_id

@@ -2469,7 +2469,7 @@ msgstr "Khoảng thời gian"
 #. module: event
 #: model_terms:event.event,description:event.event_2
 msgid "Introduction, CRM, Sales Management"
-msgstr "Giới thiệu, CRM, Quản lý Bán"
+msgstr "Giới thiệu, CRM, Quản lý bán"
 
 #. module: event
 #: code:addons/event/models/event_registration.py:0
@@ -3067,7 +3067,7 @@ msgstr "Quản lý dự án, Quản lý Nhân lực, Quản lý Hợp đồng."
 #. module: event
 #: model_terms:event.event,description:event.event_2
 msgid "Purchase, Sales &amp; Purchase management, Financial accounting."
-msgstr "Mua sắm, Quản lý Bán &amp; Mua, Kế toán Tài chính."
+msgstr "Mua sắm, Quản lý bán &amp; Mua, Kế toán Tài chính."
 
 #. module: event
 #: model:ir.model.fields,field_description:event.field_res_config_settings__module_website_event_track_quiz
@@ -3860,7 +3860,7 @@ msgstr ""
 #. module: event
 #: model_terms:event.event,description:event.event_2
 msgid "Warehouse management, Manufacturing (MRP) &amp; Sales, Import/Export."
-msgstr "Quản lý Kho, Hoạch định Sản xuất (MRP) &amp; Bán, Xuất/Nhập dữ liệu."
+msgstr "Quản lý Kho, Hoạch định sản xuất (MRP) &amp; Bán, Xuất/Nhập dữ liệu."
 
 #. module: event
 #: model_terms:event.event,description:event.event_1

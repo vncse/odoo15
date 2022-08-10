@@ -119,7 +119,7 @@ msgstr "Xác nhận"
 #. module: sale_management
 #: model:ir.model.fields,field_description:sale_management.field_sale_order_template__mail_template_id
 msgid "Confirmation Mail"
-msgstr "Mẫu Thư Xác nhận"
+msgstr "Mẫu Thư xác nhận"
 
 #. module: sale_management
 #: model:ir.model.fields,help:sale_management.field_sale_order_option__product_uom_category_id
@@ -523,7 +523,7 @@ msgid ""
 "to help sales configure a product with different options: colors, size, "
 "capacity, etc. Make sale orders encoding easier and error-proof."
 msgstr ""
-"Bạn đang rất vất vả với một danh mục sản phẩm phức tạp? Hãy dùng thử Cấu "
+"Bạn đang rất vất vả với một danh mục sản phẩm phức tạp? Hãy dùng thử cấu "
 "hình sản phẩm để giúp bộ phận bán hàng định cấu hình sản phẩm với các tùy "
 "chọn khác nhau: màu sắc, kích thước, dung lượng, v.v. Giúp mã hóa đơn bán "
 "hàng dễ dàng hơn và không mắc lỗi. "

@@ -773,7 +773,7 @@ msgstr "Tên"
 #: code:addons/website_event/static/src/js/website_event.editor.js:0
 #, python-format
 msgid "New Event"
-msgstr "Sự kiện Mới"
+msgstr "Sự kiện mới"
 
 #. module: website_event
 #: code:addons/website_event/models/website.py:0
@@ -1249,7 +1249,7 @@ msgid ""
 "With the Edit button, you can <b>customize</b> the web page visitors will "
 "see when registering."
 msgstr ""
-"Dùng nút Sửa, bạn có thể <b>tùy chỉnh</b> trang web khách truy cập có thể "
+"Dùng nút sửa, bạn có thể <b>tùy chỉnh</b> trang web khách truy cập có thể "
 "thấy khi đăng ký. "
 
 #. module: website_event

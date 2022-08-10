@@ -1633,7 +1633,7 @@ msgid ""
 "If empty, the approval is done by an Administrator or Approver (determined in settings/users)."
 msgstr ""
 "Chọn người dùng phụ trách phê duyệt \"Chi phí\" của nhân viên này.\n"
-"Nếu để trống, phê duyệt được thực hiện bởi Quản trị viên hoặc người phê duyệt (được xác định trong cài đặt/người dùng.)"
+"Nếu để trống, phê duyệt được thực hiện bởi quản trị viên hoặc người phê duyệt (được xác định trong cài đặt/người dùng.)"
 
 #. module: hr_expense
 #: code:addons/hr_expense/models/hr_expense.py:0
@@ -1737,7 +1737,7 @@ msgstr "Tình trạng của chi tiêu."
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.view_hr_expense_sheet_form
 msgid "Submit to Manager"
-msgstr "Trình cho người Quản lý"
+msgstr "Trình cho người quản lý"
 
 #. module: hr_expense
 #: model:ir.model.fields.selection,name:hr_expense.selection__hr_expense__state__reported

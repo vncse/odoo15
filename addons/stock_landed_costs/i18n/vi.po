@@ -353,7 +353,7 @@ msgstr "Nếu có đánh dấu, một số thông điệp đã có lỗi gửi �
 #: model:ir.model.fields,help:stock_landed_costs.field_product_product__landed_cost_ok
 #: model:ir.model.fields,help:stock_landed_costs.field_product_template__landed_cost_ok
 msgid "Indicates whether the product is a landed cost."
-msgstr "Chỉ báo rằng sản phẩm có phải là một Chi phí Về kho hay không."
+msgstr "Chỉ báo rằng sản phẩm có phải là một Chi phí về kho hay không."
 
 #. module: stock_landed_costs
 #: model:ir.model.fields,field_description:stock_landed_costs.field_stock_landed_cost__message_is_follower
@@ -369,7 +369,7 @@ msgstr "Is Landed Costs Line"
 #: model:ir.model.fields,field_description:stock_landed_costs.field_product_product__landed_cost_ok
 #: model:ir.model.fields,field_description:stock_landed_costs.field_product_template__landed_cost_ok
 msgid "Is a Landed Cost"
-msgstr "Là một Chi phí Về kho"
+msgstr "Là một chi phí về kho"
 
 #. module: stock_landed_costs
 #: model:ir.model.fields,field_description:stock_landed_costs.field_stock_landed_cost__description
@@ -412,7 +412,7 @@ msgstr "Chi phí về kho"
 #: model_terms:ir.ui.view,arch_db:stock_landed_costs.view_stock_landed_cost_tree
 #: model_terms:ir.ui.view,arch_db:stock_landed_costs.view_stock_landed_cost_tree2
 msgid "Landed Costs"
-msgstr "Chi phí Về kho"
+msgstr "Chi phí về kho"
 
 #. module: stock_landed_costs
 #: model:ir.model.fields,field_description:stock_landed_costs.field_account_bank_statement_line__landed_costs_visible

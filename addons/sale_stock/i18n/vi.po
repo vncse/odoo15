@@ -120,7 +120,7 @@ msgstr ""
 #. module: sale_stock
 #: model:ir.ui.menu,name:sale_stock.menu_aftersale
 msgid "After-Sale"
-msgstr "Sau Bán hàng"
+msgstr "Sau bán hàng"
 
 #. module: sale_stock
 #. openerp-web
@@ -338,7 +338,7 @@ msgid ""
 "International Commercial Terms are a series of predefined commercial terms "
 "used in international transactions."
 msgstr ""
-"Bộ Điều khoản Thương mại Quốc tế (Incoterms) là một chuỗi các điều khoản "
+"Bộ Điều khoản thương mại Quốc tế (Incoterms) là một chuỗi các điều khoản "
 "thương mại được định nghĩa trước để sử dụng trong các giao dịch quốc tế."
 
 #. module: sale_stock
@@ -354,7 +354,7 @@ msgstr "Định tuyến Kho"
 #. module: sale_stock
 #: model:ir.ui.menu,name:sale_stock.menu_invoiced
 msgid "Invoicing"
-msgstr "Xuất Hoá đơn"
+msgstr "Xuất hoá đơn"
 
 #. module: sale_stock
 #: model:ir.model.fields,field_description:sale_stock.field_sale_order_line__is_mto
@@ -414,7 +414,7 @@ msgid ""
 msgstr ""
 "Biên độ sai lệch cho số ngày mà bạn hứa với khách hàng. Sản phẩm / Hàng hoá "
 "sẽ được ấn định cung ứng và bàn giao sớm hơn ngày mà bạn hứa với số ngày sớm"
-" hơn chính là Ngày an toàn Bán, để có thể đề phòng tình huống chậm trễ không"
+" hơn chính là Ngày an toàn bán, để có thể đề phòng tình huống chậm trễ không"
 " mong đợi trong chuỗi cung ứng của bạn"
 
 #. module: sale_stock
@@ -463,7 +463,7 @@ msgstr "Chính sách giao hàng"
 #: model:ir.model,name:sale_stock.model_procurement_group
 #: model:ir.model.fields,field_description:sale_stock.field_sale_order__procurement_group_id
 msgid "Procurement Group"
-msgstr "Nhóm Cung ứng"
+msgstr "Nhóm cung ứng"
 
 #. module: sale_stock
 #: model:ir.model,name:sale_stock.model_product_template
@@ -507,7 +507,7 @@ msgstr "Giữ trước"
 #. module: sale_stock
 #: model:ir.model.fields,field_description:sale_stock.field_sale_order_line__route_id
 msgid "Route"
-msgstr "Tuyến Cung ứng"
+msgstr "Tuyến cung ứng"
 
 #. module: sale_stock
 #: model:ir.model.fields,field_description:sale_stock.field_stock_move__sale_line_id
@@ -563,7 +563,7 @@ msgstr "Đơn bán"
 #. module: sale_stock
 #: model:ir.model.fields,field_description:sale_stock.field_res_company__security_lead
 msgid "Sales Safety Days"
-msgstr "Ngày an toàn Bán"
+msgstr "Ngày an toàn bán"
 
 #. module: sale_stock
 #: model_terms:ir.ui.view,arch_db:sale_stock.res_config_settings_view_form_stock
@@ -616,7 +616,7 @@ msgid ""
 "Some products have already been delivered. Returns can be created from the "
 "Delivery Orders."
 msgstr ""
-"Một số sản phẩm đã được giao hàng. Trả lại hàng có thể được tạo từ Đơn giao "
+"Một số sản phẩm đã được giao hàng. Trả lại hàng có thể được tạo từ đơn giao "
 "hàng. "
 
 #. module: sale_stock

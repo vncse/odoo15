@@ -726,7 +726,7 @@ msgstr "Máy in đơn hàng"
 #: model:ir.model.fields,field_description:pos_restaurant.field_pos_config__printer_ids
 #: model:ir.ui.menu,name:pos_restaurant.menu_restaurant_printer_all
 msgid "Order Printers"
-msgstr "Máy in Lệnh"
+msgstr "Máy in lệnh"
 
 #. module: pos_restaurant
 #: model_terms:ir.actions.act_window,help:pos_restaurant.action_restaurant_printer_form
@@ -734,7 +734,7 @@ msgid ""
 "Order Printers are used by restaurants and bars to print the\n"
 "                order updates in the kitchen/bar when the waiter updates the order."
 msgstr ""
-"Các máy in Lệnh được sử dụng bởi các nhà hàng và quán bar để in"
+"Các máy in lệnh được sử dụng bởi các nhà hàng và quán bar để in"
 "                các cập nhật đơn hàng vào bếp/quầy bar khi phục vụ viên cập "
 "nhật đơn hàng."
 
@@ -914,7 +914,7 @@ msgstr "Sàn nhà hàng"
 #. module: pos_restaurant
 #: model_terms:ir.ui.view,arch_db:pos_restaurant.view_restaurant_printer
 msgid "Restaurant Order Printers"
-msgstr "Máy in Lệnh nhà hàng"
+msgstr "Máy in lệnh nhà hàng"
 
 #. module: pos_restaurant
 #: model:ir.model,name:pos_restaurant.model_restaurant_printer

@@ -720,7 +720,7 @@ msgstr ""
 #. module: survey
 #: model:survey.question,title:survey.survey_feedback_p2
 msgid "About our ecommerce"
-msgstr "Về giải pháp Thương mại điện tử của chúng tôi"
+msgstr "Về giải pháp thương mại điện tử của chúng tôi"
 
 #. module: survey
 #: model:survey.question,title:survey.survey_feedback_p1
@@ -921,7 +921,7 @@ msgstr "Trả lời"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__session_answer_count
 msgid "Answers Count"
-msgstr "SL Câu trả lời"
+msgstr "SL câu trả lời"
 
 #. module: survey
 #: model:ir.model.fields.selection,name:survey.selection__survey_survey__access_mode__public
@@ -1395,7 +1395,7 @@ msgstr "Đúng"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_question_form
 msgid "Correct Answer"
-msgstr "Hiệu chỉnh Câu trả lời"
+msgstr "Hiệu chỉnh câu trả lời"
 
 #. module: survey
 #: model:ir.model.fields,help:survey.field_survey_question__answer_datetime
@@ -3142,7 +3142,7 @@ msgstr "Câu hỏi (dạng hàng ma trận)"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__session_question_answer_count
 msgid "Question Answers Count"
-msgstr "SL Câu trả lời"
+msgstr "SL câu trả lời"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_question_form
@@ -3193,7 +3193,7 @@ msgstr "Đạt Trắc nghiệm"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_question__random_questions_count
 msgid "Random questions count"
-msgstr "SL Câu hỏi ngẫu nhiên"
+msgstr "SL câu hỏi ngẫu nhiên"
 
 #. module: survey
 #: model:ir.model.fields.selection,name:survey.selection__survey_survey__questions_selection__random
@@ -3389,7 +3389,7 @@ msgstr "Tìm kiếm Nhãn"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_question_search
 msgid "Search Question"
-msgstr "Tìm kiếm Câu hỏi"
+msgstr "Tìm kiếm câu hỏi"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_view_search
@@ -3410,7 +3410,7 @@ msgstr "Mục"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__question_and_page_ids
 msgid "Sections and Questions"
-msgstr "Khu vực và Câu hỏi"
+msgstr "Khu vực và câu hỏi"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_form

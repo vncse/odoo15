@@ -300,12 +300,12 @@ msgstr ""
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
 msgid "<span class=\"o_form_label\">Confirmation Email</span>"
-msgstr "<span class=\"o_form_label\">Email Xác nhận</span>"
+msgstr "<span class=\"o_form_label\">Email xác nhận</span>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
 msgid "<span class=\"o_form_label\">Invoicing Policy</span>"
-msgstr "<span class=\"o_form_label\">Chính sách Xuất Hoá đơn</span>"
+msgstr "<span class=\"o_form_label\">Chính sách Xuất hoá đơn</span>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.extra_info
@@ -876,7 +876,7 @@ msgstr "Địa chỉ xuất hóa đơn"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.checkout
 msgid "Billing Address"
-msgstr "Địa chỉ Xuất Hoá đơn"
+msgstr "Địa chỉ Xuất hoá đơn"
 
 #. module: website_sale
 #: code:addons/website_sale/models/website_snippet_filter.py:0
@@ -2682,7 +2682,7 @@ msgstr "Hạn chế phát hành cho website này"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.wizard_checkout
 msgid "Review Order"
-msgstr "Xem lại Đơn"
+msgstr "Xem lại đơn"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_product__website_ribbon_id
@@ -2751,7 +2751,7 @@ msgstr "Phân tích kinh doanh"
 #. module: website_sale
 #: model:ir.model,name:website_sale.model_sale_report
 msgid "Sales Analysis Report"
-msgstr "Báo cáo Phân tích Bán"
+msgstr "Báo cáo Phân tích bán"
 
 #. module: website_sale
 #: model:ir.model,name:website_sale.model_sale_order
@@ -2943,7 +2943,7 @@ msgstr "Cửa hàng - thanh toán"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
 msgid "Shop - Confirmed"
-msgstr "Shop - Xác nhận"
+msgstr "Shop - xác nhận"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.payment
@@ -3342,7 +3342,7 @@ msgstr "Chưa xuất bản"
 #: code:addons/website_sale/static/src/xml/website_sale_dashboard.xml:0
 #, python-format
 msgid "Untaxed Total Sold"
-msgstr "Tổng Bán chưa Thuế"
+msgstr "Tổng bán chưa Thuế"
 
 #. module: website_sale
 #. openerp-web
@@ -3515,7 +3515,7 @@ msgstr "Website dữ liệu từ khóa"
 #: model:ir.model.fields,field_description:website_sale.field_product_public_category__website_meta_title
 #: model:ir.model.fields,field_description:website_sale.field_product_template__website_meta_title
 msgid "Website meta title"
-msgstr "Website dữ liệu Tiêu đề"
+msgstr "Website dữ liệu tiêu đề"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_public_category__website_meta_og_img
@@ -3528,12 +3528,12 @@ msgstr "Hình ảnh trang web"
 #: model:ir.model.fields,help:website_sale.field_account_move__website_id
 #: model:ir.model.fields,help:website_sale.field_account_payment__website_id
 msgid "Website through which this invoice was created."
-msgstr "Website mà tại đó Hoá đơn đã được tạo."
+msgstr "Website mà tại đó hoá đơn đã được tạo."
 
 #. module: website_sale
 #: model:ir.model.fields,help:website_sale.field_sale_order__website_id
 msgid "Website through which this order was placed."
-msgstr "Website mà tại đó Đơn đã được đặt."
+msgstr "Website mà tại đó đơn đã được đặt."
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_crm_team__website_ids
@@ -3543,7 +3543,7 @@ msgstr "Website"
 #. module: website_sale
 #: model:ir.model.fields,help:website_sale.field_crm_team__website_ids
 msgid "Websites using this Sales Team"
-msgstr "Trang web dùng Đội bán hàng này"
+msgstr "Trang web dùng đội bán hàng này"
 
 #. module: website_sale
 #: code:addons/website_sale/models/website_snippet_filter.py:0
@@ -3671,7 +3671,7 @@ msgstr "Thương mại điện tử"
 #: model:ir.actions.act_window,name:website_sale.product_public_category_action
 #: model:ir.ui.menu,name:website_sale.menu_catalog_categories
 msgid "eCommerce Categories"
-msgstr "Nhóm Thương mại ĐT"
+msgstr "Nhóm thương mại ĐT"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.attribute_tree_view
@@ -3682,12 +3682,12 @@ msgstr "Tính hiển thị bộ lọc eCommerce"
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_digest_digest__kpi_website_sale_total
 msgid "eCommerce Sales"
-msgstr "Bán Thương mại ĐT"
+msgstr "Bán thương mại ĐT"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_res_config_settings__module_website_sale_delivery
 msgid "eCommerce Shipping Costs"
-msgstr "Phí giao hàng Thương mại ĐT"
+msgstr "Phí giao hàng thương mại ĐT"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_template_form_view

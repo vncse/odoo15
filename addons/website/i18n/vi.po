@@ -522,7 +522,7 @@ msgstr "<b>Thêm</b> ảnh đã chọn."
 #: code:addons/website/static/src/js/tours/tour_utils.js:0
 #, python-format
 msgid "<b>Click Edit</b> to start designing your homepage."
-msgstr "<b>Bấm Sửa</b> để bắt đầu việc thiết kế trang chủ của bạn."
+msgstr "<b>Bấm sửa</b> để bắt đầu việc thiết kế trang chủ của bạn."
 
 #. module: website
 #. openerp-web
@@ -4895,7 +4895,7 @@ msgstr "Đến"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.view_view_form_extend
 msgid "Go to Page Manager"
-msgstr "Đi đến Quản lý trang"
+msgstr "Đi đến quản lý trang"
 
 #. module: website
 #. openerp-web
@@ -5157,12 +5157,12 @@ msgstr "Đầu trang"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page__header_color
 msgid "Header Color"
-msgstr "Màu Tiêu đề"
+msgstr "Màu tiêu đề"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_page__header_overlay
 msgid "Header Overlay"
-msgstr "Lớp phủ Tiêu đề"
+msgstr "Lớp phủ tiêu đề"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -6612,7 +6612,7 @@ msgid ""
 "Commercial Director in the software industry, Mich has helped the company to"
 " get where it is today. Mich is among the best minds."
 msgstr ""
-"Mịch rất thích thử thách. Với kinh nghiệm nhiều năm làm Giám đốc Thương mại "
+"Mịch rất thích thử thách. Với kinh nghiệm nhiều năm làm Giám đốc thương mại "
 "trong ngành phần mềm, ông Mịch đã giúp công ty có được vị trí như ngày hôm "
 "nay. Mịch nằm trong số những người tâm đầu ý hợp."
 
@@ -6943,7 +6943,7 @@ msgstr "Khách hàng mới"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.user_navbar
 msgid "New page"
-msgstr "Trang Mới"
+msgstr "Trang mới"
 
 #. module: website
 #: model:website.configurator.feature,name:website.feature_module_news
@@ -10877,7 +10877,7 @@ msgstr "Dữ liệu Từ khoá Website"
 #: model:ir.model.fields,field_description:website.field_website_page__website_meta_title
 #: model:ir.model.fields,field_description:website.field_website_seo_metadata__website_meta_title
 msgid "Website meta title"
-msgstr "Dữ liệu Tiêu đề Website"
+msgstr "Dữ liệu tiêu đề Website"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_ir_ui_view__website_meta_og_img
@@ -11673,7 +11673,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.user_navbar
 msgid "or Edit Master"
-msgstr "hoặc Sửa bản gốc"
+msgstr "hoặc sửa bản gốc"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets

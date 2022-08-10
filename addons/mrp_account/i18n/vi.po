@@ -152,7 +152,7 @@ msgstr "Bản mẫu sản phẩm"
 #. module: mrp_account
 #: model:ir.model,name:mrp_account.model_mrp_production
 msgid "Production Order"
-msgstr "Lệnh Sản xuất"
+msgstr "Lệnh sản xuất"
 
 #. module: mrp_account
 #: model:ir.model.fields,field_description:mrp_account.field_mrp_production__show_valuation
@@ -195,7 +195,7 @@ msgstr "Phát sinh KT quản trị WC"
 #. module: mrp_account
 #: model:ir.model,name:mrp_account.model_mrp_workcenter
 msgid "Work Center"
-msgstr "Năng lực Sản xuất"
+msgstr "Năng lực sản xuất"
 
 #. module: mrp_account
 #: model:ir.model,name:mrp_account.model_mrp_workorder
@@ -215,7 +215,7 @@ msgstr "Nhật ký sản xuất của Năng lực sản xuất"
 #. module: mrp_account
 #: model:ir.model.fields,field_description:mrp_account.field_account_analytic_account__workcenter_ids
 msgid "Workcenters"
-msgstr "Năng lực Sản xuất"
+msgstr "Năng lực sản xuất"
 
 #. module: mrp_account
 #: code:addons/mrp_account/models/stock_move.py:0

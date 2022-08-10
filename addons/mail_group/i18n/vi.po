@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* mail_group
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # fanha99 <fanha99@hotmail.com>, 2021
@@ -11,7 +11,7 @@
 # Trinh Tran Thi Phuong <trinhttp@trobz.com>, 2021
 # Dung Nguyen Thi <dungnt@trobz.com>, 2021
 # Vo Thanh Thuy, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0\n"
@@ -1364,7 +1364,7 @@ msgid ""
 msgstr ""
 "Người sở hữu của các hồ sơ được tạo khi nhận email gửi tới bí danh này. Nếu "
 "trường này không được đặt, hệ thống sẽ cố gắng tìm đúng người sở hữu dựa vào"
-" địa chỉ người gửi (Từ), hoặc sẽ dùng tài khoản Quản trị viên nếu không tìm "
+" địa chỉ người gửi (Từ), hoặc sẽ dùng tài khoản quản trị viên nếu không tìm "
 "thấy người dùng hệ thống nào cho địa chỉ đó. "
 
 #. module: mail_group

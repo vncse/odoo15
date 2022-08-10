@@ -1652,14 +1652,14 @@ msgstr "Các địa chỉ người nhận cách nhau bằng dấu phảy"
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.email_template_form
 msgid "Comma-separated ids of recipient partners"
-msgstr "Các ID của Đối tác nhận cách nhau bằng dấu phảy"
+msgstr "Các ID của đối tác nhận cách nhau bằng dấu phảy"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_template__partner_to
 msgid ""
 "Comma-separated ids of recipient partners (placeholders may be used here)"
 msgstr ""
-"Các ID của Đối tác nhận cách nhau bằng dấu phảy (placeholders có thể dùng "
+"Các ID của đối tác nhận cách nhau bằng dấu phảy (placeholders có thể dùng "
 "được ở đây)"
 
 #. module: mail
@@ -5332,7 +5332,7 @@ msgstr "Đối tác"
 #: code:addons/mail/models/res_partner.py:0
 #, python-format
 msgid "Partner Profile"
-msgstr "Hồ sơ Đối tác"
+msgstr "Hồ sơ đối tác"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_resend_message__partner_readonly
@@ -6945,7 +6945,7 @@ msgid ""
 msgstr ""
 "Chủ sở hữu của các bản ghi được tạo khi nhận email về bí danh này. Nếu "
 "trường này không được đặt, hệ thống sẽ cố gắng tìm đúng chủ sở hữu dựa trên "
-"địa chỉ người gửi (Từ) hoặc sẽ sử dụng tài khoản Quản trị viên nếu không tìm"
+"địa chỉ người gửi (Từ) hoặc sẽ sử dụng tài khoản quản trị viên nếu không tìm"
 " thấy người dùng trên hệ thống cho địa chỉ đó."
 
 #. module: mail

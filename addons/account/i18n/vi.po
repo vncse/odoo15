@@ -2602,7 +2602,7 @@ msgstr "Quy tắc KT quản trị"
 #: model:ir.model.fields,field_description:account.field_res_config_settings__group_analytic_tags
 #: model:ir.ui.menu,name:account.account_analytic_tag_menu
 msgid "Analytic Tags"
-msgstr "Thẻ TK Quản trị"
+msgstr "Thẻ TK quản trị"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_move_line__analytic_line_ids
@@ -2612,7 +2612,7 @@ msgstr "Phát sinh KT quản trị"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
 msgid "Analytics"
-msgstr "Kế toán Quản trị"
+msgstr "Kế toán quản trị"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_account_tag__applicability
@@ -4182,7 +4182,7 @@ msgstr "Dữ liệu bị gián đoạn ở bút toán sổ nhật ký với id %
 #. module: account
 #: model:account.account.type,name:account.data_account_type_direct_costs
 msgid "Cost of Revenue"
-msgstr "Chi phí Bán hàng Trực tiếp"
+msgstr "Chi phí bán hàng Trực tiếp"
 
 #. module: account
 #: code:addons/account/models/account_journal.py:0
@@ -4387,7 +4387,7 @@ msgstr "Tạo hóa nhà cung cấp"
 #. module: account
 #: model_terms:ir.actions.act_window,help:account.action_move_in_refund_type
 msgid "Create a vendor credit note"
-msgstr "Tạo điều chỉnh giảm Hóa đơn NCC"
+msgstr "Tạo điều chỉnh giảm hóa đơn NCC"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.tax_adjustments_wizard
@@ -5512,7 +5512,7 @@ msgstr "Phân bổ cho hóa đơn"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax__refund_repartition_line_ids
 msgid "Distribution for Refund Invoices"
-msgstr "Phân bổ cho Hóa đơn điều chỉnh giảm"
+msgstr "Phân bổ cho hóa đơn điều chỉnh giảm"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_tax__refund_repartition_line_ids
@@ -6278,7 +6278,7 @@ msgstr "Mã số thuế ngoại"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_fiscal_position__foreign_vat_header_mode
 msgid "Foreign Vat Header Mode"
-msgstr "Chế độ Tiêu đề Vat ngoại"
+msgstr "Chế độ tiêu đề Vat ngoại"
 
 #. module: account
 #: code:addons/account/models/chart_template.py:0
@@ -6419,7 +6419,7 @@ msgstr "Bút toán đã tạo"
 #. module: account
 #: model:ir.ui.menu,name:account.account_reports_legal_statements_menu
 msgid "Generic Statements"
-msgstr "Báo cáo Tổng quát"
+msgstr "Báo cáo tổng quát"
 
 #. module: account
 #: model:ir.model,name:account.model_report_account_report_hash_integrity
@@ -7239,7 +7239,7 @@ msgid ""
 "International Commercial Terms are a series of predefined commercial terms "
 "used in international transactions."
 msgstr ""
-"Bộ điều khoản Thương mại Quốc tế (Incoterms) là một chuỗi các điều khoản "
+"Bộ điều khoản thương mại Quốc tế (Incoterms) là một chuỗi các điều khoản "
 "thương mại được định nghĩa trước để sử dụng trong các giao dịch quốc tế."
 
 #. module: account
@@ -8451,7 +8451,7 @@ msgstr "Ngày Khoá"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__period_lock_date
 msgid "Lock Date for Non-Advisers"
-msgstr "Ngày Khoá đối với người không phải Quản lý tài chính"
+msgstr "Ngày Khoá đối với người không phải quản lý tài chính"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__restrict_mode_hash_table
@@ -9078,7 +9078,7 @@ msgid ""
 "No users, including Advisers, can edit accounts prior to and inclusive of "
 "this date. Use it for fiscal year locking for example."
 msgstr ""
-"Không người dùng nào, bao gồm cả Quản lý tài chính có thể sửa tài khoản "
+"Không người dùng nào, bao gồm cả quản lý tài chính có thể sửa tài khoản "
 "trước và bao gồm ngày này. Một ví dụ cho cho việc sử dụng cái này là để khoá"
 " sổ năm tài chính."
 
@@ -9952,13 +9952,13 @@ msgstr "Chi tiết khớp đối tác"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__partner_name
 msgid "Partner Name"
-msgstr "Tên Đối tác"
+msgstr "Tên đối tác"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_payment__partner_type
 #: model:ir.model.fields,field_description:account.field_account_payment_register__partner_type
 msgid "Partner Type"
-msgstr "Kiểu Đối tác"
+msgstr "Kiểu đối tác"
 
 #. module: account
 #: model:ir.model,name:account.model_account_reconcile_model_partner_mapping
@@ -10397,7 +10397,7 @@ msgstr ""
 #: code:addons/account/models/ir_module_module.py:0
 #, python-format
 msgid "Please update the Invoicing module before continuing."
-msgstr "Vui lòng cập nhật module Hóa đơn trước khi tiếp tục"
+msgstr "Vui lòng cập nhật module hóa đơn trước khi tiếp tục"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.bill_preview
@@ -11200,7 +11200,7 @@ msgstr "Đặt về dự thảo"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_bank_statement_form
 msgid "Reset to New"
-msgstr "Đặt về Mới"
+msgstr "Đặt về mới"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.view_bank_statement_form
@@ -11386,7 +11386,7 @@ msgstr "Các dòng báo cáo gốc"
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__res_company__tax_calculation_rounding_method__round_globally
 msgid "Round Globally"
-msgstr "Làm tròn Tổng/Toàn cục"
+msgstr "Làm tròn tổng/Toàn cục"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__res_company__tax_calculation_rounding_method__round_per_line
@@ -11644,20 +11644,20 @@ msgstr "Tìm kiếm thuế"
 #: model:ir.model.fields,help:account.field_account_reconcile_model_template__match_text_location_label
 msgid ""
 "Search in the Statement's Label to find the Invoice/Payment's reference"
-msgstr "Tìm kiếm trong nhãn của sao kê để tìm ra mã của Hóa đơn/Thanh toán"
+msgstr "Tìm kiếm trong nhãn của sao kê để tìm ra mã của hóa đơn/Thanh toán"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_reconcile_model__match_text_location_note
 #: model:ir.model.fields,help:account.field_account_reconcile_model_template__match_text_location_note
 msgid "Search in the Statement's Note to find the Invoice/Payment's reference"
-msgstr "Tìm kiếm trong ghi chú của sao kê để tìm ra mã của Hóa đơn/Thanh toán"
+msgstr "Tìm kiếm trong ghi chú của sao kê để tìm ra mã của hóa đơn/Thanh toán"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_reconcile_model__match_text_location_reference
 #: model:ir.model.fields,help:account.field_account_reconcile_model_template__match_text_location_reference
 msgid ""
 "Search in the Statement's Reference to find the Invoice/Payment's reference"
-msgstr "Tìm kiếm trong mã của sao kê để tìm ra mã của Hóa đơn/Thanh toán"
+msgstr "Tìm kiếm trong mã của sao kê để tìm ra mã của hóa đơn/Thanh toán"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_move_line__display_type__line_section
@@ -13798,7 +13798,7 @@ msgid ""
 "entries, ready for the reconciliation.- Validated: All lines are reconciled."
 " There is nothing left to process."
 msgstr ""
-"Trạng thái hiện tại của sổ quỹ/sổ phụ:- Mới: Có đầy đủ quyền để chỉnh sửa "
+"Trạng thái hiện tại của sổ quỹ/sổ phụ:- mới: Có đầy đủ quyền để chỉnh sửa "
 "tất cả các bút toán dự thảo.- Đang xử lý: Không được chỉnh sửa nữa với các "
 "bút toán đã vào sổ, sẵn sàng để đối soát.- Đã xác nhận: Mọi thứ đều đã được "
 "đối soát. Không còn gì để xử lý nữa."
@@ -14433,7 +14433,7 @@ msgid ""
 "The sequences of this journal are different for Invoices and Refunds but you"
 " selected some of both types."
 msgstr ""
-"Mã của bút toán này khác nhau đối với Hóa đơn và Tiền hoàn lại nhưng bạn đã "
+"Mã của bút toán này khác nhau đối với hóa đơn và Tiền hoàn lại nhưng bạn đã "
 "chọn một số trong cả hai loại."
 
 #. module: account
@@ -16644,7 +16644,7 @@ msgstr "vd: BE15001559627230"
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.setup_bank_account_wizard
 msgid "e.g Bank of America"
-msgstr "vd: Ngân hàng Thương mại Cổ phần Á Châu"
+msgstr "vd: Ngân hàng thương mại Cổ phần Á Châu"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.setup_bank_account_wizard

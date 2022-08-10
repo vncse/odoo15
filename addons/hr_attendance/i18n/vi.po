@@ -886,7 +886,7 @@ msgid ""
 "The user will gain access to the human resources attendance menu, enabling "
 "him to manage his own attendance."
 msgstr ""
-"Người dùng sẽ có quyền truy cập vào trình đơn Quản lý Vào/Ra, cho phép họ "
+"Người dùng sẽ có quyền truy cập vào trình đơn quản lý Vào/Ra, cho phép họ "
 "quản lý vào ra của chính mình."
 
 #. module: hr_attendance
@@ -962,7 +962,7 @@ msgid ""
 "Please contact your administrator."
 msgstr ""
 "Cảnh báo: Tài khoản của bạn cần được liên kết với một nhân viên được sử dụng"
-" để điểm danh. Hãy liên hệ Quản trị viên để biết thêm chi tiết."
+" để điểm danh. Hãy liên hệ quản trị viên để biết thêm chi tiết."
 
 #. module: hr_attendance
 #. openerp-web

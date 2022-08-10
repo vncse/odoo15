@@ -67,80 +67,80 @@ msgstr "Tổng tiền"
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_account_search
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_line_filter
 msgid "Analytic Account"
-msgstr "Tài khoản Quản trị"
+msgstr "Tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.model,name:analytic.model_account_analytic_distribution
 msgid "Analytic Account Distribution"
-msgstr "Phân bổ Tài khoản Quản trị"
+msgstr "Phân bổ Tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.actions.act_window,name:analytic.account_analytic_group_action
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_group_form_view
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_group_tree_view
 msgid "Analytic Account Groups"
-msgstr "Nhóm Tài khoản Quản trị"
+msgstr "Nhóm Tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_res_config_settings__group_analytic_accounting
 #: model:res.groups,name:analytic.group_analytic_accounting
 msgid "Analytic Accounting"
-msgstr "Kế toán Quản trị"
+msgstr "Kế toán quản trị"
 
 #. module: analytic
 #: model:res.groups,name:analytic.group_analytic_tags
 msgid "Analytic Accounting Tags"
-msgstr "Thẻ Kế toán Quản trị"
+msgstr "Thẻ Kế toán quản trị"
 
 #. module: analytic
 #: model:ir.actions.act_window,name:analytic.action_account_analytic_account_form
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_tag__analytic_distribution_ids
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_account_list
 msgid "Analytic Accounts"
-msgstr "Tài khoản Quản trị"
+msgstr "Tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.model,name:analytic.model_account_analytic_group
 msgid "Analytic Categories"
-msgstr "Nhóm Tài khoản Quản trị"
+msgstr "Nhóm Tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_tag__active_analytic_distribution
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_tag_form_view
 msgid "Analytic Distribution"
-msgstr "Phân bổ KT Quản trị"
+msgstr "Phân bổ KT quản trị"
 
 #. module: analytic
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_line_graph
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_line_pivot
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_line_tree
 msgid "Analytic Entries"
-msgstr "Bút toán KT Quản trị"
+msgstr "Bút toán KT quản trị"
 
 #. module: analytic
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_line_form
 msgid "Analytic Entry"
-msgstr "Bút toán KT Quản trị"
+msgstr "Bút toán KT quản trị"
 
 #. module: analytic
 #: model:ir.actions.act_window,name:analytic.account_analytic_line_action_entries
 msgid "Analytic Items"
-msgstr "Phát sinh KT Quản trị"
+msgstr "Phát sinh KT quản trị"
 
 #. module: analytic
 #: model:ir.model,name:analytic.model_account_analytic_line
 msgid "Analytic Line"
-msgstr "Phát sinh KT Quản trị"
+msgstr "Phát sinh KT quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__line_ids
 msgid "Analytic Lines"
-msgstr "Phát sinh KT Quản trị"
+msgstr "Phát sinh KT quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_tag__name
 msgid "Analytic Tag"
-msgstr "Thẻ KT Quản trị"
+msgstr "Thẻ KT quản trị"
 
 #. module: analytic
 #: model:ir.actions.act_window,name:analytic.account_analytic_tag_action
@@ -148,7 +148,7 @@ msgstr "Thẻ KT Quản trị"
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_tag_form_view
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_tag_tree_view
 msgid "Analytic Tags"
-msgstr "Thẻ KT Quản trị"
+msgstr "Thẻ KT quản trị"
 
 #. module: analytic
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_tag_form_view
@@ -188,7 +188,7 @@ msgstr "Nhóm"
 #. module: analytic
 #: model:ir.actions.act_window,name:analytic.action_analytic_account_form
 msgid "Chart of Analytic Accounts"
-msgstr "Hệ thống Tài khoản Quản trị"
+msgstr "Hệ thống Tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_group__children_ids
@@ -239,7 +239,7 @@ msgid ""
 "Costs will be created automatically when you register supplier\n"
 "                invoices, expenses or timesheets."
 msgstr ""
-"Chi phí sẽ được tạo tự động khi bạn ghi nhận Hoá đơn nhà cung cấp,\n"
+"Chi phí sẽ được tạo tự động khi bạn ghi nhận hoá đơn nhà cung cấp,\n"
 "                Chi tiêu nhân viên hoặc Chấm công (timesheet)."
 
 #. module: analytic
@@ -524,17 +524,17 @@ msgstr ""
 #. module: analytic
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_line_filter
 msgid "Search Analytic Lines"
-msgstr "Tìm kiếm Phát sinh KT Quản trị"
+msgstr "Tìm kiếm Phát sinh KT quản trị"
 
 #. module: analytic
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_tag_view_search
 msgid "Search Analytic Tags"
-msgstr "Tìm kiếm Thẻ Quản trị"
+msgstr "Tìm kiếm Thẻ quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,help:analytic.field_account_analytic_tag__active
 msgid "Set active to false to hide the Analytic Tag without removing it."
-msgstr "Thiết đặt hành động là sai để ẩn Thẻ Quản trị mà không cần xóa thẻ."
+msgstr "Thiết đặt hành động là sai để ẩn Thẻ quản trị mà không cần xóa thẻ."
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_line__tag_ids

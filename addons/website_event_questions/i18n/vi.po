@@ -141,7 +141,7 @@ msgstr "Kiểu sự kiện"
 #. module: website_event_questions
 #: model:ir.model.fields,field_description:website_event_questions.field_event_event__general_question_ids
 msgid "General Questions"
-msgstr "Các Câu hỏi Tổng quát"
+msgstr "Các câu hỏi tổng quát"
 
 #. module: website_event_questions
 #: model:event.question,title:website_event_questions.event_7_question_1
@@ -285,7 +285,7 @@ msgstr "Trình tự"
 #. module: website_event_questions
 #: model:ir.model.fields,field_description:website_event_questions.field_event_event__specific_question_ids
 msgid "Specific Questions"
-msgstr "Các Câu hỏi Đặc thù"
+msgstr "Các câu hỏi Đặc thù"
 
 #. module: website_event_questions
 #: model:ir.model.fields,field_description:website_event_questions.field_event_registration_answer__value_answer_id

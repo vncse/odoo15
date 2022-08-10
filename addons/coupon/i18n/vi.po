@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* coupon
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # fanha99 <fanha99@hotmail.com>, 2021
@@ -11,7 +11,7 @@
 # Dung Nguyen Thi <dungnt@trobz.com>, 2021
 # Dao Nguyen <trucdao.uel@gmail.com>, 2021
 # Vo Thanh Thuy, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.5\n"
@@ -450,7 +450,7 @@ msgid ""
 "Free Shipping - Free shipping will be provided as reward (Need delivery module)"
 msgstr ""
 "Chiếu khấu - Phần thưởng sẽ được cung cấp dưới dạng chiết khấu.\n"
-"Sản phẩm miễn phí - Sản phẩm miễn phí sẽ được cung cấp như một phần thưởng \n"
+"Sản phẩm miễn phí - sản phẩm miễn phí sẽ được cung cấp như một phần thưởng \n"
 "Giao hàng miễn phí - Giao hàng miễn phí sẽ được cung cấp như một phần thưởng (Cần mô-đun giao hàng)"
 
 #. module: coupon

@@ -91,7 +91,7 @@ msgstr "ID"
 #. module: sale_crm
 #: model:ir.model.fields,field_description:sale_crm.field_res_users__target_sales_invoiced
 msgid "Invoiced in Sales Orders Target"
-msgstr "Đã xuất hoá đơn trong Mục tiêu Đơn bán"
+msgstr "Đã xuất hoá đơn trong Mục tiêu đơn bán"
 
 #. module: sale_crm
 #: model:ir.model.fields,field_description:sale_crm.field_crm_quotation_partner____last_update
@@ -133,7 +133,7 @@ msgstr "Báo giá của tôi"
 #: model_terms:ir.ui.view,arch_db:sale_crm.crm_case_form_view_oppor
 #: model_terms:ir.ui.view,arch_db:sale_crm.crm_quotation_partner_view_form
 msgid "New Quotation"
-msgstr "Báo giá Mới"
+msgstr "Báo giá mới"
 
 #. module: sale_crm
 #: model:ir.model.fields,field_description:sale_crm.field_crm_lead__quotation_count
@@ -200,7 +200,7 @@ msgstr "Tổng đơn bán"
 #. module: sale_crm
 #: model:ir.model.fields,help:sale_crm.field_crm_lead__sale_amount_total
 msgid "Untaxed Total of Confirmed Orders"
-msgstr "Tổng trước thuế của các Đơn đã Xác nhận"
+msgstr "Tổng trước thuế của các đơn đã xác nhận"
 
 #. module: sale_crm
 #: model:ir.model,name:sale_crm.model_res_users

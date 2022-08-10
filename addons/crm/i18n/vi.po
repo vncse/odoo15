@@ -169,8 +169,8 @@ msgid ""
 "</p>"
 msgstr ""
 "<p class='o_view_nocontent_smiling_face'>Thêm cơ hội mới</p><p>\n"
-"    Dường như bạn không phải là thành viên của một Đội bán hàng nào. Bạn nên thêm\n"
-"    bản thân vào một trong các Đội bán hàng.\n"
+"    Dường như bạn không phải là thành viên của một đội bán hàng nào. Bạn nên thêm\n"
+"    bản thân vào một trong các đội bán hàng.\n"
 "</p>"
 
 #. module: crm
@@ -1993,7 +1993,7 @@ msgid ""
 "the treatment delays or number of leads per state. You can sort out your "
 "leads analysis by different groups to get accurate grained analysis."
 msgstr ""
-"Phân tích Tiềm năng cho phép bạn kiểm tra thông tin Quản trị quan hệ khách "
+"Phân tích Tiềm năng cho phép bạn kiểm tra thông tin quản trị quan hệ khách "
 "hàng khác nhau như là việc xử lý chậm trễ hoặc số tiềm năng theo từng bước. "
 "Bạn có thể sắp xếp tiềm năng theo các nhóm khác nhau."
 
@@ -2374,18 +2374,18 @@ msgstr "Lead mới"
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_digest_digest__kpi_crm_lead_created
 msgid "New Leads/Opportunities"
-msgstr "Tiềm năng/Cơ hội Mới"
+msgstr "Tiềm năng/Cơ hội mới"
 
 #. module: crm
 #: code:addons/crm/models/crm_team.py:0
 #, python-format
 msgid "New Opportunities"
-msgstr "SL cơ hội Mới"
+msgstr "SL cơ hội mới"
 
 #. module: crm
 #: model:ir.actions.act_window,name:crm.action_opportunity_form
 msgid "New Opportunity"
-msgstr "Cơ hội Mới"
+msgstr "Cơ hội mới"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_lead__activity_calendar_event_id
@@ -3100,7 +3100,7 @@ msgstr "Thành viên đội kinh doanh"
 #: code:addons/crm/models/crm_lead.py:0
 #, python-format
 msgid "Sales Team Settings"
-msgstr "Thiết lập Đội bán hàng"
+msgstr "Thiết lập đội bán hàng"
 
 #. module: crm
 #: model:ir.ui.menu,name:crm.crm_team_config
@@ -3427,7 +3427,7 @@ msgid ""
 msgstr ""
 "Chủ sở hữu của các bản ghi được tạo khi nhận email về bí danh này. Nếu "
 "trường này không được đặt, hệ thống sẽ cố gắng tìm đúng chủ sở hữu dựa trên "
-"địa chỉ người gửi (Từ) hoặc sẽ sử dụng tài khoản Quản trị viên nếu không tìm"
+"địa chỉ người gửi (Từ) hoặc sẽ sử dụng tài khoản quản trị viên nếu không tìm"
 " thấy người dùng trên hệ thống cho địa chỉ đó."
 
 #. module: crm

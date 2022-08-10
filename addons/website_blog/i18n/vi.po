@@ -2402,7 +2402,7 @@ msgstr "Dữ liệu từ khoá Website"
 #: model:ir.model.fields,field_description:website_blog.field_blog_post__website_meta_title
 #: model:ir.model.fields,field_description:website_blog.field_blog_tag__website_meta_title
 msgid "Website meta title"
-msgstr "Dữ liệu Tiêu đề Website"
+msgstr "Dữ liệu tiêu đề Website"
 
 #. module: website_blog
 #: model:ir.model.fields,field_description:website_blog.field_blog_blog__website_meta_og_img
@@ -2447,7 +2447,7 @@ msgstr "Viết đoạn văn nhỏ mô tả blog hoặc công ty của bạn. "
 #: code:addons/website_blog/static/src/js/tours/website_blog.js:0
 #, python-format
 msgid "Write a title, the subtitle is optional."
-msgstr "Viết một Tiêu đề, phụ đề thì tuỳ ý."
+msgstr "Viết một tiêu đề, phụ đề thì tuỳ ý."
 
 #. module: website_blog
 #: model_terms:blog.post,content:website_blog.blog_post_3

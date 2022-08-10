@@ -1370,7 +1370,7 @@ msgstr "Thất bại"
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_goal_definition__field_id
 msgid "Field to Sum"
-msgstr "Trường để cộng Tổng"
+msgstr "Trường để cộng tổng"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_goal_definition__domain

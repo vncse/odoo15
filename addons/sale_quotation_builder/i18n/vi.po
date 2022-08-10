@@ -213,7 +213,7 @@ msgstr "Tùy chọn mẫu báo giá"
 #. module: sale_quotation_builder
 #: model:ir.model,name:sale_quotation_builder.model_sale_order_option
 msgid "Sale Options"
-msgstr "Tùy chọn Bán"
+msgstr "Tùy chọn bán"
 
 #. module: sale_quotation_builder
 #: model:ir.model,name:sale_quotation_builder.model_sale_order
@@ -245,7 +245,7 @@ msgid ""
 "it will try to read the eCommerce Description."
 msgstr ""
 "Trường này sử dụng mô tả cho cho báo giá nếu đã có, ngược lại hệ thống sẽ cố"
-" gắng để lấy phần mô tả Thương mại điện tử."
+" gắng để lấy phần mô tả thương mại điện tử."
 
 #. module: sale_quotation_builder
 #: model_terms:sale.order.template,website_description:sale_quotation_builder.sale_order_template_default

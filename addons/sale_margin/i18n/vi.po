@@ -41,7 +41,7 @@ msgstr "Biên lợi nhuận (%) "
 #. module: sale_margin
 #: model:ir.model,name:sale_margin.model_sale_report
 msgid "Sales Analysis Report"
-msgstr "Báo cáo Phân tích Bán"
+msgstr "Báo cáo Phân tích bán"
 
 #. module: sale_margin
 #: model:ir.model,name:sale_margin.model_sale_order

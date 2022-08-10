@@ -1649,7 +1649,7 @@ msgstr "Chương trình chứng nhận mới"
 #. module: website_event_track
 #: model:mail.message.subtype,name:website_event_track.mt_event_track
 msgid "New Track"
-msgstr "Vết Mới"
+msgstr "Vết mới"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__activity_calendar_event_id
@@ -2679,7 +2679,7 @@ msgstr "Dữ liệu từ khoá Website"
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__website_meta_title
 msgid "Website meta title"
-msgstr "Dữ liệu Tiêu đề Website"
+msgstr "Dữ liệu tiêu đề Website"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__website_meta_og_img

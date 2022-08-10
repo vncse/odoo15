@@ -877,17 +877,17 @@ msgstr "Cho phép nhiệm vụ phụ"
 #: model:ir.model.fields,field_description:project.field_project_project__analytic_account_id
 #: model:ir.model.fields,field_description:project.field_project_task__analytic_account_id
 msgid "Analytic Account"
-msgstr "Tài khoản Quản trị"
+msgstr "Tài khoản quản trị"
 
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_task__analytic_tag_ids
 msgid "Analytic Tag"
-msgstr "Thẻ Quản trị"
+msgstr "Thẻ quản trị"
 
 #. module: project
 #: model:ir.model,name:project.model_account_analytic_tag
 msgid "Analytic Tags"
-msgstr "Thẻ Quản trị"
+msgstr "Thẻ quản trị"
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__analytic_account_id

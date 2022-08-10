@@ -224,7 +224,7 @@ msgid ""
 "Customer Invoice/Credit Note"
 msgstr ""
 "Mô tả sản phẩm mà bạn muốn giao tiếp với khách hàng của mình. Mô tả này sẽ "
-"được sao chép vào mọi đơn đặt hàng, Đơn hàng Giao hàng và Hoá đơn khách hàng"
+"được sao chép vào mọi đơn đặt hàng, đơn hàng Giao hàng và Hoá đơn khách hàng"
 " / Ghi chú Tín dụng"
 
 #. module: product
@@ -517,7 +517,7 @@ msgstr "Có thể mua được"
 #: model:ir.model.fields,field_description:product.field_product_template__sale_ok
 #: model_terms:ir.ui.view,arch_db:product.product_template_search_view
 msgid "Can be Sold"
-msgstr "Có thể Bán được"
+msgstr "Có thể bán được"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_category_form_view
@@ -1149,7 +1149,7 @@ msgstr "Hoạt động trong Tương lai"
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_template_form_view
 msgid "General Information"
-msgstr "Thông tin Tổng quát"
+msgstr "Thông tin tổng quát"
 
 #. module: product
 #: model:ir.actions.server,name:product.action_product_price_list_report
@@ -2369,7 +2369,7 @@ msgstr "Bán hàng"
 #: model:ir.model.fields,field_description:product.field_product_template__description_sale
 #: model_terms:ir.ui.view,arch_db:product.product_template_form_view
 msgid "Sales Description"
-msgstr "Mô tả cho Bán hàng"
+msgstr "Mô tả cho bán hàng"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_res_config_settings__module_sale_product_matrix

@@ -491,7 +491,7 @@ msgid ""
 "                                from Sale"
 msgstr ""
 "Được chuyển<br/>\n"
-"                                từ Bán hàng"
+"                                từ bán hàng"
 
 #. module: pos_sale
 #: model_terms:ir.ui.view,arch_db:pos_sale.view_order_form_inherit_pos_sale

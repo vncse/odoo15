@@ -37,7 +37,7 @@ msgid ""
 "Customer Invoice/Credit Note"
 msgstr ""
 "Mô tả sản phẩm mà bạn muốn giao tiếp với khách hàng của mình. Mô tả này sẽ "
-"được sao chép vào mọi đơn bán, Đơn Giao hàng và Hoá đơn khách hàng / Hoá đơn"
+"được sao chép vào mọi đơn bán, Đơn Giao hàng và hoá đơn khách hàng / Hoá đơn"
 " điều chỉnh giảm"
 
 #. module: website_sale_delivery

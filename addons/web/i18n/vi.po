@@ -2707,7 +2707,7 @@ msgstr "%s mới"
 #: code:addons/web/static/src/legacy/js/views/calendar/calendar_controller.js:0
 #, python-format
 msgid "New Event"
-msgstr "Sự kiện Mới"
+msgstr "Sự kiện mới"
 
 #. module: web
 #. openerp-web
@@ -2728,7 +2728,7 @@ msgstr "Mật khẩu mới (Xác nhận)"
 #: code:addons/web/static/src/legacy/xml/base.xml:0
 #, python-format
 msgid "New design"
-msgstr "Thiết kế Mới"
+msgstr "Thiết kế mới"
 
 #. module: web
 #. openerp-web
