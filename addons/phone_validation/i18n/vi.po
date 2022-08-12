@@ -45,7 +45,7 @@ msgstr "Có hiệu lực"
 #. module: phone_validation
 #: model_terms:ir.actions.act_window,help:phone_validation.phone_blacklist_action
 msgid "Add a phone number in the blacklist"
-msgstr "Add a phone number in the blacklist"
+msgstr "Thêm số điện thoại vào sổ đen"
 
 #. module: phone_validation
 #: model_terms:ir.ui.view,arch_db:phone_validation.phone_blacklist_view_form
@@ -77,17 +77,17 @@ msgstr "Số điện thoại vào sổ đen là di động"
 #. module: phone_validation
 #: model:ir.actions.act_window,name:phone_validation.phone_blacklist_action
 msgid "Blacklisted Phone Numbers"
-msgstr "Blacklisted Phone Numbers"
+msgstr "Số điện thoại vào sổ đen"
 
 #. module: phone_validation
 #: model:ir.model.fields,field_description:phone_validation.field_mail_thread_phone__phone_blacklisted
 msgid "Blacklisted Phone is Phone"
-msgstr "Số điện thoại vào sổ đen là Điện thoại thường"
+msgstr "Số điện thoại vào sổ đen là điện thoại thường"
 
 #. module: phone_validation
 #: model_terms:ir.actions.act_window,help:phone_validation.phone_blacklist_action
 msgid "Blacklisted phone numbers won't receive SMS Mailings anymore."
-msgstr ""
+msgstr "Các số điện thoại nằm trong sổ đen sẽ không nhận được Thư SMS nữa"
 
 #. module: phone_validation
 #: model_terms:ir.ui.view,arch_db:phone_validation.phone_blacklist_remove_view_form

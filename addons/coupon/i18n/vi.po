@@ -70,7 +70,7 @@ msgstr "*Có giá trị cho các sản phẩm sau:"
 #. module: coupon
 #: model:coupon.program,name:coupon.10_percent_coupon
 msgid "10% Discount"
-msgstr "10% Chiết khấu"
+msgstr "10% chiết khấu"
 
 #. module: coupon
 #: model:product.product,name:coupon.product_product_10_percent_discount
@@ -898,7 +898,7 @@ msgstr "Qui tắt số tiền tối thiểu"
 #: model:ir.model.fields,field_description:coupon.field_coupon_program__rule_minimum_amount_tax_inclusion
 #: model:ir.model.fields,field_description:coupon.field_coupon_rule__rule_minimum_amount_tax_inclusion
 msgid "Rule Minimum Amount Tax Inclusion"
-msgstr "Qui tắc số tiền thuế tối thiểu"
+msgstr "Quy tắc số tiền thuế tối thiểu"
 
 #. module: coupon
 #: model:ir.model,name:coupon.model_report_coupon_report_coupon

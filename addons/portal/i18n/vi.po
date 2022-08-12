@@ -917,7 +917,7 @@ msgstr "Chia sẻ Tài liệu"
 #. module: portal
 #: model:ir.model.fields,field_description:portal.field_ir_ui_view__customize_show
 msgid "Show As Optional Inherit"
-msgstr "Hiển thị như Kế thừa tùy chọn"
+msgstr "Hiển thị như kế thừa tùy chọn"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.user_sign_in

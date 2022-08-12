@@ -277,7 +277,7 @@ msgstr ""
 #. module: link_tracker
 #: model:ir.model.fields,help:link_tracker.field_link_tracker__medium_id
 msgid "This is the method of delivery, e.g. Postcard, Email, or Banner Ad"
-msgstr "Đây là phương thức như Thẻ bưu điện, Email hoặc Banner quảng cáo"
+msgstr "Đây là phương thức như thẻ bưu điện, Email hoặc Banner quảng cáo"
 
 #. module: link_tracker
 #: model:ir.model.fields,help:link_tracker.field_link_tracker__source_id

@@ -390,7 +390,7 @@ msgstr "Sửa"
 #. module: pos_restaurant
 #: model:ir.model.fields,help:pos_restaurant.field_pos_config__iface_splitbill
 msgid "Enables Bill Splitting in the Point of Sale."
-msgstr "Kích hoạt tính năng Tách Biên lai ở Điểm bán lẻ"
+msgstr "Kích hoạt tính năng Tách Biên lai ở điểm bán lẻ"
 
 #. module: pos_restaurant
 #. openerp-web
@@ -777,7 +777,7 @@ msgstr "Điểm bán lẻ"
 #. module: pos_restaurant
 #: model:ir.model,name:pos_restaurant.model_pos_config
 msgid "Point of Sale Configuration"
-msgstr "Cấu hình Điểm bán lẻ"
+msgstr "Cấu hình điểm bán lẻ"
 
 #. module: pos_restaurant
 #: model:ir.model,name:pos_restaurant.model_pos_order_line
@@ -792,7 +792,7 @@ msgstr "Đơn hàng PoS"
 #. module: pos_restaurant
 #: model:ir.model,name:pos_restaurant.model_pos_payment
 msgid "Point of Sale Payments"
-msgstr "Thanh toán Điểm bán hàng"
+msgstr "Thanh toán điểm bán hàng"
 
 #. module: pos_restaurant
 #. openerp-web

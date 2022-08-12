@@ -40,7 +40,7 @@ msgstr "# Đánh giá"
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_report_operator__nbr_channel
 msgid "# of Sessions"
-msgstr "SL Phiên"
+msgstr "SL phiên"
 
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_report_channel__nbr_speaker
@@ -188,7 +188,7 @@ msgstr "Hỏi điều gì đó ..."
 #: model_terms:ir.ui.view,arch_db:im_livechat.mail_channel_view_form
 #: model_terms:ir.ui.view,arch_db:im_livechat.mail_channel_view_tree
 msgid "Attendees"
-msgstr "Người Tham dự"
+msgstr "Người tham dự"
 
 #. module: im_livechat
 #: model:ir.model.fields.selection,name:im_livechat.selection__im_livechat_channel_rule__action__auto_popup
@@ -514,7 +514,7 @@ msgstr "Màu chữ mặc định cho nút Chat trực tuyến"
 #. module: im_livechat
 #: model:ir.model.fields,help:im_livechat.field_im_livechat_channel__button_text
 msgid "Default text displayed on the Livechat Support Button"
-msgstr "Dòng chữ mặc định được hiển thị ở nút Hỗ trợ Chat trực tuyến"
+msgstr "Dòng chữ mặc định được hiển thị ở nút hỗ trợ Chat trực tuyến"
 
 #. module: im_livechat
 #: model:ir.model.fields,help:im_livechat.field_im_livechat_channel__title_color
@@ -863,7 +863,7 @@ msgstr "Kênh có kiểu Chat trực tuyến bắt buộc phải có người v�
 #. module: im_livechat
 #: model:ir.model,name:im_livechat.model_im_livechat_report_channel
 msgid "Livechat Support Channel Report"
-msgstr "Báo cáo Kênh Hỗ trợ trực tuyến"
+msgstr "Báo cáo Kênh hỗ trợ trực tuyến"
 
 #. module: im_livechat
 #: model_terms:ir.actions.act_window,help:im_livechat.im_livechat_report_channel_action
@@ -873,14 +873,14 @@ msgid ""
 "your company livechat session performance. Extract information about the "
 "missed sessions, the audiance, the duration of a session, etc."
 msgstr ""
-"Thống kê Hỗ trợ Chat trực tuyến cho phép bạn dễ dàng kiểm tra và phân tích "
+"Thống kê hỗ trợ Chat trực tuyến cho phép bạn dễ dàng kiểm tra và phân tích "
 "hiệu quả của các phiên chat trực tuyến của công ty bạn. Trích xuất thông tin"
 " về các phiên bị nhỡ, các khách hàng, thời lượng các phiên, v.v."
 
 #. module: im_livechat
 #: model:ir.model,name:im_livechat.model_im_livechat_report_operator
 msgid "Livechat Support Operator Report"
-msgstr "Báo cáo người vận hành Hỗ trợ Chat trực tuyến"
+msgstr "Báo cáo người vận hành hỗ trợ Chat trực tuyến"
 
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_report_channel_view_graph
@@ -888,7 +888,7 @@ msgstr "Báo cáo người vận hành Hỗ trợ Chat trực tuyến"
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_report_operator_view_graph
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_report_operator_view_pivot
 msgid "Livechat Support Statistics"
-msgstr "Thống kê Hỗ trợ Chat trực tuyến"
+msgstr "Thống kê hỗ trợ Chat trực tuyến"
 
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_res_users__livechat_username
@@ -1421,13 +1421,13 @@ msgstr "Phiên"
 #. module: im_livechat
 #: model:ir.ui.menu,name:im_livechat.session_history
 msgid "Sessions History"
-msgstr "Lịch sử Phiên"
+msgstr "Lịch sử phiên"
 
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_report_channel__start_date
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_report_operator__start_date
 msgid "Start Date of session"
-msgstr "Ngày Bắt đầu của phiên"
+msgstr "Ngày bắt đầu của phiên"
 
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_report_channel__start_hour
@@ -1438,7 +1438,7 @@ msgstr "Giờ bắt đầu của phiên"
 #: model:ir.model.fields,help:im_livechat.field_im_livechat_report_channel__start_date
 #: model:ir.model.fields,help:im_livechat.field_im_livechat_report_operator__start_date
 msgid "Start date of the conversation"
-msgstr "Ngày Bắt đầu của của hội thoại"
+msgstr "Ngày bắt đầu của của hội thoại"
 
 #. module: im_livechat
 #: model:ir.model.fields,help:im_livechat.field_im_livechat_report_channel__start_hour

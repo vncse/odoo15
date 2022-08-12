@@ -378,7 +378,7 @@ msgstr "Tiền tệ"
 #: model:ir.model.fields,field_description:hr_contract.field_hr_employee__contract_id
 #: model_terms:ir.ui.view,arch_db:hr_contract.hr_contract_view_form
 msgid "Current Contract"
-msgstr "Hợp đồng Hiện hành"
+msgstr "Hợp đồng hiện hành"
 
 #. module: hr_contract
 #: model_terms:ir.ui.view,arch_db:hr_contract.hr_contract_history_view_form
@@ -931,7 +931,7 @@ msgstr "Tin chưa đọc"
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: hr_contract
 #: model:ir.model,name:hr_contract.model_res_users

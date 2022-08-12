@@ -868,19 +868,19 @@ msgstr "Token đăng ký"
 #: model:ir.model.fields,field_description:auth_signup.field_res_partner__signup_type
 #: model:ir.model.fields,field_description:auth_signup.field_res_users__signup_type
 msgid "Signup Token Type"
-msgstr "Kiểu Token Đăng ký"
+msgstr "Kiểu Tokenđăng ký"
 
 #. module: auth_signup
 #: model:ir.model.fields,field_description:auth_signup.field_res_partner__signup_valid
 #: model:ir.model.fields,field_description:auth_signup.field_res_users__signup_valid
 msgid "Signup Token is Valid"
-msgstr "Token Đăng ký hợp lệ"
+msgstr "Tokenđăng ký hợp lệ"
 
 #. module: auth_signup
 #: model:ir.model.fields,field_description:auth_signup.field_res_partner__signup_url
 #: model:ir.model.fields,field_description:auth_signup.field_res_users__signup_url
 msgid "Signup URL"
-msgstr "URL Đăng ký"
+msgstr "URLđăng ký"
 
 #. module: auth_signup
 #: code:addons/auth_signup/models/res_users.py:0

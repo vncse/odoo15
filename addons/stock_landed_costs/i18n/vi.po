@@ -46,7 +46,7 @@ msgid ""
 "A consumable product is a product for which stock is not managed.\n"
 "A service is a non-material product you provide."
 msgstr ""
-"Sản phẩm lưu kho là sản phẩm bạn muốn quản lý lượng tồn kho của nó. Hệ thống sẽ cần cài thêm phân hệ Kho.\n"
+"Sản phẩm lưu kho là sản phẩm bạn muốn quản lý lượng tồn kho của nó. Hệ thống sẽ cần cài thêm phân hệ kho.\n"
 "Sản phẩm tiêu dùng là sản phẩm bạn không cần quản lý lượng tồn kho.\n"
 "Sản phẩm dịch vụ là sản phẩm bạn cung cấp."
 
@@ -58,7 +58,7 @@ msgstr "Tài khoản"
 #. module: stock_landed_costs
 #: model:ir.model.fields,field_description:stock_landed_costs.field_stock_landed_cost__account_journal_id
 msgid "Account Journal"
-msgstr "Sổ nhật ký Kế toán"
+msgstr "Sổ nhật ký kế toán"
 
 #. module: stock_landed_costs
 #: model:ir.model.fields,field_description:stock_landed_costs.field_stock_landed_cost__message_needaction
@@ -109,7 +109,7 @@ msgstr "Số lượng đính kèm"
 #: model:ir.model.fields.selection,name:stock_landed_costs.selection__product_template__split_method_landed_cost__by_current_cost_price
 #: model:ir.model.fields.selection,name:stock_landed_costs.selection__stock_landed_cost_lines__split_method__by_current_cost_price
 msgid "By Current Cost"
-msgstr "Theo Giá vốn Hiện tại (tính đến lúc phân bổ landed cost)"
+msgstr "Theo Giá vốn hiện tại (tính đến lúc phân bổ landed cost)"
 
 #. module: stock_landed_costs
 #: model:ir.model.fields.selection,name:stock_landed_costs.selection__product_template__split_method_landed_cost__by_quantity
@@ -390,7 +390,7 @@ msgstr "Bút toán sổ nhật ký"
 #. module: stock_landed_costs
 #: model:ir.model,name:stock_landed_costs.model_account_move_line
 msgid "Journal Item"
-msgstr "Phát sinh Kế toán"
+msgstr "Phát sinh kế toán"
 
 #. module: stock_landed_costs
 #: model:ir.model.fields,field_description:stock_landed_costs.field_stock_landed_cost_lines__cost_id
@@ -693,7 +693,7 @@ msgstr "Tin chưa đọc"
 #. module: stock_landed_costs
 #: model:ir.model.fields,field_description:stock_landed_costs.field_stock_landed_cost__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: stock_landed_costs
 #: model_terms:ir.ui.view,arch_db:stock_landed_costs.view_stock_landed_cost_form

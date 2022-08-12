@@ -717,7 +717,7 @@ msgstr "Tin chưa đọc"
 #: model:ir.model.fields,field_description:sales_team.field_crm_team__message_unread_counter
 #: model:ir.model.fields,field_description:sales_team.field_crm_team_member__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: sales_team
 #: model_terms:ir.actions.act_window,help:sales_team.crm_team_action_config

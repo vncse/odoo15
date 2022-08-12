@@ -859,7 +859,7 @@ msgstr "Có hiệu lực"
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.challenge_form_view
 msgid "Advanced Options"
-msgstr "Tuỳ chọn Nâng cao"
+msgstr "Tuỳ chọn nâng cao"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_badge__rule_auth
@@ -1523,7 +1523,7 @@ msgstr "Mục tiêu Không đạt"
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.goal_list_view
 msgid "Goal List"
-msgstr "Danh mục Mục tiêu"
+msgstr "Danh mục mục tiêu"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_goal_definition__condition
@@ -1717,7 +1717,7 @@ msgstr "Hình 512"
 #. module: gamification
 #: model:ir.model.fields.selection,name:gamification.selection__gamification_challenge__state__inprogress
 msgid "In Progress"
-msgstr "Đang Thực hiện"
+msgstr "Đang thực hiện"
 
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.goal_definition_form_view
@@ -1757,7 +1757,7 @@ msgstr "Đang thực hiện"
 #. module: gamification
 #: model:ir.model.fields.selection,name:gamification.selection__gamification_challenge__visibility_mode__personal
 msgid "Individual Goals"
-msgstr "Các Mục tiêu cá nhân"
+msgstr "Các mục tiêu cá nhân"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_goal_definition__model_inherited_ids
@@ -2010,7 +2010,7 @@ msgstr "Cấp bậc kế tiếp"
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_challenge__next_report_date
 msgid "Next Report Date"
-msgstr "Ngày báo cáo Kế tiếp"
+msgstr "Ngày báo cáo kế tiếp"
 
 #. module: gamification
 #: model_terms:ir.actions.act_window,help:gamification.goals_from_challenge_act
@@ -2237,7 +2237,7 @@ msgstr "Đạt đến thứ hạng tiếp theo để nâng cao cấp bậc của
 #. module: gamification
 #: model_terms:gamification.karma.rank,description_motivational:gamification.rank_student
 msgid "Reach the next rank to show the rest of the world you exist."
-msgstr "Đạt thứ hạng tiếp theo để ''phần còn lại'' của Thế giới biết đến sự tồn tại của bạn!"
+msgstr "Đạt thứ hạng tiếp theo để ''phần còn lại'' của thế giới biết đến sự tồn tại của bạn!"
 
 #. module: gamification
 #: model:ir.model.fields.selection,name:gamification.selection__gamification_goal__state__reached
@@ -2272,7 +2272,7 @@ msgstr "Làm tươi mới Thủ thách"
 #. module: gamification
 #: model:ir.actions.act_window,name:gamification.goals_from_challenge_act
 msgid "Related Goals"
-msgstr "Các Mục tiêu liên quan"
+msgstr "Các mục tiêu liên quan"
 
 #. module: gamification
 #: model:ir.model.fields,help:gamification.field_gamification_badge_user_wizard__user_id
@@ -2292,7 +2292,7 @@ msgstr "Nhắc nhở delay"
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.challenge_form_view
 msgid "Reminders for Manual Goals"
-msgstr "Nhăc nhở cho các Mục tiêu Thủ công"
+msgstr "Nhăc nhở cho các mục tiêu Thủ công"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_challenge__report_message_frequency
@@ -2393,7 +2393,7 @@ msgstr "Tìm các tiêu chí"
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.goal_search_view
 msgid "Search Goals"
-msgstr "Tìm các Mục tiêu"
+msgstr "Tìm các mục tiêu"
 
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.gamification_karma_ranks_view_search
@@ -2496,7 +2496,7 @@ msgstr "Ngày bắt đầu"
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.goal_form_view
 msgid "Start goal"
-msgstr "Khởi động Mục tiêu"
+msgstr "Khởi động mục tiêu"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_challenge__state
@@ -2951,7 +2951,7 @@ msgstr "Bạn không được trao huy hiệu cho chính mình"
 #: code:addons/gamification/models/challenge.py:0
 #, python-format
 msgid "You can not reset a challenge with unfinished goals."
-msgstr "Bạn không thể đặt lại một thử thách có các Mục tiêu chưa kết thúc."
+msgstr "Bạn không thể đặt lại một thử thách có các mục tiêu chưa kết thúc."
 
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.badge_form_view

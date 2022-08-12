@@ -26,7 +26,7 @@ msgstr ""
 #. module: fetchmail
 #: model_terms:ir.ui.view,arch_db:fetchmail.view_email_server_form
 msgid "Actions to Perform on Incoming Mails"
-msgstr "Hành động cần Thực hiện khi có Email gửi đến"
+msgstr "Hành động cần thực hiện khi có Email gửi đến"
 
 #. module: fetchmail
 #: model:ir.model.fields,field_description:fetchmail.field_fetchmail_server__active
@@ -41,7 +41,7 @@ msgstr "Nâng cao"
 #. module: fetchmail
 #: model_terms:ir.ui.view,arch_db:fetchmail.view_email_server_form
 msgid "Advanced Options"
-msgstr "Tuỳ chọn Nâng cao"
+msgstr "Tuỳ chọn nâng cao"
 
 #. module: fetchmail
 #: code:addons/fetchmail/models/fetchmail.py:0

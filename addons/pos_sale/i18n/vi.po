@@ -220,12 +220,12 @@ msgstr ""
 #. module: pos_sale
 #: model:ir.model.fields,field_description:pos_sale.field_crm_team__pos_sessions_open_count
 msgid "Open POS Sessions"
-msgstr "Mở các Phiên PoS"
+msgstr "Mở các phiên PoS"
 
 #. module: pos_sale
 #: model:ir.actions.act_window,name:pos_sale.pos_session_action_from_crm_team
 msgid "Open Sessions"
-msgstr "Mở các Phiên"
+msgstr "Mở các phiên"
 
 #. module: pos_sale
 #. openerp-web
@@ -239,7 +239,7 @@ msgstr "Đơn hàng"
 #: model:ir.model.fields,field_description:pos_sale.field_sale_order__pos_order_line_ids
 #: model:ir.model.fields,field_description:pos_sale.field_sale_order_line__pos_order_line_ids
 msgid "Order lines Transfered to Point of Sale"
-msgstr "Dòng đơn hàng chuyển sang Điểm bán hàng"
+msgstr "Dòng đơn hàng chuyển sang điểm bán hàng"
 
 #. module: pos_sale
 #: model:ir.model.fields.selection,name:pos_sale.selection__sale_report__state__paid
@@ -256,7 +256,7 @@ msgstr "Phần trăm là %s"
 #. module: pos_sale
 #: model:ir.model,name:pos_sale.model_pos_config
 msgid "Point of Sale Configuration"
-msgstr "Cấu hình Điểm bán lẻ"
+msgstr "Cấu hình điểm bán lẻ"
 
 #. module: pos_sale
 #: model:ir.model,name:pos_sale.model_pos_order_line
@@ -266,12 +266,12 @@ msgstr "Dòng đơn hàng điểm bán hàng"
 #. module: pos_sale
 #: model:ir.model,name:pos_sale.model_pos_order
 msgid "Point of Sale Orders"
-msgstr "Đơn bán Điểm bán lẻ"
+msgstr "Đơn bán điểm bán lẻ"
 
 #. module: pos_sale
 #: model:ir.model,name:pos_sale.model_pos_session
 msgid "Point of Sale Session"
-msgstr "Phiên Điểm bán lẻ"
+msgstr "Phiên điểm bán lẻ"
 
 #. module: pos_sale
 #: model:ir.model.fields,field_description:pos_sale.field_crm_team__pos_config_ids
@@ -402,7 +402,7 @@ msgstr "Phiên đang chạy"
 #. module: pos_sale
 #: model:ir.model.fields,field_description:pos_sale.field_crm_team__pos_order_amount_total
 msgid "Session Sale Amount"
-msgstr "Doanh số Phiên"
+msgstr "Doanh số phiên"
 
 #. module: pos_sale
 #: model_terms:ir.ui.view,arch_db:pos_sale.crm_team_view_kanban_dashboard

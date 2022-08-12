@@ -69,7 +69,7 @@ msgstr "Xuất hoá đơn"
 #. module: sale_expense
 #: model:ir.model,name:sale_expense.model_account_move_line
 msgid "Journal Item"
-msgstr "Phát sinh Kế toán"
+msgstr "Phát sinh kế toán"
 
 #. module: sale_expense
 #: model:ir.model,name:sale_expense.model_product_template

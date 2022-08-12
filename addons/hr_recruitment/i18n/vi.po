@@ -2634,7 +2634,7 @@ msgstr ""
 #. module: hr_recruitment
 #: model:ir.model.fields,field_description:hr_recruitment.field_hr_applicant__name
 msgid "Subject / Application Name"
-msgstr "Tên Chủ đề / Tên ứng viên"
+msgstr "Tên chủ đề / Tên ứng viên"
 
 #. module: hr_recruitment
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.applicant_get_refuse_reason_view_form
@@ -2735,7 +2735,7 @@ msgstr ""
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_applicant__medium_id
 msgid "This is the method of delivery, e.g. Postcard, Email, or Banner Ad"
-msgstr "Đây là phương thức như Thẻ bưu điện, Email hoặc Banner quảng cáo"
+msgstr "Đây là phương thức như thẻ bưu điện, Email hoặc Banner quảng cáo"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_applicant__source_id
@@ -2817,7 +2817,7 @@ msgid ""
 msgstr ""
 "Sử dụng mẫu phỏng vấn được chỉnh sửa cho phù hợp với từng vị trí công việc "
 "trong quá trình tuyển dụng. Chọn mẫu cần dùng trong mẫu chi tiết vị trí công"
-" việc. Việc này phụ thuộc vào ứng dụng Khảo sát."
+" việc. Việc này phụ thuộc vào ứng dụng khảo sát."
 
 #. module: hr_recruitment
 #: model:ir.model.fields,field_description:hr_recruitment.field_hr_applicant__user_email

@@ -235,7 +235,7 @@ msgstr "Tài khoản tổ chức thanh toán"
 #: model:ir.model.fields,field_description:payment.field_payment_token__acquirer_ref
 #: model:ir.model.fields,field_description:payment.field_payment_transaction__acquirer_reference
 msgid "Acquirer Reference"
-msgstr "Tham chiếu Tổ chức thanh toán"
+msgstr "Tham chiếu tổ chức thanh toán"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_icon__acquirer_ids
@@ -245,7 +245,7 @@ msgstr "Tổ chức thanh toán"
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_icon_form
 msgid "Acquirers list"
-msgstr "Danh sách Tổ chức thanh toán"
+msgstr "Danh sách tổ chức thanh toán"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_acquirer_kanban
@@ -1123,7 +1123,7 @@ msgid ""
 "from the Payment Acquirer menu."
 msgstr ""
 "Không thể tìm thấy phương thức thanh toán thủ công cho công ty này. Vui lòng"
-" tạo một cái mới từ mục Tổ chức thanh toán."
+" tạo một cái mới từ mục tổ chức thanh toán."
 
 #. module: payment
 #. openerp-web
@@ -1660,7 +1660,7 @@ msgstr "Trình tự"
 #: code:addons/payment/static/src/js/payment_form_mixin.js:0
 #, python-format
 msgid "Server Error"
-msgstr "Lỗi Máy Chủ"
+msgstr "Lỗi Máy chủ"
 
 #. module: payment
 #. openerp-web

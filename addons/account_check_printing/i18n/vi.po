@@ -433,7 +433,7 @@ msgstr "Cái này sẽ cho phép lưu số séc tương ứng vào các khoản 
 #. module: account_check_printing
 #: model_terms:ir.ui.view,arch_db:account_check_printing.view_account_payment_form_inherited
 msgid "Unmark Sent"
-msgstr "Bỏ đánh dấu Đã gửi"
+msgstr "Bỏ đánh dấu đã gửi"
 
 #. module: account_check_printing
 #: model_terms:ir.ui.view,arch_db:account_check_printing.view_account_payment_form_inherited

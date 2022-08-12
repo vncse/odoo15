@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* hr_gamification
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # Nancy Momoland <thanhnguyen.icsc@gmail.com>, 2021
@@ -9,7 +9,7 @@
 # Trinh Tran Thi Phuong <trinhttp@trobz.com>, 2021
 # Uyen Vo <uyen@trobz.com>, 2021
 # Vo Thanh Thuy, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.4\n"
@@ -30,7 +30,7 @@ msgid ""
 "A goal is defined by a user and a goal type.\n"
 "                    Goals can be created automatically by using challenges."
 msgstr ""
-"Một Mục tiêu được định nghĩa bởi một người dùng và một kiểu Mục tiêu."
+"Một mục tiêu được định nghĩa bởi một người dùng và một kiểu mục tiêu."
 "                    Mục tiêu có thể được tạo tự động bằng cách sử dụng các "
 "thử thách."
 
@@ -52,9 +52,9 @@ msgid ""
 "                    The challenge can use a period (weekly, monthly...) for automatic creation of goals.\n"
 "                    The goals are created for the specified users or member of the group."
 msgstr ""
-"Gán một danh mục các Mục tiêu đến những người dùng được chọn để đánh giá họ.\n"
-"                    Thử thách có thể sử dụng một chu kỳ (hàng tuần, hàng tháng...) để tự động tạo các Mục tiêu.\n"
-"                    Các Mục tiêu được tạo cho các người dùng cụ thể hoặc thành viên của nhóm."
+"Gán một danh mục các mục tiêu đến những người dùng được chọn để đánh giá họ.\n"
+"                    Thử thách có thể sử dụng một chu kỳ (hàng tuần, hàng tháng...) để tự động tạo các mục tiêu.\n"
+"                    Các mục tiêu được tạo cho các người dùng cụ thể hoặc thành viên của nhóm."
 
 #. module: hr_gamification
 #: model:ir.model.fields,field_description:hr_gamification.field_res_users__badge_ids

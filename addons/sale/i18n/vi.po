@@ -949,7 +949,7 @@ msgstr "Đồng bộ Amazon"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__amount_undiscounted
 msgid "Amount Before Discount"
-msgstr "Tổng Trước Chiết khấu"
+msgstr "Tổng trước chiết khấu"
 
 #. module: sale
 #: code:addons/sale/models/payment_transaction.py:0
@@ -996,7 +996,7 @@ msgstr "Thẻ TK quản trị"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order_line__analytic_line_ids
 msgid "Analytic lines"
-msgstr "Dòng Kế toán quản trị"
+msgstr "Dòng kế toán quản trị"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -1073,7 +1073,7 @@ msgstr "Dựa trên ID khách hàng"
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__payment_acquirer__so_reference_type__so_name
 msgid "Based on Document Reference"
-msgstr "Dựa trên Tham chiếu Tài liệu"
+msgstr "Dựa trên tham chiếu Tài liệu"
 
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__product_template__sale_line_warn__block
@@ -1637,7 +1637,7 @@ msgstr "CK. (%)"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__discount
 msgid "Discount %"
-msgstr "% Chiết khấu"
+msgstr "% chiết khấu"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order_line__discount
@@ -1703,7 +1703,7 @@ msgstr "Số tiền trả trước (cố định)"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_advance_payment_inv__product_id
 msgid "Down Payment Product"
-msgstr "Sản phẩm Tiền đặt cọc"
+msgstr "Sản phẩm tiền đặt cọc"
 
 #. module: sale
 #: code:addons/sale/wizard/sale_make_invoice_advance.py:0
@@ -2284,7 +2284,7 @@ msgstr "Bút toán sổ nhật ký"
 #. module: sale
 #: model:ir.model,name:sale.model_account_move_line
 msgid "Journal Item"
-msgstr "Phát sinh Kế toán"
+msgstr "Phát sinh kế toán"
 
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__res_company__sale_onboarding_order_confirmation_state__just_done
@@ -2371,7 +2371,7 @@ msgstr "Khoá đơn bán đã xác nhận"
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__sale_order__state__done
 msgid "Locked"
-msgstr "Đã Khoá"
+msgstr "Đã khoá"
 
 #. module: sale
 #: model_terms:product.product,website_description:sale.product_product_4e
@@ -2440,7 +2440,7 @@ msgstr "Biên lợi nhuận"
 #. module: sale
 #: model:ir.actions.server,name:sale.model_sale_order_action_quotation_sent
 msgid "Mark Quotation as Sent"
-msgstr "Đánh dấu báo giá là Đã gửi"
+msgstr "Đánh dấu báo giá là đã gửi"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.account_invoice_form
@@ -2462,7 +2462,7 @@ msgstr "ID tài khoản người bán"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__message_has_error
 msgid "Message Delivery error"
-msgstr "Có Lỗi Gửi Thông điệp"
+msgstr "Có lỗi gửi thông điệp"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_res_partner__sale_warn_msg
@@ -2564,7 +2564,7 @@ msgstr "Không"
 #: model:ir.model.fields.selection,name:sale.selection__product_template__sale_line_warn__no-message
 #: model:ir.model.fields.selection,name:sale.selection__res_partner__sale_warn__no-message
 msgid "No Message"
-msgstr "Không có Thông điệp"
+msgstr "Không có thông điệp"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -2983,12 +2983,12 @@ msgstr "Giảm Giá"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order_line__price_reduce_taxexcl
 msgid "Price Reduce Tax excl"
-msgstr "Giảm Giá không gồm Thuế"
+msgstr "Giảm Giá không gồm thuế"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order_line__price_reduce_taxinc
 msgid "Price Reduce Tax inc"
-msgstr "Giảm Giá gồm Thuế"
+msgstr "Giảm Giá gồm thuế"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_report_all_channels_sales__price_subtotal
@@ -3214,7 +3214,7 @@ msgstr "Bố cục báo giá"
 #: model:ir.model.fields.selection,name:sale.selection__sale_order__state__sent
 #: model:ir.model.fields.selection,name:sale.selection__sale_report__state__sent
 msgid "Quotation Sent"
-msgstr "Báo giá đã Gửi"
+msgstr "Báo giá đã gửi"
 
 #. module: sale
 #: model:ir.model.constraint,message:sale.constraint_res_company_check_quotation_validity_days
@@ -3275,7 +3275,7 @@ msgstr "Báo giá và đơn bán"
 #: model:ir.model.fields,field_description:sale.field_product_product__expense_policy
 #: model:ir.model.fields,field_description:sale.field_product_template__expense_policy
 msgid "Re-Invoice Expenses"
-msgstr "Chi phí Tái xuất hoá đơn"
+msgstr "Chi phí tái xuất hoá đơn"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_product_product__visible_expense_policy
@@ -3969,7 +3969,7 @@ msgstr "Tổng số thuế Json"
 #: model:ir.model.fields,field_description:sale.field_sale_order_line__tax_id
 #: model_terms:ir.ui.view,arch_db:sale.report_saleorder_document
 msgid "Taxes"
-msgstr "Các loại Thuế"
+msgstr "Các loại thuế"
 
 #. module: sale
 #: model:ir.model.fields,help:sale.field_sale_advance_payment_inv__deposit_taxes_id
@@ -4314,7 +4314,7 @@ msgstr ""
 "tra doanh thu bán hàng và sắp xếp nó theo tiêu chí nhóm khác nhau (nhân viên"
 " bán hàng, đối tác, sản phẩm,...). Sử dụng báo cáo này để thực hiện phân "
 "tích trên đơn bán mà chưa xuất hoá đơn. Nếu bạn muốn phân tích đơn bán đã "
-"xuất hoá đơn, bạn nên sử dụng báo cáo Phân tích hoá đơn trong ứng dụng Kế "
+"xuất hoá đơn, bạn nên sử dụng báo cáo Phân tích hoá đơn trong ứng dụng kế "
 "toán."
 
 #. module: sale
@@ -4330,7 +4330,7 @@ msgstr ""
 "tra doanh thu bán hàng và sắp xếp nó theo tiêu chí nhóm khác nhau (nhân viên"
 " bán hàng, đối tác, sản phẩm,...). Sử dụng báo cáo này để thực hiện phân "
 "tích trên đơn bán mà chưa xuất hoá đơn. Nếu bạn muốn phân tích đơn bán đã "
-"xuất hoá đơn, bạn nên sử dụng báo cáo Phân tích hoá đơn trong ứng dụng Kế "
+"xuất hoá đơn, bạn nên sử dụng báo cáo Phân tích hoá đơn trong ứng dụng kế "
 "toán."
 
 #. module: sale
@@ -4346,7 +4346,7 @@ msgstr ""
 "tra doanh thu bán hàng và sắp xếp nó theo tiêu chí nhóm khác nhau (nhân viên"
 " bán hàng, đối tác, sản phẩm,...). Sử dụng báo cáo này để thực hiện phân "
 "tích trên đơn bán mà chưa xuất hoá đơn. Nếu bạn muốn phân tích đơn bán đã "
-"xuất hoá đơn, bạn nên sử dụng báo cáo Phân tích hoá đơn trong ứng dụng Kế "
+"xuất hoá đơn, bạn nên sử dụng báo cáo Phân tích hoá đơn trong ứng dụng kế "
 "toán."
 
 #. module: sale
@@ -4398,7 +4398,7 @@ msgstr ""
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.view_sales_order_filter
 msgid "Today Activities"
-msgstr "Hoạt động Hôm nay"
+msgstr "Hoạt động hôm nay"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_report_all_channels_sales__price_total
@@ -4414,7 +4414,7 @@ msgstr "Tổng"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order_line__price_tax
 msgid "Total Tax"
-msgstr "Tổng Thuế"
+msgstr "Tổng thuế"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.view_order_tree
@@ -4521,7 +4521,7 @@ msgstr "Thông điệp chưa đọc"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__amount_untaxed
@@ -4542,12 +4542,12 @@ msgstr "Số tiền chưa thuế chờ xuất hoá đơn"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order_line__untaxed_amount_invoiced
 msgid "Untaxed Invoiced Amount"
-msgstr "Giá trị xuất hoá đơn Trước Thuế"
+msgstr "Giá trị xuất hoá đơn trước thuế"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_report__price_subtotal
 msgid "Untaxed Total"
-msgstr "Giá trị Trước Thuế"
+msgstr "Giá trị trước thuế"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.view_order_form

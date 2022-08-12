@@ -242,7 +242,7 @@ msgstr "Thống kê điểm danh"
 #: model:ir.model.fields,field_description:hr_attendance.field_hr_employee_public__attendance_state
 #: model:ir.model.fields,field_description:hr_attendance.field_res_users__attendance_state
 msgid "Attendance Status"
-msgstr "Trạng thái Điểm danh"
+msgstr "Trạng thái điểm danh"
 
 #. module: hr_attendance
 #: model:ir.actions.act_window,name:hr_attendance.hr_attendance_action
@@ -647,7 +647,7 @@ msgstr "Hiển thị Giờ Tháng trước"
 #: model:ir.model.fields,field_description:hr_attendance.field_hr_employee__hours_today
 #: model:ir.model.fields,field_description:hr_attendance.field_hr_employee_public__hours_today
 msgid "Hours Today"
-msgstr "Giờ Hôm nay"
+msgstr "Giờ hôm nay"
 
 #. module: hr_attendance
 #: model:ir.model.fields,field_description:hr_attendance.field_hr_attendance_report__worked_hours
@@ -816,7 +816,7 @@ msgstr "Báo cáo"
 #: code:addons/hr_attendance/static/src/xml/attendance.xml:0
 #, python-format
 msgid "Scan your badge"
-msgstr "Quét Thẻ"
+msgstr "Quét thẻ"
 
 #. module: hr_attendance
 #: model_terms:ir.ui.view,arch_db:hr_attendance.res_config_settings_view_form

@@ -668,7 +668,7 @@ msgstr ""
 #: model:maintenance.stage,name:maintenance.stage_1
 #: model_terms:ir.ui.view,arch_db:maintenance.maintenance_team_kanban
 msgid "In Progress"
-msgstr "Đang Thực hiện"
+msgstr "Đang thực hiện"
 
 #. module: maintenance
 #: model:maintenance.team,name:maintenance.equipment_team_maintenance
@@ -991,12 +991,12 @@ msgstr "Số lượng yêu cầu bị chặn"
 #. module: maintenance
 #: model:ir.model.fields,field_description:maintenance.field_maintenance_team__todo_request_count_date
 msgid "Number of Requests Scheduled"
-msgstr "Số lượng yêu cầu theo Kế hoạch"
+msgstr "Số lượng yêu cầu theo kế hoạch"
 
 #. module: maintenance
 #: model:ir.model.fields,field_description:maintenance.field_maintenance_team__todo_request_count_unscheduled
 msgid "Number of Requests Unscheduled"
-msgstr "Số lượng yêu cầu chưa có Kế hoạch"
+msgstr "Số lượng yêu cầu chưa có kế hoạch"
 
 #. module: maintenance
 #: model:ir.model.fields,field_description:maintenance.field_maintenance_team__todo_request_count_high_priority
@@ -1454,7 +1454,7 @@ msgstr "Thông điệp chưa đọc"
 #: model:ir.model.fields,field_description:maintenance.field_maintenance_equipment_category__message_unread_counter
 #: model:ir.model.fields,field_description:maintenance.field_maintenance_request__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: maintenance
 #: model_terms:ir.ui.view,arch_db:maintenance.hr_equipment_request_view_search

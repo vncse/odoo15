@@ -379,7 +379,7 @@ msgstr "Chi phí"
 #. module: sale_timesheet
 #: model:ir.filters,name:sale_timesheet.ir_filter_project_profitability_report_costs_and_revenues
 msgid "Costs and Revenues"
-msgstr "Chi phí và Doanh thu"
+msgstr "Chi phí và doanh thu"
 
 #. module: sale_timesheet
 #: model:ir.actions.act_window,name:sale_timesheet.project_project_action_multi_create_invoice
@@ -718,7 +718,7 @@ msgstr "Bút toán sổ nhật ký"
 #. module: sale_timesheet
 #: model:ir.model,name:sale_timesheet.model_account_move_line
 msgid "Journal Item"
-msgstr "Phát sinh Kế toán"
+msgstr "Phát sinh kế toán"
 
 #. module: sale_timesheet
 #: model:product.product,name:sale_timesheet.product_service_deliver_timesheet_2
@@ -932,7 +932,7 @@ msgstr "Khả năng sinh lời"
 #: model_terms:ir.ui.view,arch_db:sale_timesheet.project_profitability_report_view_search
 #: model_terms:ir.ui.view,arch_db:sale_timesheet.project_profitability_report_view_tree
 msgid "Profitability Analysis"
-msgstr "Phân tích Khả năng sinh lời"
+msgstr "Phân tích khả năng sinh lời"
 
 #. module: sale_timesheet
 #: model:ir.model,name:sale_timesheet.model_project_project
@@ -966,7 +966,7 @@ msgstr "Chủ nhiệm Dự án"
 #. module: sale_timesheet
 #: model:ir.model,name:sale_timesheet.model_project_profitability_report
 msgid "Project Profitability Report"
-msgstr "Báo cáo Khả năng sinh lời Dự án"
+msgstr "Báo cáo khả năng sinh lời Dự án"
 
 #. module: sale_timesheet
 #: model:ir.model,name:sale_timesheet.model_project_sale_line_employee_map

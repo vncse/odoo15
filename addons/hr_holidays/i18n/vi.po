@@ -953,7 +953,7 @@ msgstr "Chế độ cấp phát"
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave_type__allocation_notif_subtype_id
 msgid "Allocation Notification Subtype"
-msgstr "Kiểu Thông báo cấp phát"
+msgstr "Kiểu thông báo cấp phát"
 
 #. module: hr_holidays
 #. openerp-web
@@ -1069,7 +1069,7 @@ msgstr ""
 "- Theo nhân viên: cho một nhân viên cụ thể\n"
 "- Theo Công ty: toàn bộ nhân viên của mọt công ty cụ thể\n"
 "- Theo Phòng / Ban: toàn bộ nhân viên của một phòng ban cụ thể\n"
-"- Theo Thẻ Nhân viên: toàn bộ nhân viên có gắn thẻ phân loại được chọn"
+"- Theo thẻ Nhân viên: toàn bộ nhân viên có gắn thẻ phân loại được chọn"
 
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.report_holidayssummary
@@ -3522,7 +3522,7 @@ msgstr "Mô tả Nghỉ"
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave_type__leave_notif_subtype_id
 msgid "Time Off Notification Subtype"
-msgstr "Kiểu Thông báo Nghỉ"
+msgstr "Kiểu thông báo Nghỉ"
 
 #. module: hr_holidays
 #: model:res.groups,name:hr_holidays.group_hr_holidays_user
@@ -3847,7 +3847,7 @@ msgstr "Thông điệp chưa đọc"
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave__message_unread_counter
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave_allocation__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave__user_id
@@ -3944,7 +3944,7 @@ msgstr "Chờ phê duyệt"
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_employee_base__current_leave_state__validate1
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_employee_public__current_leave_state__validate1
 msgid "Waiting Second Approval"
-msgstr "Đang chờ Chấp thuận Thứ hai"
+msgstr "Đang chờ Chấp thuận thứ hai"
 
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.hr_leave_report_calendar_view_search

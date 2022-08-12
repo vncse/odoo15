@@ -188,7 +188,7 @@ msgstr ""
 #: code:addons/board/static/src/legacy/xml/board.xml:0
 #, python-format
 msgid "Your personal dashboard is empty"
-msgstr "Bản thông tin cá nhân của bạn hiện đang trống"
+msgstr "Bảng thông tin cá nhân của bạn hiện đang trống"
 
 #. module: board
 #. openerp-web

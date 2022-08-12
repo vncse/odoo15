@@ -35,7 +35,7 @@ msgstr "Chiết khấu"
 #. module: pos_discount
 #: model_terms:ir.ui.view,arch_db:pos_discount.pos_config_view_form_inherit_pos_discount
 msgid "Discount %"
-msgstr "% Chiết khấu"
+msgstr "% chiết khấu"
 
 #. module: pos_discount
 #. openerp-web
@@ -43,13 +43,13 @@ msgstr "% Chiết khấu"
 #: model:ir.model.fields,field_description:pos_discount.field_pos_config__discount_pc
 #, python-format
 msgid "Discount Percentage"
-msgstr "Phần trăm Chiết khấu"
+msgstr "Phần trăm chiết khấu"
 
 #. module: pos_discount
 #: model:ir.model.fields,field_description:pos_discount.field_pos_config__discount_product_id
 #: model_terms:ir.ui.view,arch_db:pos_discount.pos_config_view_form_inherit_pos_discount
 msgid "Discount Product"
-msgstr "Sản phẩm Chiết khấu"
+msgstr "Sản phẩm chiết khấu"
 
 #. module: pos_discount
 #. openerp-web
@@ -66,7 +66,7 @@ msgstr "Chiết khấu đơn hàng"
 #. module: pos_discount
 #: model:ir.model,name:pos_discount.model_pos_config
 msgid "Point of Sale Configuration"
-msgstr "Cấu hình Điểm bán lẻ"
+msgstr "Cấu hình điểm bán lẻ"
 
 #. module: pos_discount
 #: model:ir.model.fields,help:pos_discount.field_pos_config__discount_pc
@@ -82,7 +82,7 @@ msgid ""
 " Sold' and 'Available in Point of Sale'."
 msgstr ""
 "Sản phẩm chiết khấu dường như được cấu hình sai. Hãy chắc chắn rằng nó được "
-"đánh dấu 'Có thể bán' và 'Khả dụng ở Điểm bán lẻ'."
+"đánh dấu 'Có thể bán' và 'Khả dụng ở điểm bán lẻ'."
 
 #. module: pos_discount
 #: model:ir.model.fields,help:pos_discount.field_pos_config__discount_product_id

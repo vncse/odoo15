@@ -129,7 +129,7 @@ msgstr "Cấu hình điểm bán lẻ"
 #. module: pos_adyen
 #: model:ir.model,name:pos_adyen.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr "Phương thức thanh toán Điểm bán hàng"
+msgstr "Phương thức thanh toán điểm bán hàng"
 
 #. module: pos_adyen
 #: model:ir.model.fields,help:pos_adyen.field_pos_config__adyen_ask_customer_for_tip

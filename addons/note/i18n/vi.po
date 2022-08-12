@@ -562,7 +562,7 @@ msgstr "Tin chưa đọc"
 #. module: note
 #: model:ir.model.fields,field_description:note.field_note_note__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: note
 #: model:ir.model.fields,help:note.field_note_stage__sequence

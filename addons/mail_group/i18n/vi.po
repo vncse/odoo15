@@ -767,7 +767,7 @@ msgstr "Nhóm thư"
 #: model:ir.cron,cron_name:mail_group.ir_cron_mail_notify_group_moderators
 #: model:ir.cron,name:mail_group.ir_cron_mail_notify_group_moderators
 msgid "Mail List: Notify group moderators"
-msgstr "Danh sách thư: Thông báo quản trị viên nhóm"
+msgstr "Danh sách thư: thông báo quản trị viên nhóm"
 
 #. module: mail_group
 #: model:ir.model.fields,field_description:mail_group.field_mail_group_message__mail_message_id

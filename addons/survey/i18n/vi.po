@@ -1258,7 +1258,7 @@ msgstr "Đóng"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_form
 msgid "Close Live Session"
-msgstr "Đóng Phiên trực tuyến"
+msgstr "Đóng phiên trực tuyến"
 
 #. module: survey
 #: model:survey.question.answer,value:survey.vendor_certification_page_1_question_3_choice_1
@@ -1680,7 +1680,7 @@ msgstr "Menu sổ xuống"
 #: model_terms:ir.ui.view,arch_db:survey.survey_button_form_view
 #: model_terms:ir.ui.view,arch_db:survey.survey_kanban
 msgid "Edit Survey"
-msgstr "Sửa Khảo sát"
+msgstr "Sửa khảo sát"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_void_content
@@ -2905,7 +2905,7 @@ msgstr "Một trang chứa toàn bộ các câu hỏi"
 #, python-format
 msgid "Only survey users can manage sessions."
 msgstr ""
-"Chỉ người dùng thuộc nhóm Khảo sát / Người dùng mới có thể quản lý các "
+"Chỉ người dùng thuộc nhóm khảo sát / Người dùng mới có thể quản lý các "
 "phiên."
 
 #. module: survey
@@ -3254,7 +3254,7 @@ msgstr "Người chịu trách nhiệm"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_page_statistics_inner
 msgid "Results Overview"
-msgstr "Tổng quan Kết quả"
+msgstr "Tổng quan kết quả"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_button_retake
@@ -3394,7 +3394,7 @@ msgstr "Tìm kiếm câu hỏi"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_view_search
 msgid "Search Survey"
-msgstr "Tìm kiếm Khảo sát"
+msgstr "Tìm kiếm khảo sát"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_user_input_line_view_search
@@ -3415,7 +3415,7 @@ msgstr "Khu vực và câu hỏi"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_form
 msgid "See results"
-msgstr "Xem Kết quả"
+msgstr "Xem kết quả"
 
 #. module: survey
 #: model:survey.question,title:survey.vendor_certification_page_1_question_3
@@ -3696,7 +3696,7 @@ msgstr "Khảo sát"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_response_line_view_tree
 msgid "Survey Answer Line"
-msgstr "Dòng trả lời Khảo sát"
+msgstr "Dòng trả lời khảo sát"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_gamification_badge__survey_ids
@@ -3712,14 +3712,14 @@ msgstr "Đồ thuật mời khảo sát"
 #: model:ir.model,name:survey.model_survey_question_answer
 #: model_terms:ir.ui.view,arch_db:survey.survey_question_answer_view_tree
 msgid "Survey Label"
-msgstr "Nhãn Khảo sát"
+msgstr "Nhãn khảo sát"
 
 #. module: survey
 #: model:ir.model,name:survey.model_survey_question
 #: model_terms:ir.ui.view,arch_db:survey.survey_question_form
 #: model_terms:ir.ui.view,arch_db:survey.survey_question_tree
 msgid "Survey Question"
-msgstr "Câu hỏi Khảo sát"
+msgstr "Câu hỏi khảo sát"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_form
@@ -3734,17 +3734,17 @@ msgstr "Đã đến giới hạn thời gian"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__title
 msgid "Survey Title"
-msgstr "Tiêu đề Khảo sát"
+msgstr "Tiêu đề khảo sát"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_invite__survey_start_url
 msgid "Survey URL"
-msgstr "URL Khảo sát"
+msgstr "URL khảo sát"
 
 #. module: survey
 #: model:ir.model,name:survey.model_survey_user_input
 msgid "Survey User Input"
-msgstr "Dữ liệu người dùng nhập vào Khảo sát"
+msgstr "Dữ liệu người dùng nhập vào khảo sát"
 
 #. module: survey
 #: model:ir.model,name:survey.model_survey_user_input_line
@@ -4348,7 +4348,7 @@ msgstr "Tin chưa đọc"
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_survey_view_search

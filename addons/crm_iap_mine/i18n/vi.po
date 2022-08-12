@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* crm_iap_mine
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # thanhnguyen.icsc <thanhnguyen.icsc@gmail.com>, 2021
@@ -10,7 +10,7 @@
 # Dung Nguyen Thi <dungnt@trobz.com>, 2021
 # Dao Nguyen <trucdao.uel@gmail.com>, 2021
 # Vo Thanh Thuy, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.5\n"
@@ -529,7 +529,7 @@ msgstr "Người có thâm niên"
 #. module: crm_iap_mine
 #: model:crm.iap.lead.industry,name:crm_iap_mine.crm_iap_mine_industry_161
 msgid "Pharmaceuticals, Biotechnology & Life Sciences"
-msgstr "Dược phẩm, công nghệ sinh học & Khoa học đời sống"
+msgstr "Dược phẩm, công nghệ sinh học & khoa học đời sống"
 
 #. module: crm_iap_mine
 #: model_terms:ir.ui.view,arch_db:crm_iap_mine.enrich_company

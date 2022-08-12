@@ -915,7 +915,7 @@ msgstr "Chiết khấu"
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_pricelist__discount_policy
 msgid "Discount Policy"
-msgstr "Chính sách Chiết khấu"
+msgstr "Chính sách chiết khấu"
 
 #. module: product
 #: model:ir.model.fields.selection,name:product.selection__product_pricelist__discount_policy__with_discount
@@ -1727,7 +1727,7 @@ msgstr "Số tin gửi đi bị lỗi"
 #: model:ir.model.fields,field_description:product.field_product_product__pricelist_item_count
 #: model:ir.model.fields,field_description:product.field_product_template__pricelist_item_count
 msgid "Number of price rules"
-msgstr "Số lượng qui tắc giá"
+msgstr "Số lượng quy tắc giá"
 
 #. module: product
 #: model:ir.model.fields,help:product.field_product_product__message_unread_counter
@@ -1952,7 +1952,7 @@ msgstr "Báo cáo bảng giá"
 #: model:ir.model,name:product.model_product_pricelist_item
 #: model_terms:ir.ui.view,arch_db:product.product_pricelist_item_form_view
 msgid "Pricelist Rule"
-msgstr "Qui tắc bảng giá"
+msgstr "Quy tắc bảng giá"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_pricelist__item_ids
@@ -2234,7 +2234,7 @@ msgstr "Bảng giá sản phẩm"
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_pricelist_item_view_search
 msgid "Products Price Rules Search"
-msgstr "Tìm qui tắc giá sản phẩm"
+msgstr "Tìm quy tắc giá sản phẩm"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_pricelist_view_search
@@ -2907,7 +2907,7 @@ msgstr "Tin chưa đọc"
 #: model:ir.model.fields,field_description:product.field_product_product__message_unread_counter
 #: model:ir.model.fields,field_description:product.field_product_template__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.report_pricelist_page

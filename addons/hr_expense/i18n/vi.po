@@ -1413,7 +1413,7 @@ msgstr "Giá"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.report_expense_sheet
 msgid "Price in Company Currency"
-msgstr "Giá theo Tiền tệ công ty"
+msgstr "Giá theo tiền tệ công ty"
 
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_template_register
@@ -1509,7 +1509,7 @@ msgstr "Bị từ chối"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_view_search
 msgid "Refused Expenses"
-msgstr "Chi tiêu bị Từ chối"
+msgstr "Chi tiêu bị từ chối"
 
 #. module: hr_expense
 #: code:addons/hr_expense/models/hr_expense.py:0
@@ -1933,7 +1933,7 @@ msgstr "Tin chưa đọc"
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__message_unread_counter
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense_sheet__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__product_uom_category_id

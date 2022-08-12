@@ -875,7 +875,7 @@ msgstr "Báo động lịch"
 #. module: calendar
 #: model:ir.model,name:calendar.model_calendar_attendee
 msgid "Calendar Attendee Information"
-msgstr "Thông tin Tham dự lịch"
+msgstr "Thông tin tham dự lịch"
 
 #. module: calendar
 #: model:ir.model,name:calendar.model_calendar_event
@@ -1054,7 +1054,7 @@ msgstr "Từ chối"
 #: model:ir.model.fields.selection,name:calendar.selection__calendar_attendee__state__declined
 #: model:ir.model.fields.selection,name:calendar.selection__calendar_event__attendee_status__declined
 msgid "Declined"
-msgstr "Đã Từ chối"
+msgstr "Đã từ chối"
 
 #. module: calendar
 #: model:ir.model.fields,field_description:calendar.field_calendar_event__description
@@ -1147,12 +1147,12 @@ msgstr "Email"
 #. module: calendar
 #: model:calendar.alarm,name:calendar.alarm_mail_1
 msgid "Email - 3 Hours"
-msgstr "Email - Trước 3 Giờ"
+msgstr "Email - trước 3 Giờ"
 
 #. module: calendar
 #: model:calendar.alarm,name:calendar.alarm_mail_2
 msgid "Email - 6 Hours"
-msgstr "Email - Trước 6 Giờ"
+msgstr "Email - trước 6 Giờ"
 
 #. module: calendar
 #: model:ir.model.fields,field_description:calendar.field_calendar_alarm__mail_template_id
@@ -1623,27 +1623,27 @@ msgstr "Thông báo"
 #. module: calendar
 #: model:calendar.alarm,name:calendar.alarm_notif_5
 msgid "Notification - 1 Days"
-msgstr "Thông báo - Trước 1 Ngày"
+msgstr "Thông báo - trước 1 Ngày"
 
 #. module: calendar
 #: model:calendar.alarm,name:calendar.alarm_notif_3
 msgid "Notification - 1 Hours"
-msgstr "Thông báo - Trước 1 Giờ"
+msgstr "Thông báo - trước 1 Giờ"
 
 #. module: calendar
 #: model:calendar.alarm,name:calendar.alarm_notif_1
 msgid "Notification - 15 Minutes"
-msgstr "Thông báo - Trước 15 Phút"
+msgstr "Thông báo - trước 15 Phút"
 
 #. module: calendar
 #: model:calendar.alarm,name:calendar.alarm_notif_4
 msgid "Notification - 2 Hours"
-msgstr "Thông báo - Trước 2 Giờ"
+msgstr "Thông báo - trước 2 Giờ"
 
 #. module: calendar
 #: model:calendar.alarm,name:calendar.alarm_notif_2
 msgid "Notification - 30 Minutes"
-msgstr "Thông báo - Trước 30 Phút"
+msgstr "Thông báo - trước 30 Phút"
 
 #. module: calendar
 #: model:ir.model.fields,help:calendar.field_calendar_event__alarm_ids
@@ -2124,7 +2124,7 @@ msgstr "Múi giờ sử dụng để hiển thị thời gian trong mẫu thư"
 #: code:addons/calendar/models/res_users.py:0
 #, python-format
 msgid "Today's Meetings"
-msgstr "Cuộc gặp Hôm nay"
+msgstr "Cuộc gặp hôm nay"
 
 #. module: calendar
 #: model:ir.model.fields,field_description:calendar.field_calendar_event__tue
@@ -2166,7 +2166,7 @@ msgstr "Thông điệp chưa đọc"
 #. module: calendar
 #: model:ir.model.fields,field_description:calendar.field_calendar_event__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: calendar
 #: model:ir.model.fields,field_description:calendar.field_calendar_event__until

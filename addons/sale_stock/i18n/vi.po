@@ -98,7 +98,7 @@ msgid ""
 "A consumable product is a product for which stock is not managed.\n"
 "A service is a non-material product you provide."
 msgstr ""
-"Sản phẩm lưu kho là sản phẩm bạn muốn quản lý lượng tồn kho của nó. Hệ thống sẽ cần cài thêm phân hệ Kho.\n"
+"Sản phẩm lưu kho là sản phẩm bạn muốn quản lý lượng tồn kho của nó. Hệ thống sẽ cần cài thêm phân hệ kho.\n"
 "Sản phẩm tiêu dùng là sản phẩm bạn không cần quản lý lượng tồn kho.\n"
 "Sản phẩm dịch vụ là sản phẩm bạn cung cấp."
 
@@ -349,7 +349,7 @@ msgstr "Kho vận"
 #. module: sale_stock
 #: model:ir.model,name:sale_stock.model_stock_location_route
 msgid "Inventory Routes"
-msgstr "Định tuyến Kho"
+msgstr "Định tuyến kho"
 
 #. module: sale_stock
 #: model:ir.ui.menu,name:sale_stock.menu_invoiced
@@ -374,7 +374,7 @@ msgstr "Bút toán sổ nhật ký"
 #. module: sale_stock
 #: model:ir.model,name:sale_stock.model_account_move_line
 msgid "Journal Item"
-msgstr "Phát sinh Kế toán"
+msgstr "Phát sinh kế toán"
 
 #. module: sale_stock
 #: model:ir.model,name:sale_stock.model_stock_production_lot
@@ -478,7 +478,7 @@ msgstr "Loại sản phẩm"
 #. module: sale_stock
 #: model:ir.model.fields,field_description:sale_stock.field_sale_order_line__qty_available_today
 msgid "Qty Available Today"
-msgstr "SL Khả dụng Hôm nay"
+msgstr "SL khả dụng hôm nay"
 
 #. module: sale_stock
 #: model:ir.model.fields,field_description:sale_stock.field_sale_order_line__qty_to_deliver

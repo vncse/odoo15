@@ -612,7 +612,7 @@ msgstr ""
 #. module: utm
 #: model:ir.model.fields,help:utm.field_utm_mixin__medium_id
 msgid "This is the method of delivery, e.g. Postcard, Email, or Banner Ad"
-msgstr "Đây là phương thức như Thẻ bưu điện, Email hoặc Banner quảng cáo"
+msgstr "Đây là phương thức như thẻ bưu điện, Email hoặc Banner quảng cáo"
 
 #. module: utm
 #: model:ir.model.fields,help:utm.field_utm_mixin__source_id

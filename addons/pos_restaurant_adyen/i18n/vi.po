@@ -32,12 +32,12 @@ msgstr "Đơn bán lẻ"
 #. module: pos_restaurant_adyen
 #: model:ir.model,name:pos_restaurant_adyen.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr "Phương thức thanh toán Điểm bán hàng"
+msgstr "Phương thức thanh toán điểm bán hàng"
 
 #. module: pos_restaurant_adyen
 #: model:ir.model,name:pos_restaurant_adyen.model_pos_payment
 msgid "Point of Sale Payments"
-msgstr "Thanh toán Điểm bán hàng"
+msgstr "Thanh toán điểm bán hàng"
 
 #. module: pos_restaurant_adyen
 #: model:ir.model.fields,help:pos_restaurant_adyen.field_pos_payment_method__adyen_merchant_account

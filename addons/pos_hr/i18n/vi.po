@@ -117,7 +117,7 @@ msgstr "Báo cáo đơn hàng bán lẻ"
 #: code:addons/pos_hr/static/src/xml/LoginScreen.xml:0
 #, python-format
 msgid "Scan your badge"
-msgstr "Quét Thẻ"
+msgstr "Quét thẻ"
 
 #. module: pos_hr
 #. openerp-web

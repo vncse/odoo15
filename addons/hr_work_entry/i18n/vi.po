@@ -70,7 +70,7 @@ msgid ""
 "Carefull, the Code is used in many references, changing it could lead to "
 "unwanted changes."
 msgstr ""
-"Hãy cẩn thận, Mã được sử dụng trong nhiều tham chiếu, thay đổi mã có thể dẫn"
+"Hãy cẩn thận, mã được sử dụng trong nhiều tham chiếu, thay đổi mã có thể dẫn"
 " đến các thay đổi không mong muốn."
 
 #. module: hr_work_entry

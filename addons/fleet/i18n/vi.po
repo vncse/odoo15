@@ -2047,7 +2047,7 @@ msgstr "Lốp mùa hè"
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle_tag__name
 msgid "Tag Name"
-msgstr "Tên Từ khóa"
+msgstr "Tên từ khóa"
 
 #. module: fleet
 #: model:ir.model.constraint,message:fleet.constraint_fleet_vehicle_tag_name_uniq
@@ -2237,7 +2237,7 @@ msgstr "Tin chưa đọc"
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle_log_contract__message_unread_counter
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle_log_services__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: fleet
 #: model:ir.model.fields,help:fleet.field_fleet_vehicle_state__sequence

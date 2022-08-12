@@ -35,7 +35,7 @@ msgstr "Cấu hình điểm bán lẻ"
 #. module: pos_six
 #: model:ir.model,name:pos_six.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr "Phương thức thanh toán Điểm bán hàng"
+msgstr "Phương thức thanh toán điểm bán hàng"
 
 #. module: pos_six
 #. openerp-web

@@ -347,7 +347,7 @@ msgstr ""
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.registration_attendee_details
 msgid "Attendees"
-msgstr "Người Tham dự"
+msgstr "Người tham dự"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.index_sidebar_quotes
@@ -818,7 +818,7 @@ msgstr "Trực tuyến"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_description_full
 msgid "Organizer"
-msgstr "Nhà Tổ chức"
+msgstr "Nhà tổ chức"
 
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.index_sidebar_photos

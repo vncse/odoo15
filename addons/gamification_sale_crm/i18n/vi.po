@@ -37,7 +37,7 @@ msgstr "Thu lượm tiềm năng"
 #. module: gamification_sale_crm
 #: model:gamification.challenge,name:gamification_sale_crm.challenge_crm_sale
 msgid "Monthly Sales Targets"
-msgstr "Mục tiêu Doanh số hàng tháng"
+msgstr "Mục tiêu doanh số hàng tháng"
 
 #. module: gamification_sale_crm
 #: model:gamification.challenge.line,name:gamification_sale_crm.line_crm_marketing1

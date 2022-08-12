@@ -1174,7 +1174,7 @@ msgid ""
 "                your cash box, and then post entries when money comes in or\n"
 "                goes out of the cash box."
 msgstr ""
-"Chức năng Cash Register / Quản lý Tiền mặt cho phép bạn quản lý các bút toán tiền mặt trong sổ nhật\n"
+"Chức năng Cash Register / Quản lý tiền mặt cho phép bạn quản lý các bút toán tiền mặt trong sổ nhật\n"
 "                ký tiền mặt. Chức năng này cung cấp một phương thức dễ dàng để theo dõi\n"
 "                các khoản thanh toán tiền mặt hàng ngày. Bạn có thể nhập tiền có trong\n"
 "                két tiền của bạn, và vào sổ các bút toán khi tiền vào hoặc\n"
@@ -2146,7 +2146,7 @@ msgstr "Thiết lập nâng cao"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax__include_base_amount
 msgid "Affect Base of Subsequent Taxes"
-msgstr "Tác động giá trị tính thuế Kế tiếp"
+msgstr "Tác động giá trị tính thuế kế tiếp"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_tax_template__include_base_amount
@@ -3039,7 +3039,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:account.action_account_moves_journal_bank_cash
 #: model:ir.ui.menu,name:account.menu_action_account_moves_journal_bank_cash
 msgid "Bank and Cash"
-msgstr "Ngân hàng và Tiền mặt"
+msgstr "Ngân hàng và tiền mặt"
 
 #. module: account
 #: model:ir.model,name:account.model_account_setup_bank_manual_config
@@ -3226,12 +3226,12 @@ msgstr "Hoá đơn chờ thanh toán"
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__res_partner__invoice_warn__block
 msgid "Blocking Message"
-msgstr "Thông điệp Khoá/Phong toả"
+msgstr "Thông điệp khoá/Phong toả"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_account_type__include_initial_balance
 msgid "Bring Accounts Balance Forward"
-msgstr "Không Kết chuyển Số dư"
+msgstr "Không kết chuyển Số dư"
 
 #. module: account
 #: model_terms:ir.actions.act_window,help:account.open_account_journal_dashboard_kanban
@@ -5246,7 +5246,7 @@ msgstr "Xoá Emails"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_invoice_send__auto_delete_message
 msgid "Delete Message Copy"
-msgstr "Xoá bản sao Thông điệp"
+msgstr "Xoá bản sao thông điệp"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_account__deprecated
@@ -5889,7 +5889,7 @@ msgstr "Sổ nhật ký Lãi hoặc Lỗ do tỷ giá"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_full_reconcile__exchange_move_id
 msgid "Exchange Move"
-msgstr "Phát sinh Quy đổi"
+msgstr "Phát sinh quy đổi"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_move_line__exclude_from_invoice_tab
@@ -7554,7 +7554,7 @@ msgstr "Hóa đơn khớp một phần nếu thanh toán Thấp hơn"
 #: code:addons/account/models/chart_template.py:0
 #, python-format
 msgid "Invoices/Bills Perfect Match"
-msgstr "Hóa đơn Kết hợp hoàn hảo"
+msgstr "Hóa đơn kết hợp hoàn hảo"
 
 #. module: account
 #: model:ir.ui.menu,name:account.account_invoicing_menu
@@ -8446,12 +8446,12 @@ msgstr "Liệt kê tất cả thuế mà đã cài đặt"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__fiscalyear_lock_date
 msgid "Lock Date"
-msgstr "Ngày Khoá"
+msgstr "Ngày khoá"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__period_lock_date
 msgid "Lock Date for Non-Advisers"
-msgstr "Ngày Khoá đối với người không phải quản lý tài chính"
+msgstr "Ngày khoá đối với người không phải quản lý tài chính"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_line__restrict_mode_hash_table
@@ -9005,7 +9005,7 @@ msgstr "Không theo dõi"
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__res_partner__invoice_warn__no-message
 msgid "No Message"
-msgstr "Không có Thông điệp"
+msgstr "Không có thông điệp"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_fiscal_position__foreign_vat_header_mode__no_template
@@ -9733,7 +9733,7 @@ msgid ""
 "Outgoing Payments are posted on an Outstanding Payments Account. In the bank reconciliation widget, they appear as blue lines.\n"
 "Bank transactions are then reconciled on the Outstanding Payments Account rather the Payable Account."
 msgstr ""
-"Các Khoản thanh toán được đăng trên một tài khoản thanh toán Chưa thanh toán. Trong tiện ích điều chỉnh ngân hàng, chúng xuất hiện dưới dạng các đường màu xanh lam.\n"
+"Các khoản thanh toán được đăng trên một tài khoản thanh toán Chưa thanh toán. Trong tiện ích điều chỉnh ngân hàng, chúng xuất hiện dưới dạng các đường màu xanh lam.\n"
 "Các giao dịch ngân hàng sau đó được đối chiếu trên tài khoản thanh toán chưa thanh toán thay vì tài khoản phải trả."
 
 #. module: account
@@ -10222,7 +10222,7 @@ msgstr "Điều khoản thanh toán: Ngày cuối tháng kế tiếp"
 #. module: account
 #: model_terms:account.payment.term,note:account.account_payment_term_immediate
 msgid "Payment terms: Immediate Payment"
-msgstr "Điều Khoản thanh toán: thanh toán ngay"
+msgstr "Điều khoản thanh toán: thanh toán ngay"
 
 #. module: account
 #: code:addons/account/wizard/account_payment_register.py:0
@@ -10869,7 +10869,7 @@ msgstr "Nhận"
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_payment_register__payment_type__inbound
 msgid "Receive Money"
-msgstr "Thu Tiền"
+msgstr "Thu tiền"
 
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_reconcile_model__match_nature__amount_received
@@ -11824,7 +11824,7 @@ msgstr "Gửi"
 #: model_terms:ir.ui.view,arch_db:account.account_invoice_send_wizard_form
 #: model_terms:ir.ui.view,arch_db:account.view_move_form
 msgid "Send & Print"
-msgstr "In & Gửi"
+msgstr "In & gửi"
 
 #. module: account
 #: model:ir.actions.server,name:account.invoice_send
@@ -11847,7 +11847,7 @@ msgstr "Gửi hoá đơn"
 #. module: account
 #: model:ir.model.fields.selection,name:account.selection__account_payment_register__payment_type__outbound
 msgid "Send Money"
-msgstr "Chi Tiền"
+msgstr "Chi tiền"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
@@ -12000,7 +12000,7 @@ msgstr "Thiết lập giá"
 #: model:ir.model.fields,help:account.field_account_account_tag__active
 msgid "Set active to false to hide the Account Tag without removing it."
 msgstr ""
-"Thiết lập Hiệu lực về False để ẩn Thẻ tài khoản mà không cần phải xoá nó."
+"Thiết lập Hiệu lực về False để ẩn thẻ tài khoản mà không cần phải xoá nó."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal__active
@@ -12521,7 +12521,7 @@ msgstr "Chuyển thành hoá đơn hoàn tiền / điều chỉnh giảm"
 #: model:ir.model.fields,field_description:account.field_account_account_tag__name
 #: model:ir.model.fields,field_description:account.field_account_tax_report_line__tag_name
 msgid "Tag Name"
-msgstr "Tên Từ khóa"
+msgstr "Tên từ khóa"
 
 #. module: account
 #: code:addons/account/models/account_tax_report.py:0
@@ -15282,7 +15282,7 @@ msgstr "Tin chưa đọc"
 #: model:ir.model.fields,field_description:account.field_account_payment__message_unread_counter
 #: model:ir.model.fields,field_description:account.field_account_reconcile_model__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: account
 #. openerp-web
@@ -15802,7 +15802,7 @@ msgstr "Dược dùng để gộp các bút toán liên quan tới tài khoản 
 #: model:ir.model.fields,field_description:account.field_account_common_journal_report__amount_currency
 #: model:ir.model.fields,field_description:account.field_account_print_journal__amount_currency
 msgid "With Currency"
-msgstr "Với Tiền tệ"
+msgstr "Với tiền tệ"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.account_tour_upload_bill
@@ -16550,7 +16550,7 @@ msgstr "Phạm vi Zip"
 #: model:ir.model.fields,field_description:account.field_account_fiscal_position__zip_from
 #: model:ir.model.fields,field_description:account.field_account_fiscal_position_template__zip_from
 msgid "Zip Range From"
-msgstr "Phạm vi Zip Từ"
+msgstr "Phạm vi Zip từ"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_fiscal_position__zip_to

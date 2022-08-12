@@ -3237,7 +3237,7 @@ msgstr ""
 #: code:addons/website_slides/static/src/js/slides_course_quiz.js:0
 #, python-format
 msgid "Join & Submit"
-msgstr "Tham gia & Gửi"
+msgstr "Tham gia & gửi"
 
 #. module: website_slides
 #. openerp-web

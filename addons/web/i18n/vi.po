@@ -939,7 +939,7 @@ msgid ""
 "for all purposes when it is used on documents, including legally binding "
 "contracts."
 msgstr ""
-"Bằng cách nhân vào Thông qua và Kí, Tôi đồng ý rằng chữ kí /chữ kí nháy được"
+"Bằng cách nhân vào thông qua và Kí, Tôi đồng ý rằng chữ kí /chữ kí nháy được"
 " chọn sẽ được xem là đại diện cho chữ kí số thay cho hữ kí /chữ kí nháy của "
 "tôi để dùng cho mọi mục đích của tài liệu được kí này, bao gồm cả các hợp "
 "đồng có ràng buộc về mặt pháp luật."
@@ -2767,7 +2767,7 @@ msgstr "Không"
 #: code:addons/web/static/src/core/debug/debug_menu_items.xml:0
 #, python-format
 msgid "No Update:"
-msgstr "Không Cập nhật:"
+msgstr "Không cập nhật:"
 
 #. module: web
 #. openerp-web
@@ -2927,7 +2927,7 @@ msgstr "Lỗi máy trạm"
 #: code:addons/web/static/src/legacy/js/fields/upgrade_fields.js:0
 #, python-format
 msgid "Odoo Enterprise"
-msgstr "Hệ thống cho Doanh nghiệp"
+msgstr "Hệ thống cho doanh nghiệp"
 
 #. module: web
 #. openerp-web

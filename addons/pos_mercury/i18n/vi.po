@@ -38,7 +38,7 @@ msgid ""
 "                                configuration you should associate it with a Point Of Sale payment method."
 msgstr ""
 "<i>Cấu hình Vantiv</i> xác định tài khoản Vantiv nào sẽ được sử dụng khi\n"
-"                                xử lý giao dịch thẻ tín dụng trong Điểm bán hàng POS. Cài đặt cấu hình\n"
+"                                xử lý giao dịch thẻ tín dụng trong điểm bán hàng POS. Cài đặt cấu hình\n"
 "                                Vantiv sẽ giúp bạn cho phép thanh toán bằng nhiều loại thẻ tín dụng khác nhau\n"
 "                                (VD. Visa, MasterCard, Discovery, American Express, ...). Sau khi cài đặt\n"
 "                                cấu hình này, bạn nên liên kết với một phương thức thanh toán trong điểm bán hàng POS."
@@ -335,12 +335,12 @@ msgstr "Đơn hàng PoS"
 #. module: pos_mercury
 #: model:ir.model,name:pos_mercury.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr "Phương thức thanh toán ở Điểm bán lẻ"
+msgstr "Phương thức thanh toán ở điểm bán lẻ"
 
 #. module: pos_mercury
 #: model:ir.model,name:pos_mercury.model_pos_payment
 msgid "Point of Sale Payments"
-msgstr "Thanh toán Điểm bán lẻ"
+msgstr "Thanh toán điểm bán lẻ"
 
 #. module: pos_mercury
 #: model:ir.model,name:pos_mercury.model_pos_mercury_configuration

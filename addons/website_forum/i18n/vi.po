@@ -474,7 +474,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_forum.new_question
 msgid "<i class=\"fa fa-check\"/> How to configure TPS and TVQ's canadian taxes?"
 msgstr ""
-"<i class=\"fa fa-check\"/> Làm thế nào để cấu hình Thuế GTGT và Thuế Tiêu "
+"<i class=\"fa fa-check\"/> Làm thế nào để cấu hình thuế GTGT và thuế Tiêu "
 "thụ đặc biệt?"
 
 #. module: website_forum
@@ -689,7 +689,7 @@ msgstr "<span class=\"navbar-text mr-1\">Đi đến:</span>"
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.tag
 msgid "<span class=\"navbar-text mr-3\">Show Tags Starting By</span>"
-msgstr "<span class=\"navbar-text mr-3\">Hiển thị Từ khoá bắt đầu bởi</span>"
+msgstr "<span class=\"navbar-text mr-3\">Hiển thị từ khoá bắt đầu bởi</span>"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.view_forum_forum_form
@@ -835,7 +835,7 @@ msgstr "Tất cả diễn đàn"
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.header
 msgid "All Tags"
-msgstr "Tất cả các Từ khoá"
+msgstr "Tất cả các từ khoá"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.forum_nav_header
@@ -1167,7 +1167,7 @@ msgstr "Có thể Xem"
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_forum__karma_edit_retag
 msgid "Change question tags"
-msgstr "Đổi Từ khoá câu hỏi"
+msgstr "Đổi từ khoá câu hỏi"
 
 #. module: website_forum
 #: model:ir.model.fields,help:website_forum.field_forum_forum__allow_bump
@@ -1420,7 +1420,7 @@ msgstr "Tạo các từ khoá mới"
 #. module: website_forum
 #: model_terms:gamification.badge,description:website_forum.badge_32
 msgid "Created a tag used by 15 questions"
-msgstr "Tạo một Từ khoá được sử dụng bởi 15 câu hỏi"
+msgstr "Tạo một từ khoá được sử dụng bởi 15 câu hỏi"
 
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_forum__create_uid
@@ -2084,7 +2084,7 @@ msgstr "Tuyên bố không đúng đắn và không thể chấp nhận được
 #: code:addons/website_forum/static/src/js/tours/website_forum.js:0
 #, python-format
 msgid "Insert tags related to your question."
-msgstr "Chèn Từ khoá liên quan đến câu hỏi của bạn."
+msgstr "Chèn từ khoá liên quan đến câu hỏi của bạn."
 
 #. module: website_forum
 #: model:forum.post.reason,name:website_forum.reason_11
@@ -2145,7 +2145,7 @@ msgstr "Karma đạt được"
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.view_forum_forum_form
 msgid "Karma Related Rights"
-msgstr "Các Quyền liên quan đến Karma"
+msgstr "Các quyền liên quan đến Karma"
 
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_post__karma_close
@@ -2441,7 +2441,7 @@ msgstr "Chưa có bài nào được duyệt"
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.tag
 msgid "No tags"
-msgstr "Không có Từ khoá"
+msgstr "Không có từ khoá"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.user_votes
@@ -3113,7 +3113,7 @@ msgstr "Hiển thị"
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.tag
 msgid "Show Tags Starting By"
-msgstr "Hiển thị Từ khoá bắt đầu bởi"
+msgstr "Hiển thị từ khoá bắt đầu bởi"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.forum_index
@@ -3546,7 +3546,7 @@ msgstr "Thông điệp chưa đọc"
 #: model:ir.model.fields,field_description:website_forum.field_forum_post__message_unread_counter
 #: model:ir.model.fields,field_description:website_forum.field_forum_tag__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: website_forum
 #: model_terms:ir.ui.view,arch_db:website_forum.forum_index
@@ -3708,7 +3708,7 @@ msgstr "Dữ liệu mô tả Website"
 #: model:ir.model.fields,field_description:website_forum.field_forum_post__website_meta_keywords
 #: model:ir.model.fields,field_description:website_forum.field_forum_tag__website_meta_keywords
 msgid "Website meta keywords"
-msgstr "Dữ liệu Từ khoá Website"
+msgstr "Dữ liệu từ khoá Website"
 
 #. module: website_forum
 #: model:ir.model.fields,field_description:website_forum.field_forum_forum__website_meta_title

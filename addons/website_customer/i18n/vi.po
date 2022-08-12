@@ -199,7 +199,7 @@ msgstr "Tham khảo theo ngành"
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.opt_tag_list
 msgid "References by Tag"
-msgstr "Tham chiếu theo Thẻ"
+msgstr "Tham chiếu theo thẻ"
 
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.index
@@ -253,7 +253,7 @@ msgstr "Các thẻ website"
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.opt_country
 msgid "World Map"
-msgstr "Bản đồ Thế giới"
+msgstr "Bản đồ thế giới"
 
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.implemented_by_block

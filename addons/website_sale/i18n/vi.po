@@ -2305,13 +2305,13 @@ msgstr "Vui lòng tiếp tục với giỏ hiện hành của bạn."
 #: code:addons/website_sale/controllers/backend.py:0
 #, python-format
 msgid "Previous Month"
-msgstr "Tháng Trước"
+msgstr "Tháng trước"
 
 #. module: website_sale
 #: code:addons/website_sale/controllers/backend.py:0
 #, python-format
 msgid "Previous Week"
-msgstr "Tuần Trước"
+msgstr "Tuần trước"
 
 #. module: website_sale
 #: code:addons/website_sale/controllers/backend.py:0
@@ -2782,7 +2782,7 @@ msgstr "Doanh số kể từ Tháng trước"
 #: code:addons/website_sale/static/src/xml/website_sale_dashboard.xml:0
 #, python-format
 msgid "Sales Since Last Week"
-msgstr "Doanh số kể từ Tuần trước"
+msgstr "Doanh số kể từ tuần trước"
 
 #. module: website_sale
 #. openerp-web
@@ -3103,7 +3103,7 @@ msgstr "Phụ kiện được gợi ý trong giỏ hàng eCommerce "
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.address_b2b
 msgid "TIN / VAT"
-msgstr "Mã số Thuế"
+msgstr "Mã số thuế"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.snippet_options
@@ -3342,7 +3342,7 @@ msgstr "Chưa xuất bản"
 #: code:addons/website_sale/static/src/xml/website_sale_dashboard.xml:0
 #, python-format
 msgid "Untaxed Total Sold"
-msgstr "Tổng bán chưa Thuế"
+msgstr "Tổng bán chưa thuế"
 
 #. module: website_sale
 #. openerp-web

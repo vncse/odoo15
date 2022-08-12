@@ -1,10 +1,10 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* account_edi
-# 
+#
 # Translators:
 # Martin Trigaux, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0\n"
@@ -289,7 +289,7 @@ msgstr "Bút toán sổ nhật ký"
 #. module: account_edi
 #: model:ir.model,name:account_edi.model_account_move_line
 msgid "Journal Item"
-msgstr "Phát sinh Kế toán"
+msgstr "Phát sinh kế toán"
 
 #. module: account_edi
 #: model:ir.model.fields,field_description:account_edi.field_account_edi_document____last_update

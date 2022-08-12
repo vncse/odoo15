@@ -451,7 +451,7 @@ msgstr "Tổng kết"
 #. module: base_automation
 #: model:ir.model.fields,field_description:base_automation.field_base_automation__crud_model_id
 msgid "Target Model"
-msgstr "Đối tượng Mục tiêu"
+msgstr "Đối tượng mục tiêu"
 
 #. module: base_automation
 #: model:ir.model.fields,field_description:base_automation.field_base_automation__crud_model_name

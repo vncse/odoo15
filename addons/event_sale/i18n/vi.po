@@ -74,7 +74,7 @@ msgstr "Số người tham dự"
 #. module: event_sale
 #: model_terms:ir.ui.view,arch_db:event_sale.sale_order_view_form
 msgid "Attendees"
-msgstr "Người Tham dự"
+msgstr "Người tham dự"
 
 #. module: event_sale
 #: model_terms:ir.ui.view,arch_db:event_sale.view_event_registration_editor_form
@@ -339,7 +339,7 @@ msgstr "Giảm Giá"
 #. module: event_sale
 #: model:ir.model.fields,field_description:event_sale.field_event_event_ticket__price_reduce_taxinc
 msgid "Price Reduce Tax inc"
-msgstr "Giảm giá gồm cả Thuế"
+msgstr "Giảm giá gồm cả thuế"
 
 #. module: event_sale
 #: model:ir.model,name:event_sale.model_product_product

@@ -449,7 +449,7 @@ msgstr "Khán giả"
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_event__allowed_track_tag_ids
 msgid "Available Track Tags"
-msgstr "Các Thẻ Vết Khả dụng"
+msgstr "Các thẻ Vết khả dụng"
 
 #. module: website_event_track
 #: model_terms:event.track,description:website_event_track.event_7_track_18
@@ -2101,7 +2101,7 @@ msgstr ""
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_proposal
 msgid "Submission Agreement"
-msgstr "Thoả thuận Đăng ký"
+msgstr "Thoả thuận đăng ký"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_proposal
@@ -2116,7 +2116,7 @@ msgstr "Dòng thẻ"
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track_tag__name
 msgid "Tag Name"
-msgstr "Tên Từ khóa"
+msgstr "Tên từ khóa"
 
 #. module: website_event_track
 #: model:ir.model.constraint,message:website_event_track.constraint_event_track_tag_name_uniq
@@ -2519,7 +2519,7 @@ msgstr "Thông điệp chưa đọc"
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: website_event_track
 #: model_terms:event.track,description:website_event_track.event_7_track_6
@@ -2766,7 +2766,7 @@ msgstr "vd. Nhận ngay!"
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_form
 msgid "e.g. Inspiring Business Talk"
-msgstr "vd: Diễn thuyết Truyền cảm hứng Kinh doanh"
+msgstr "vd: Diễn thuyết truyền cảm hứng kinh doanh"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_form

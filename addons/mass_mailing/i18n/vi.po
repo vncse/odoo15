@@ -2503,7 +2503,7 @@ msgstr "Đăng ký Mailing"
 #. module: mass_mailing
 #: model:ir.actions.act_window,name:mass_mailing.action_mail_mass_mailing_test
 msgid "Mailing Test"
-msgstr "Kiểm thử Gửi thư"
+msgstr "Kiểm thử gửi thư"
 
 #. module: mass_mailing
 #: model:ir.actions.act_window,name:mass_mailing.mailing_trace_action
@@ -2566,7 +2566,7 @@ msgstr "Đính kèm chính"
 #. module: mass_mailing
 #: model:res.groups,name:mass_mailing.group_mass_mailing_campaign
 msgid "Manage Mass Mailing Campaigns"
-msgstr "Quản lý Chiến dịch Gửi mail hàng loạt"
+msgstr "Quản lý chiến dịch gửi mail hàng loạt"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.res_config_settings_view_form
@@ -3526,7 +3526,7 @@ msgstr "Gửi bản cuối vào"
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_mailing__email_from
 msgid "Send From"
-msgstr "Gửi Từ"
+msgstr "Gửi từ"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.mailing_contact_to_list_view_form
@@ -4136,7 +4136,7 @@ msgstr "Tin chưa đọc"
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_contact__message_unread_counter
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_mailing__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_mail_block_footer_social

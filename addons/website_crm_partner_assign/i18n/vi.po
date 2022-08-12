@@ -427,7 +427,7 @@ msgstr "Chiến dịch"
 #. module: website_crm_partner_assign
 #: model:ir.model.fields,field_description:website_crm_partner_assign.field_res_partner_grade__can_publish
 msgid "Can Publish"
-msgstr "Có thể Xuất bản"
+msgstr "Có thể xuất bản"
 
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.crm_lead_forward_to_partner_form
@@ -728,12 +728,12 @@ msgstr "Thực hiện bởi"
 #. module: website_crm_partner_assign
 #: model:ir.model.fields,field_description:website_crm_partner_assign.field_crm_partner_report_assign__date
 msgid "Invoice Account Date"
-msgstr "Ngày Kế toán hoá đơn"
+msgstr "Ngày kế toán hoá đơn"
 
 #. module: website_crm_partner_assign
 #: model:ir.model.fields,field_description:website_crm_partner_assign.field_res_partner_grade__is_published
 msgid "Is Published"
-msgstr "Được Xuất bản"
+msgstr "Được xuất bản"
 
 #. module: website_crm_partner_assign
 #: model:ir.model.fields,field_description:website_crm_partner_assign.field_crm_lead_assignation____last_update
@@ -1238,7 +1238,7 @@ msgstr "Không có cơ hội nào ở đây"
 #: code:addons/website_crm_partner_assign/controllers/main.py:0
 #, python-format
 msgid "This Week Activities"
-msgstr "Thực hiện Tuần này"
+msgstr "Thực hiện tuần này"
 
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.portal_my_lead
@@ -1310,7 +1310,7 @@ msgstr "Thắng"
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.ref_country
 msgid "World Map"
-msgstr "Bản đồ Thế giới"
+msgstr "Bản đồ thế giới"
 
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.portal_my_opportunity

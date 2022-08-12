@@ -90,7 +90,7 @@ msgstr "Kế toán quản trị"
 #. module: analytic
 #: model:res.groups,name:analytic.group_analytic_tags
 msgid "Analytic Accounting Tags"
-msgstr "Thẻ Kế toán quản trị"
+msgstr "Thẻ kế toán quản trị"
 
 #. module: analytic
 #: model:ir.actions.act_window,name:analytic.action_account_analytic_account_form
@@ -417,7 +417,7 @@ msgstr "Đính kèm chính"
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__message_has_error
 msgid "Message Delivery error"
-msgstr "Có Lỗi Gửi Thông điệp"
+msgstr "Có lỗi gửi thông điệp"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__message_ids
@@ -529,12 +529,12 @@ msgstr "Tìm kiếm Phát sinh KT quản trị"
 #. module: analytic
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_tag_view_search
 msgid "Search Analytic Tags"
-msgstr "Tìm kiếm Thẻ quản trị"
+msgstr "Tìm kiếm thẻ quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,help:analytic.field_account_analytic_tag__active
 msgid "Set active to false to hide the Analytic Tag without removing it."
-msgstr "Thiết đặt hành động là sai để ẩn Thẻ quản trị mà không cần xóa thẻ."
+msgstr "Thiết đặt hành động là sai để ẩn thẻ quản trị mà không cần xóa thẻ."
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_line__tag_ids
@@ -580,7 +580,7 @@ msgstr "Thông điệp chưa đọc"
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_line__product_uom_category_id

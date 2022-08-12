@@ -1358,7 +1358,7 @@ msgstr "Tên người tham dự"
 #: model_terms:ir.ui.view,arch_db:event.view_event_form
 #: model_terms:ir.ui.view,arch_db:event.view_event_type_form
 msgid "Attendees"
-msgstr "Người Tham dự"
+msgstr "Người tham dự"
 
 #. module: event
 #: model:ir.model.fields,help:event.field_event_event__auto_confirm
@@ -1483,7 +1483,7 @@ msgstr "Hủy"
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_registration_form
 msgid "Cancel Registration"
-msgstr "Huỷ Đăng ký"
+msgstr "Huỷ đăng ký"
 
 #. module: event
 #: model:event.stage,name:event.event_stage_cancelled
@@ -1589,7 +1589,7 @@ msgstr "Xác nhận tham dự"
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.event_registration_view_kanban
 msgid "Confirm Registration"
-msgstr "Xác nhận Đăng ký"
+msgstr "Xác nhận đăng ký"
 
 #. module: event
 #: model:ir.model.fields.selection,name:event.selection__event_registration__state__open
@@ -1860,12 +1860,12 @@ msgstr "Thông tin sự kiện"
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_mail_form
 msgid "Event Mail Scheduler"
-msgstr "Trình ấn định Gửi thư sự kiện"
+msgstr "Trình ấn định gửi thư sự kiện"
 
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_mail_tree
 msgid "Event Mail Schedulers"
-msgstr "Trình ấn định Gửi thư sự kiện"
+msgstr "Trình ấn định gửi thư sự kiện"
 
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_form
@@ -1930,7 +1930,7 @@ msgstr "Giai đoạn sự kiện"
 #: model:ir.model.fields,field_description:event.field_event_registration__event_begin_date
 #: model_terms:ir.ui.view,arch_db:event.view_registration_search
 msgid "Event Start Date"
-msgstr "Ngày Bắt đầu sự kiện"
+msgstr "Ngày bắt đầu sự kiện"
 
 #. module: event
 #: model:ir.model,name:event.model_event_tag
@@ -2066,7 +2066,7 @@ msgstr "Phân tích sự kiện"
 #. module: event
 #: model:ir.actions.act_window,name:event.action_event_mail
 msgid "Events Mail Schedulers"
-msgstr "Trình ấn định Gửi thư sự kiện"
+msgstr "Trình ấn định gửi thư sự kiện"
 
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.event_stage_view_form
@@ -2679,7 +2679,7 @@ msgstr "Lập kế hoạch thư trên danh mục sự kiện"
 #. module: event
 #: model:ir.model.fields,field_description:event.field_event_mail_registration__mail_sent
 msgid "Mail Sent"
-msgstr "Mail đã Gửi"
+msgstr "Mail đã gửi"
 
 #. module: event
 #: model:ir.model.fields,field_description:event.field_event_event__message_main_attachment_id
@@ -2690,7 +2690,7 @@ msgstr "Đính kèm chính"
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.res_config_settings_view_form
 msgid "Manage &amp; publish a schedule with tracks"
-msgstr "Quản lý & amp; xuất bản một lịch trình với các bản nhạc"
+msgstr "Quản lý &amp; xuất bản một lịch trình với các bản nhạc"
 
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_registration_tree
@@ -2987,7 +2987,7 @@ msgstr ""
 #. module: event
 #: model:ir.model.fields,field_description:event.field_event_event__organizer_id
 msgid "Organizer"
-msgstr "Nhà Tổ chức"
+msgstr "Nhà tổ chức"
 
 #. module: event
 #: model:event.event,subtitle:event.event_7
@@ -3125,7 +3125,7 @@ msgstr "Đăng ký"
 #: model_terms:ir.ui.view,arch_db:event.view_event_registration_tree
 #: model_terms:ir.ui.view,arch_db:event.view_registration_search
 msgid "Registration Date"
-msgstr "Ngày mở Đăng ký"
+msgstr "Ngày mở đăng ký"
 
 #. module: event
 #: model:res.groups,name:event.group_event_registration_desk
@@ -3160,7 +3160,7 @@ msgstr "Bắt đầu đăng kí"
 #. module: event
 #: model:ir.model.fields,field_description:event.field_res_config_settings__module_website_event_questions
 msgid "Registration Survey"
-msgstr "Khảo sát Đăng ký"
+msgstr "Khảo sát đăng ký"
 
 #. module: event
 #: code:addons/event/models/event_ticket.py:0
@@ -3783,7 +3783,7 @@ msgstr "Thông điệp chưa đọc"
 #: model:ir.model.fields,field_description:event.field_event_event__message_unread_counter
 #: model:ir.model.fields,field_description:event.field_event_registration__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Bộ đếm Thông điệp chưa đọc"
+msgstr "Bộ đếm thông điệp chưa đọc"
 
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_search
@@ -3860,7 +3860,7 @@ msgstr ""
 #. module: event
 #: model_terms:event.event,description:event.event_2
 msgid "Warehouse management, Manufacturing (MRP) &amp; Sales, Import/Export."
-msgstr "Quản lý Kho, Hoạch định sản xuất (MRP) &amp; Bán, Xuất/Nhập dữ liệu."
+msgstr "Quản lý kho, Hoạch định sản xuất (MRP) &amp; Bán, Xuất/Nhập dữ liệu."
 
 #. module: event
 #: model_terms:event.event,description:event.event_1
