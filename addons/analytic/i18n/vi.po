@@ -72,14 +72,14 @@ msgstr "Tài khoản quản trị"
 #. module: analytic
 #: model:ir.model,name:analytic.model_account_analytic_distribution
 msgid "Analytic Account Distribution"
-msgstr "Phân bổ Tài khoản quản trị"
+msgstr "Phân bổ tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.actions.act_window,name:analytic.account_analytic_group_action
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_group_form_view
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_group_tree_view
 msgid "Analytic Account Groups"
-msgstr "Nhóm Tài khoản quản trị"
+msgstr "Nhóm tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_res_config_settings__group_analytic_accounting
@@ -102,7 +102,7 @@ msgstr "Tài khoản quản trị"
 #. module: analytic
 #: model:ir.model,name:analytic.model_account_analytic_group
 msgid "Analytic Categories"
-msgstr "Nhóm Tài khoản quản trị"
+msgstr "Nhóm tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_tag__active_analytic_distribution
@@ -188,7 +188,7 @@ msgstr "Nhóm"
 #. module: analytic
 #: model:ir.actions.act_window,name:analytic.action_analytic_account_form
 msgid "Chart of Analytic Accounts"
-msgstr "Hệ thống Tài khoản quản trị"
+msgstr "Hệ thống tài khoản quản trị"
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_group__children_ids

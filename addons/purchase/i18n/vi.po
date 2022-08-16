@@ -1307,7 +1307,7 @@ msgid ""
 "International Commercial Terms are a series of predefined commercial terms "
 "used in international transactions."
 msgstr ""
-"Bộ Điều khoản thương mại Quốc tế (Incoterms) là một chuỗi các điều khoản "
+"Bộ Điều khoản thương mại quốc tế (Incoterms) là một chuỗi các điều khoản "
 "thương mại được định nghĩa trước để sử dụng trong các giao dịch quốc tế."
 
 #. module: purchase

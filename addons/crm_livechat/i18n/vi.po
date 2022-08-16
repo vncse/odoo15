@@ -1,11 +1,11 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* crm_livechat
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # Vo Thanh Thuy, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.4\n"
@@ -39,7 +39,7 @@ msgstr ""
 #. module: crm_livechat
 #: model:ir.model,name:crm_livechat.model_mail_channel
 msgid "Discussion Channel"
-msgstr "Kênh Thảo luận"
+msgstr "Kênh thảo luận"
 
 #. module: crm_livechat
 #: model:utm.source,name:crm_livechat.utm_source_livechat

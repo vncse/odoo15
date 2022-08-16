@@ -946,7 +946,7 @@ msgid ""
 "You don't have any stock valuation account defined on your product category."
 " You must define one before processing this operation."
 msgstr ""
-"Bạn chưa xác định Tài khoản định giá tồn kho đối với nhóm sản phẩm. Bạn phải"
+"Bạn chưa xác định tài khoản định giá tồn kho đối với nhóm sản phẩm. Bạn phải"
 " xác định tài khoản này trước khi xử lý hoạt động này."
 
 #. module: stock_account

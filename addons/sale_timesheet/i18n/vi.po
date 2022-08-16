@@ -320,7 +320,7 @@ msgstr "Buzz hoặc đặt là hoàn tất"
 #. module: sale_timesheet
 #: model:ir.ui.menu,name:sale_timesheet.menu_timesheet_billing_analysis
 msgid "By Billing Type"
-msgstr "Theo Kiểu xuất hóa đơn"
+msgstr "Theo kiểu xuất hóa đơn"
 
 #. module: sale_timesheet
 #: model_terms:ir.ui.view,arch_db:sale_timesheet.project_create_invoice_view_form
@@ -819,7 +819,7 @@ msgstr "Không thể xuất hoá đơn"
 #. module: sale_timesheet
 #: model:ir.model.fields.selection,name:sale_timesheet.selection__account_analytic_line__timesheet_invoice_type__non_billable
 msgid "Non Billable Tasks"
-msgstr "Nhiệm vụ Không thể xuất hoá đơn"
+msgstr "Nhiệm vụ không thể xuất hoá đơn"
 
 #. module: sale_timesheet
 #: model:ir.model.fields,field_description:sale_timesheet.field_account_bank_statement_line__timesheet_count

@@ -741,7 +741,7 @@ msgstr "<strong>Hết hạn:</strong>"
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.report_saleorder_document
 msgid "<strong>Fiscal Position Remark:</strong>"
-msgstr "<strong>Chú giải Vị thế Tài khoá:</strong>"
+msgstr "<strong>Chú giải vị thế tài khoá:</strong>"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.sale_order_portal_template
@@ -1063,7 +1063,7 @@ msgstr "Tự động gửi email sau khi khách hàng ký hoặc thanh toán tr�
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_payment_acquirer_onboarding_wizard__journal_name
 msgid "Bank Name"
-msgstr "Tên Ngân hàng"
+msgstr "Tên ngân hàng"
 
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__payment_acquirer__so_reference_type__partner
@@ -1073,7 +1073,7 @@ msgstr "Dựa trên ID khách hàng"
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__payment_acquirer__so_reference_type__so_name
 msgid "Based on Document Reference"
-msgstr "Dựa trên tham chiếu Tài liệu"
+msgstr "Dựa trên tham chiếu tài liệu"
 
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__product_template__sale_line_warn__block
@@ -1861,7 +1861,7 @@ msgstr "Kết nối FedEx"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__fiscal_position_id
 msgid "Fiscal Position"
-msgstr "Vị thế Tài khoá"
+msgstr "Vị thế tài khoá"
 
 #. module: sale
 #: model:ir.model.fields,help:sale.field_sale_order__fiscal_position_id
@@ -2788,7 +2788,7 @@ msgstr "Tình trạng đơn bán"
 #. module: sale
 #: model:mail.activity.type,name:sale.mail_act_sale_upsell
 msgid "Order Upsell"
-msgstr "Bán Gia tăng"
+msgstr "Bán gia tăng"
 
 #. module: sale
 #: code:addons/sale/controllers/portal.py:0
@@ -4057,7 +4057,7 @@ msgid ""
 "The Sales Order %s linked to the Analytic Account %s is cancelled. You "
 "cannot register an expense on a cancelled Sales Order."
 msgstr ""
-"Đơn bán %s liên kết với Tài khoản quản trị %s bị huỷ. Bạn không thể ghi nhận"
+"Đơn bán %s liên kết với tài khoản quản trị %s bị huỷ. Bạn không thể ghi nhận"
 " một chi phí cho một đơn bán bị Huỷ."
 
 #. module: sale
@@ -4068,9 +4068,9 @@ msgid ""
 "You cannot register an expense on a locked Sales Order. Please create a new "
 "SO linked to this Analytic Account."
 msgstr ""
-"Đơn bán %s mà liên kết đến Tài khoản quản trị %s hiện đang bị khoá. Bạn "
+"Đơn bán %s mà liên kết đến tài khoản quản trị %s hiện đang bị khoá. Bạn "
 "không thể ghi nhận chi phí đối với một đơn bán bị khoá. Vui lòng tạo một đơn"
-" mới và liên kết đến Tài khoản quản trị này."
+" mới và liên kết đến tài khoản quản trị này."
 
 #. module: sale
 #: code:addons/sale/models/account_move_line.py:0
@@ -4079,7 +4079,7 @@ msgid ""
 "The Sales Order %s linked to the Analytic Account %s must be validated "
 "before registering expenses."
 msgstr ""
-"Đơn bán %s mà liên kết với Tài khoản quản trị %s phải được xác nhận trước "
+"Đơn bán %s mà liên kết với tài khoản quản trị %s phải được xác nhận trước "
 "khi có thể ghi nhận chi phí."
 
 #. module: sale
@@ -4447,7 +4447,7 @@ msgstr "Giao dịch"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__type_name
 msgid "Type Name"
-msgstr "Tên Kiểu"
+msgstr "Tên kiểu"
 
 #. module: sale
 #: model:ir.model.fields,help:sale.field_sale_order__activity_exception_decoration

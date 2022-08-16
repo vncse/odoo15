@@ -224,7 +224,7 @@ msgid ""
 "Customer Invoice/Credit Note"
 msgstr ""
 "Mô tả sản phẩm mà bạn muốn giao tiếp với khách hàng của mình. Mô tả này sẽ "
-"được sao chép vào mọi đơn đặt hàng, đơn hàng Giao hàng và Hoá đơn khách hàng"
+"được sao chép vào mọi đơn đặt hàng, đơn hàng giao hàng và Hoá đơn khách hàng"
 " / Ghi chú Tín dụng"
 
 #. module: product
@@ -714,12 +714,12 @@ msgstr "Tiền tệ Giá vốn"
 #. module: product
 #: model:ir.model,name:product.model_res_country_group
 msgid "Country Group"
-msgstr "Nhóm Quốc gia"
+msgstr "Nhóm quốc gia"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_pricelist__country_group_ids
 msgid "Country Groups"
-msgstr "Nhóm Quốc gia"
+msgstr "Nhóm quốc gia"
 
 #. module: product
 #: model_terms:ir.actions.act_window,help:product.product_pricelist_action2

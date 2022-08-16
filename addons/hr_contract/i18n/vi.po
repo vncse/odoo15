@@ -181,7 +181,7 @@ msgstr "Số lượng đính kèm"
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_res_users__bank_account_id
 msgid "Bank Account Number"
-msgstr "Tài khoản Ngân hàng"
+msgstr "Tài khoản ngân hàng"
 
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__calendar_mismatch
@@ -307,7 +307,7 @@ msgstr "Lịch sử hợp đồng"
 #. module: hr_contract
 #: model:mail.message.subtype,name:hr_contract.mt_department_contract_pending
 msgid "Contract to Renew"
-msgstr "Hợp đồng chờ Gia hạn"
+msgstr "Hợp đồng chờ gia hạn"
 
 #. module: hr_contract
 #: model:ir.actions.act_window,name:hr_contract.action_hr_contract
@@ -398,7 +398,7 @@ msgstr "Hiện đang có hợp đồng"
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_payroll_structure_type__default_resource_calendar_id
 msgid "Default Working Hours"
-msgstr "Khung Giờ làm việc mặc định"
+msgstr "Khung giờ làm việc mặc định"
 
 #. module: hr_contract
 #: model_terms:ir.ui.view,arch_db:hr_contract.hr_contract_view_kanban
@@ -906,7 +906,7 @@ msgstr "Hợp đồng của %s sắp hết hạn."
 #. module: hr_contract
 #: model:mail.message.subtype,name:hr_contract.mt_contract_pending
 msgid "To Renew"
-msgstr "Chờ Gia hạn"
+msgstr "Chờ gia hạn"
 
 #. module: hr_contract
 #: model_terms:ir.ui.view,arch_db:hr_contract.hr_contract_view_search
@@ -952,7 +952,7 @@ msgstr "Số Visa"
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__wage
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract_history__wage
 msgid "Wage"
-msgstr "Tiền công/tiền lương"
+msgstr "Tiền lương"
 
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__permit_no

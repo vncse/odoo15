@@ -587,7 +587,7 @@ msgstr "Mã số thẻ"
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee__bank_account_id
 msgid "Bank Account Number"
-msgstr "Số Tài khoản Ngân hàng"
+msgstr "Số tài khoản ngân hàng"
 
 #. module: hr
 #: model:ir.model,name:hr.model_base
@@ -1154,7 +1154,7 @@ msgstr "Tài khoản ngân hàng để trả lương nhân viên"
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_res_users__employee_bank_account_id
 msgid "Employee's Bank Account Number"
-msgstr "Số tài khoản Ngân hàng của nhân viên"
+msgstr "Số tài khoản ngân hàng của nhân viên"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_res_users__employee_country_id

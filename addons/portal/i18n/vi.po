@@ -854,7 +854,7 @@ msgstr "ID tài liệu liên quan"
 #. module: portal
 #: model:ir.model.fields,field_description:portal.field_portal_share__res_model
 msgid "Related Document Model"
-msgstr "Đối tượng Tài liệu liên quan"
+msgstr "Đối tượng tài liệu liên quan"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.wizard_view
@@ -912,7 +912,7 @@ msgstr "Gửi"
 #: model:ir.actions.act_window,name:portal.portal_share_action
 #: model_terms:ir.ui.view,arch_db:portal.portal_share_wizard
 msgid "Share Document"
-msgstr "Chia sẻ Tài liệu"
+msgstr "Chia sẻ tài liệu"
 
 #. module: portal
 #: model:ir.model.fields,field_description:portal.field_ir_ui_view__customize_show

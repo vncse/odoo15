@@ -1167,7 +1167,7 @@ msgstr "Tên công ty"
 #. module: web
 #: model:ir.model.fields,field_description:web.field_base_document_layout__report_header
 msgid "Company Tagline"
-msgstr "Khẩu hiệu"
+msgstr "Tagline của công ty"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.frontend_layout
@@ -2012,7 +2012,7 @@ msgstr "Phông chữ"
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.view_base_document_layout
 msgid "Footer"
-msgstr "Chân"
+msgstr "Chân trang"
 
 #. module: web
 #: model:ir.model.fields,help:web.field_base_document_layout__report_footer

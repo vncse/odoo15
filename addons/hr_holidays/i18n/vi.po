@@ -3030,7 +3030,7 @@ msgstr "Tìm bản ghi Nghỉ"
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.view_holidays_status_filter
 msgid "Search Time Off Type"
-msgstr "Tìm Kiểu nghỉ"
+msgstr "Tìm kiểu nghỉ"
 
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.view_hr_leave_allocation_filter
@@ -3074,7 +3074,7 @@ msgstr "Hiển thị ngày tháng thứ hai"
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_holidays_summary_employee__holiday_type
 msgid "Select Time Off Type"
-msgstr "Chọn Kiểu nghỉ"
+msgstr "Chọn kiểu nghỉ"
 
 #. module: hr_holidays
 #: model:ir.model.fields,help:hr_holidays.field_hr_employee__leave_manager_id
@@ -4154,7 +4154,7 @@ msgstr "Theo nhân viên và kiểu nghỉ phép"
 #. module: hr_holidays
 #: model:ir.ui.menu,name:hr_holidays.menu_hr_holidays_summary_all
 msgid "by Type"
-msgstr " Theo Kiểu nghỉ"
+msgstr " Theo kiểu nghỉ"
 
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.hr_accrual_plan_view_form

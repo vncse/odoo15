@@ -638,7 +638,7 @@ msgid ""
 "            Click on the <span class=\"fa fa-times-circle text-danger\" title=\"Cancel button\"></span> red X to announce that the order isn't available."
 msgstr ""
 "Bấm vào <span class=\"fa fa-phone text-success\" title=\"Nút Đặt\"></span> để thông báo rằng đơn hàng đã được đặt.<br>\n"
-"            Bấm vào <span class=\"fa fa-check text-success\" title=\"Nút Nhận\"></span> để thông báo rằng đơn đặt hàng đã được nhận.<br>\n"
+"            Bấm vào <span class=\"fa fa-check text-success\" title=\"Nút nhận\"></span> để thông báo rằng đơn đặt hàng đã được nhận.<br>\n"
 "            Bấm vào <span class=\"fa fa-times-circle text-danger\" title=\"Nút Hủy\"></span> X màu đỏ để thông báo rằng đơn đặt hàng không có."
 
 #. module: lunch

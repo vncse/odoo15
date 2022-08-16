@@ -3067,7 +3067,7 @@ msgstr "Quản lý dự án, Quản lý Nhân lực, Quản lý Hợp đồng."
 #. module: event
 #: model_terms:event.event,description:event.event_2
 msgid "Purchase, Sales &amp; Purchase management, Financial accounting."
-msgstr "Mua sắm, Quản lý bán &amp; Mua, Kế toán Tài chính."
+msgstr "Mua sắm, Quản lý bán &amp; Mua, Kế toán tài chính."
 
 #. module: event
 #: model:ir.model.fields,field_description:event.field_res_config_settings__module_website_event_track_quiz
@@ -3486,7 +3486,7 @@ msgid ""
 "The best Hockey teams of the country will compete for the national Hockey "
 "trophy."
 msgstr ""
-"Các đội khúc côn cầu xuất sắc nhất của cả nước sẽ tranh cúp Quốc gia khúc "
+"Các đội khúc côn cầu xuất sắc nhất của cả nước sẽ tranh cúp quốc gia khúc "
 "côn cầu."
 
 #. module: event

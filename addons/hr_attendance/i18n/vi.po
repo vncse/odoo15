@@ -799,7 +799,7 @@ msgstr "Nhập mã PIN của bạn"
 #: code:addons/hr_attendance/static/src/xml/attendance.xml:0
 #, python-format
 msgid "Please return to the main menu."
-msgstr "Vui lòng qua về trình đơn chính."
+msgstr "Vui lòng quay về menu chính."
 
 #. module: hr_attendance
 #: model:ir.model,name:hr_attendance.model_hr_employee_public
@@ -989,7 +989,7 @@ msgstr "Xin chào đón!"
 #. module: hr_attendance
 #: model_terms:ir.ui.view,arch_db:hr_attendance.view_attendance_tree
 msgid "Work Hours"
-msgstr "Số Giờ làm việc"
+msgstr "Số giờ làm việc"
 
 #. module: hr_attendance
 #: model:ir.model.fields,field_description:hr_attendance.field_hr_attendance__worked_hours

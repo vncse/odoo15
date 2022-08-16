@@ -312,7 +312,7 @@ msgstr "Tất cả quốc gia"
 #. module: website_event
 #: model_terms:ir.ui.view,arch_db:website_event.event_location
 msgid "All countries"
-msgstr "Tất cả Quốc gia"
+msgstr "Tất cả quốc gia"
 
 #. module: website_event
 #: model:ir.model.fields,help:website_event.field_event_event__website_menu

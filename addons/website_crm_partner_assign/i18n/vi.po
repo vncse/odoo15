@@ -376,7 +376,7 @@ msgstr "Tất cả các nhóm"
 #: code:addons/website_crm_partner_assign/controllers/main.py:0
 #, python-format
 msgid "All Countries"
-msgstr "Tất cả các Quốc gia"
+msgstr "Tất cả các quốc gia"
 
 #. module: website_crm_partner_assign
 #: code:addons/website_crm_partner_assign/models/crm_lead.py:0
@@ -612,7 +612,7 @@ msgstr "Doanh thu Mong đợi"
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.index
 msgid "Filter by Country"
-msgstr "Lọc theo Quốc gia"
+msgstr "Lọc theo quốc gia"
 
 #. module: website_crm_partner_assign
 #: model_terms:ir.ui.view,arch_db:website_crm_partner_assign.index

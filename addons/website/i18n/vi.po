@@ -3250,7 +3250,7 @@ msgstr "Quốc gia"
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_visitor__country_flag
 msgid "Country Flag"
-msgstr "Cờ Quốc gia"
+msgstr "Cờ quốc gia"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings__website_country_group_ids
@@ -3857,7 +3857,7 @@ msgstr "Rời rạc"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.external_snippets
 msgid "Discussion Group"
-msgstr "Nhóm Thảo luận"
+msgstr "Nhóm thảo luận"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_share_options
@@ -4128,7 +4128,7 @@ msgstr "Sửa"
 #: model_terms:ir.ui.view,arch_db:website.user_navbar
 #, python-format
 msgid "Edit Menu"
-msgstr "Sửa Trình đơn"
+msgstr "Sửa trình đơn"
 
 #. module: website
 #. openerp-web
@@ -8386,7 +8386,7 @@ msgstr "Tìm kiếm"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.menu_search
 msgid "Search Menus"
-msgstr "Tìm Trình đơn"
+msgstr "Tìm trình đơn"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.view_rewrite_search
@@ -8480,7 +8480,7 @@ msgstr "Phụ đề của khối"
 #: code:addons/website/static/src/js/menu/content.js:0
 #, python-format
 msgid "Select a Menu"
-msgstr "Chọn một Trình đơn"
+msgstr "Chọn một trình đơn"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
@@ -8693,7 +8693,7 @@ msgstr "Hiện dạng xem phân cấp"
 #: code:addons/website/static/src/xml/website.pageProperties.xml:0
 #, python-format
 msgid "Show in Top Menu"
-msgstr "Hiển thị trong Trình đơn Top"
+msgstr "Hiển thị trong trình đơn top"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.view_view_qweb
@@ -8874,7 +8874,7 @@ msgstr "Cái gì khác ở đây"
 #: code:addons/website/static/src/snippets/s_website_form/options.js:0
 #, python-format
 msgid "Something went wrong."
-msgstr "Đã xảy ra lỗi. "
+msgstr "Đã xảy ra lỗi."
 
 #. module: website
 #: code:addons/website/controllers/main.py:0
@@ -8913,7 +8913,7 @@ msgstr "Tài khoản người dùng cụ thể"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.list_hybrid
 msgid "Specify a search term."
-msgstr "Chỉ rõ cụm từ cần tìm kiếm. "
+msgstr "Chỉ rõ cụm từ cần tìm kiếm."
 
 #. module: website
 #: model:ir.model.fields,help:website.field_ir_model__website_form_default_field_id
@@ -9273,7 +9273,7 @@ msgstr "Tiêu đề nội dung nhấn mạnh"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_masonry_block_options
 msgid "Text Image Text"
-msgstr "Chữ ảnh chữ"
+msgstr "Chữ Ảnh Chữ"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_countdown_options
@@ -10736,7 +10736,7 @@ msgstr "Trình đơn Website"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.website_menus_form_view
 msgid "Website Menus Settings"
-msgstr "Thiết lập Trình đơn Website"
+msgstr "Thiết lập trình đơn Website"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_res_config_settings__website_name
@@ -11110,7 +11110,7 @@ msgstr "Bạn không có quyền xuất bản/thôi xuất bản"
 #: code:addons/website/static/src/xml/website.backend.xml:0
 #, python-format
 msgid "You do not seem to have access to this Analytics Account."
-msgstr "Dường như bạn không có quyền truy cập vào Tài khoản Analytics này."
+msgstr "Dường như bạn không có quyền truy cập vào tài khoản Analytics này."
 
 #. module: website
 #. openerp-web
@@ -11145,7 +11145,7 @@ msgstr "Bạn phải giữ ít nhất một website."
 #: code:addons/website/static/src/xml/website.backend.xml:0
 #, python-format
 msgid "You need to log in to your Google Account before:"
-msgstr "Bạn cần phải đăng nhập vào Tài khoản Google của bạn trước khi:"
+msgstr "Bạn cần phải đăng nhập vào tài khoản Google của bạn trước khi:"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_faq_collapse

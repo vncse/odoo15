@@ -500,7 +500,7 @@ msgstr "Nhật ký Hợp đồng"
 #. module: fleet
 #: model:mail.activity.type,name:fleet.mail_act_fleet_contract_to_renew
 msgid "Contract to Renew"
-msgstr "Hợp đồng chờ Gia hạn"
+msgstr "Hợp đồng chờ gia hạn"
 
 #. module: fleet
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_view_kanban

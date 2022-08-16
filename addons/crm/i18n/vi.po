@@ -3186,7 +3186,7 @@ msgstr "Thiết lập"
 #. module: crm
 #: model:res.groups,name:crm.group_use_lead
 msgid "Show Lead Menu"
-msgstr "Hiển thị Trình đơn tiềm năng"
+msgstr "Hiển thị trình đơn tiềm năng"
 
 #. module: crm
 #: model:res.groups,name:crm.group_use_recurring_revenues

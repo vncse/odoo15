@@ -3301,17 +3301,17 @@ msgstr "Nhận nguyên vận liệu, sản xuất rồi lưu kho sản phẩm (3
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_stock_warehouse__pbm_mto_pull_id
 msgid "Picking Before Manufacturing MTO Rule"
-msgstr "Quy tắc MTO Nhận NVL trước khi Sản xuất"
+msgstr "Quy tắc MTO nhận NVL trước khi Sản xuất"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_stock_warehouse__pbm_type_id
 msgid "Picking Before Manufacturing Operation Type"
-msgstr "Kiểu hoạt động Nhận NVL trước khi Sản xuất"
+msgstr "Kiểu hoạt động nhận NVL trước khi Sản xuất"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_stock_warehouse__pbm_route_id
 msgid "Picking Before Manufacturing Route"
-msgstr "Tuyến Nhận NVL trước khi Sản xuất"
+msgstr "Tuyến nhận NVL trước khi Sản xuất"
 
 #. module: mrp
 #: model:ir.model,name:mrp.model_stock_picking_type
@@ -3326,7 +3326,7 @@ msgstr "Lô hàng mà liên quan đến lệnh sản xuất này"
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_stock_warehouse__pbm_loc_id
 msgid "Picking before Manufacturing Location"
-msgstr "Địa điểm Nhận NVL trước khi Sản xuất"
+msgstr "Địa điểm nhận NVL trước khi Sản xuất"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_production_form_view
@@ -3870,7 +3870,7 @@ msgstr "Trường Nguồn lực"
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_document__res_id
 msgid "Resource ID"
-msgstr "ID Tài nguyên"
+msgstr "ID tài nguyên"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_document__res_model

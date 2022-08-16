@@ -269,7 +269,7 @@ msgstr "Mô hình"
 #: code:addons/google_drive/models/google_drive.py:0
 #, python-format
 msgid "Please enter a valid Google Document URL."
-msgstr "Vui lòng nhập URL hợp lệ của Tài liệu Google"
+msgstr "Vui lòng nhập URL hợp lệ của tài liệu Google"
 
 #. module: google_drive
 #: model:ir.model.fields,field_description:google_drive.field_res_config_settings__is_google_drive_token_generated
@@ -284,7 +284,7 @@ msgstr "Đối tượng liên quan"
 #. module: google_drive
 #: model:ir.model.fields,field_description:google_drive.field_google_drive_config__google_drive_resource_id
 msgid "Resource Id"
-msgstr "Mã Tài nguyên"
+msgstr "Mã tài nguyên"
 
 #. module: google_drive
 #: model_terms:ir.ui.view,arch_db:google_drive.google_drive_config_view_search

@@ -323,7 +323,7 @@ msgstr "Một năm học trung học. "
 #. module: website_payment
 #: model:ir.model,name:website_payment.model_payment_acquirer
 msgid "Payment Acquirer"
-msgstr "Nhà Cung cấp DV thanh toán"
+msgstr "Nhà Cung cấp dịch vụ thanh toán"
 
 #. module: website_payment
 #: model_terms:ir.ui.view,arch_db:website_payment.payment_checkout

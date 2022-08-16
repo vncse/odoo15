@@ -1829,7 +1829,7 @@ msgstr ""
 #: code:addons/web_editor/static/src/xml/snippets.xml:0
 #, python-format
 msgid "Remove Block"
-msgstr "Gỡ Khối"
+msgstr "Gỡ khối"
 
 #. module: web_editor
 #. openerp-web

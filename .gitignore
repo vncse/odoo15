@@ -54,3 +54,4 @@ odoo.conf
 /custom/*
 !.gitkeep
 /vendor/
+/*_i18n.sh

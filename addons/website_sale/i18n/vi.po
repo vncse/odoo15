@@ -83,7 +83,7 @@ msgstr "<b>Thông tin Liên lạc: </b>"
 #: model_terms:ir.ui.view,arch_db:website_sale.address_on_payment
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
 msgid "<b>Shipping: </b>"
-msgstr "<b>Vận chuyển và Giao hàng: </b>"
+msgstr "<b>Vận chuyển và giao hàng: </b>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.cart_summary
@@ -2917,17 +2917,17 @@ msgstr "Vận chuyển"
 #: model_terms:ir.ui.view,arch_db:website_sale.address
 #: model_terms:ir.ui.view,arch_db:website_sale.checkout
 msgid "Shipping Address"
-msgstr "Địa chỉ Giao hàng"
+msgstr "Địa chỉ giao hàng"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
 msgid "Shipping Costs"
-msgstr "Phí Giao hàng"
+msgstr "Phí giao hàng"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_res_config_settings__sale_delivery_settings
 msgid "Shipping Management"
-msgstr "Quản lý Giao hàng (Shipping)"
+msgstr "Quản lý giao hàng (Shipping)"
 
 #. module: website_sale
 #: model:website.menu,name:website_sale.menu_shop

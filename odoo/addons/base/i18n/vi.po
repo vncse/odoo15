@@ -2576,7 +2576,7 @@ msgid ""
 "Add the ability to manage resumés and letters from the Documents app.\n"
 msgstr ""
 "\n"
-"Thêm khả năng quản lý sơ yếu lý lịch và thư từ ứng dụng Tài liệu.\n"
+"Thêm khả năng quản lý sơ yếu lý lịch và thư từ ứng dụng tài liệu.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_product_margin
@@ -2690,7 +2690,7 @@ msgstr ""
 "=========================================\n"
 "\n"
 "Phân hệ này cho phép khách hàng thanh toán đơn hàng của họ bằng thẻ tín\n"
-"dụng. Giao dịch thanh toán sẽ được xử lý bởi Mercury (được phát triển bởi Ngân hàng\n"
+"dụng. Giao dịch thanh toán sẽ được xử lý bởi Mercury (được phát triển bởi ngân hàng\n"
 "Wells Fargo), bạn cần có tài khoản Merchant tại Mercury. Phân hệ này cho phép:\n"
 "\n"
 "* Thanh toán nhanh bằng cách quẹt thẻ tín dụng trong khi vẫn đang ở màn hình thanh toán\n"
@@ -4230,7 +4230,7 @@ msgid ""
 "Employee contracts files will be automatically integrated to the Document app.\n"
 msgstr ""
 "\n"
-"Các tệp hợp đồng nhân viên sẽ được tự động tích hợp vào ứng dụng Tài liệu.\n"
+"Các tệp hợp đồng nhân viên sẽ được tự động tích hợp vào ứng dụng tài liệu.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_documents_hr_payroll
@@ -4239,7 +4239,7 @@ msgid ""
 "Employee payslips will be automatically integrated to the Document app.\n"
 msgstr ""
 "\n"
-"Phiếu lương của nhân viên sẽ được tự động tích hợp vào ứng dụng Tài liệu.\n"
+"Phiếu lương của nhân viên sẽ được tự động tích hợp vào ứng dụng tài liệu.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_utm
@@ -8702,7 +8702,7 @@ msgid ""
 "Time off documents will be automatically integrated to the Document app.\n"
 msgstr ""
 "\n"
-"Tài liệu Nghỉ phép sẽ tự động tích hợp đến ứng dụng Tài liệu.\n"
+"Tài liệu Nghỉ phép sẽ tự động tích hợp đến ứng dụng tài liệu.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_product_expiry
@@ -10592,7 +10592,7 @@ msgstr "Chủ tài khoản"
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_partner_bank__acc_holder_name
 msgid "Account Holder Name"
-msgstr "Tên chủ Tài khoản"
+msgstr "Tên chủ tài khoản"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_account_intrastat_expiry
@@ -10669,7 +10669,7 @@ msgstr "Tài khoản, Liên kết thanh toán và Cổng thông tin"
 msgid ""
 "Account holder name, in case it is different than the name of the Account "
 "Holder"
-msgstr "Tên chủ tài khoản, trong trường hợp khác với tên của chủ Tài khoản"
+msgstr "Tên chủ tài khoản, trong trường hợp khác với tên của chủ tài khoản"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_account_sale_timesheet
@@ -12043,7 +12043,7 @@ msgstr "Đính kèm"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_attachment_indexation
 msgid "Attachments List and Document Indexation"
-msgstr "Danh sách đính kèm và các Tài liệu"
+msgstr "Danh sách đính kèm và các tài liệu"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_hr_holidays_attendance
@@ -12262,7 +12262,7 @@ msgstr "Hình đại diện 512"
 #. module: base
 #: model:ir.model,name:base.model_avatar_mixin
 msgid "Avatar Mixin"
-msgstr ""
+msgstr "Avatar mixin"
 
 #. module: base
 #: model:res.country,name:base.az
@@ -12386,7 +12386,7 @@ msgstr "Tài khoản ngân hàng"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_res_bank_form
 msgid "Bank Address"
-msgstr "Địa chỉ Ngân hàng"
+msgstr "Địa chỉ ngân hàng"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_bank__bic
@@ -13166,7 +13166,7 @@ msgstr ""
 #. module: base
 #: model:res.country,name:base.kh
 msgid "Cambodia"
-msgstr "Vương Quốc Cam-pu-chia"
+msgstr "Vương quốc Cam-pu-chia"
 
 #. module: base
 #: model:res.country,name:base.cm
@@ -13907,7 +13907,7 @@ msgstr "Số đăng ký kinh doanh"
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_company__report_header
 msgid "Company Tagline"
-msgstr "Khẩu hiệu"
+msgstr "Tagline của công ty"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_partner__company_type
@@ -14223,7 +14223,7 @@ msgstr "Liên hệ với quản trị viên của bạn để yêu cầu quyền
 #: model:ir.module.module,shortdesc:base.module_contacts
 #: model_terms:ir.ui.view,arch_db:base.view_partner_tree
 msgid "Contacts"
-msgstr "Danh bạ"
+msgstr "Liên hệ"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_partner_form
@@ -14383,17 +14383,17 @@ msgstr "Mã quốc gia"
 #: model_terms:ir.ui.view,arch_db:base.view_country_group_form
 #: model_terms:ir.ui.view,arch_db:base.view_country_group_tree
 msgid "Country Group"
-msgstr "Nhóm Quốc gia"
+msgstr "Nhóm quốc gia"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_country__country_group_ids
 msgid "Country Groups"
-msgstr "Nhóm Quốc gia"
+msgstr "Nhóm quốc gia"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_country__name
 msgid "Country Name"
-msgstr "Tên Quốc gia"
+msgstr "Tên quốc gia"
 
 #. module: base
 #: model:ir.model,name:base.model_res_country_state
@@ -15808,7 +15808,7 @@ msgstr "Tài liệu"
 #: model:ir.model.fields,field_description:base.field_report_layout__view_id
 #: model:ir.model.fields,field_description:base.field_res_company__external_report_layout_id
 msgid "Document Template"
-msgstr "Mẫu Tài liệu"
+msgstr "Mẫu tài liệu"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_documents
@@ -15835,7 +15835,7 @@ msgstr "Tài liệu - Kế toán"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_l10n_be_hr_payroll
 msgid "Documents - Belgian Payroll"
-msgstr "Tài liệu - bảng lương Bỉ"
+msgstr "Tài liệu - Bảng lương Bỉ"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_hr_contract
@@ -15845,7 +15845,7 @@ msgstr "Tài liệu - Hợp đồng"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_fleet
 msgid "Documents - Fleet"
-msgstr "Tài liệu - phương tiện"
+msgstr "Tài liệu - Phương tiện"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_hr
@@ -15860,7 +15860,7 @@ msgstr "Tài liệu - Phiếu lương"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_product
 msgid "Documents - Product"
-msgstr "Tài liệu - sản phẩm"
+msgstr "Tài liệu - Sản phẩm"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_project
@@ -15870,7 +15870,7 @@ msgstr "Tài liệu - Dự án"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_hr_recruitment
 msgid "Documents - Recruitment"
-msgstr "Tài liệu - tuyển dụng"
+msgstr "Tài liệu - Tuyển dụng"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_documents_sign
@@ -18821,7 +18821,7 @@ msgstr "IAP / Mail"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_base_iban
 msgid "IBAN Bank Accounts"
-msgstr "Tài khoản Ngân hàng IBAN"
+msgstr "Tài khoản ngân hàng IBAN"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_base_enable_profiling_wizard__id
@@ -18950,7 +18950,7 @@ msgstr "Mã ISO"
 #. module: base
 #: model:ir.model.fields,help:base.field_base_language_import__code
 msgid "ISO Language and Country code, e.g. en_US"
-msgstr "Mã ngôn ngữ và Quốc gia theo ISO, ví dụ: en_US, vi_VN"
+msgstr "Mã ngôn ngữ và quốc gia theo ISO, ví dụ: en_US, vi_VN"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_lang__iso_code
@@ -18977,7 +18977,7 @@ msgstr "Hình tượng"
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_module_module__icon
 msgid "Icon URL"
-msgstr "URL Hình tượng"
+msgstr "URL hình tượng"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_base_partner_merge_line__aggr_ids
@@ -19944,7 +19944,7 @@ msgstr "Invalid xmlid %(xmlid)s for button of type action."
 #: model:ir.module.module,shortdesc:base.module_stock
 #: model_terms:ir.ui.view,arch_db:base.user_groups_view
 msgid "Inventory"
-msgstr "Kho Vận"
+msgstr "Kho vận"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_stock_account
@@ -19984,7 +19984,7 @@ msgstr "Hoá đơn & thanh toán"
 #. module: base
 #: model:ir.module.module,summary:base.module_documents_account
 msgid "Invoices from Documents"
-msgstr "Hoá đơn từ Tài liệu"
+msgstr "Hoá đơn từ tài liệu"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_account
@@ -21681,7 +21681,7 @@ msgstr "Trình đơn"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_form
 msgid "Menus Customization"
-msgstr "Tuỳ biến Trình đơn"
+msgstr "Tuỳ biến trình đơn"
 
 #. module: base
 #: model:ir.actions.act_window,name:base.action_partner_merge
@@ -28530,12 +28530,12 @@ msgstr "Store employee 281.10 and 281.45 forms in the Document app"
 #. module: base
 #: model:ir.module.module,summary:base.module_documents_hr_contract
 msgid "Store employee contracts in the Document app"
-msgstr "Lưu hợp đồng của nhân viên trong phân hệ Tài liệu"
+msgstr "Lưu hợp đồng của nhân viên trong phân hệ tài liệu"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_documents_hr_payroll
 msgid "Store employee payslips in the Document app"
-msgstr "Lưu bảng lương của nhân viên trong phân hệ Tài liệu"
+msgstr "Lưu bảng lương của nhân viên trong phân hệ tài liệu"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_documents_hr_holidays
@@ -29168,7 +29168,7 @@ msgid ""
 " 1,06,500; [1,2,-1] will represent it to be 106,50,0;[3] will represent it "
 "as 106,500. Provided ',' as the thousand separator in each case."
 msgstr ""
-"Định dạng Dấu phân tách phải giống như [, n] trong đó 0 <n: bắt đầu từ chữ "
+"Định dạng dấu phân tách phải giống như [, n] trong đó 0 <n: bắt đầu từ chữ "
 "số đơn vị. -1 sẽ kết thúc sự phân tách. ví dụ. [3,2, -1] sẽ đại diện cho "
 "106500 là 1,06,500; [1,2, -1] sẽ đại diện cho nó là 106,50,0; [3] sẽ đại "
 "diện cho nó là 106,500. Đã cung cấp ',' làm dấu phân cách hàng nghìn trong "
@@ -29183,7 +29183,7 @@ msgid ""
 " 1,06,500;[1,2,-1] will represent it to be 106,50,0;[3] will represent it as"
 " 106,500. Provided as the thousand separator in each case."
 msgstr ""
-"Định dạng Dấu phân tách phải giống như [, n] trong đó 0 <n: bắt đầu từ chữ "
+"Định dạng dấu phân tách phải giống như [, n] trong đó 0 <n: bắt đầu từ chữ "
 "số đơn vị. -1 sẽ kết thúc sự phân tách. ví dụ. [3,2, -1] sẽ đại diện cho "
 "106500 là 1,06,500; [1,2, -1] sẽ đại diện cho nó là 106,50,0; [3] sẽ đại "
 "diện cho nó là 106,500. Được cung cấp dưới dạng dấu phân cách nghìn trong "
@@ -30612,9 +30612,9 @@ msgstr ""
 "- 'Tạo': tạo dữ liệu mới với giá trị mới\n"
 "- 'Cập nhật dữ liệu': cập nhật dữ liệu\n"
 "- 'Thực thi các tác vụ khác': quy định một hành động Kích hoạt các hoạt động khác\n"
-"- 'Gửi Email': tự động gửi email (trong Thảo luận)\n"
-"- 'Thêm người theo dõi': thêm người theo dõi (trong Thảo luận)\n"
-"- 'Tạo hoạt động kế tiếp': tạo hoạt động ( trong Thảo luận)"
+"- 'Gửi Email': tự động gửi email (trong thảo luận)\n"
+"- 'Thêm người theo dõi': thêm người theo dõi (trong thảo luận)\n"
+"- 'Tạo hoạt động kế tiếp': tạo hoạt động ( trong thảo luận)"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_model_constraint__type
@@ -30688,7 +30688,7 @@ msgstr "Liên kết"
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_lang__url_code
 msgid "URL Code"
-msgstr "Mã URL"
+msgstr "URL code"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_us_reports
@@ -30866,7 +30866,7 @@ msgstr "Kế toán Mỹ"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_delivery_usps
 msgid "United States Postal Service (USPS) Shipping"
-msgstr "DV Vận chuyển United States Postal Service (USPS)"
+msgstr "Dịch vụ vận chuyển United States Postal Service (USPS)"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_uom
@@ -31090,7 +31090,7 @@ msgstr "Sử dụng máy quét mã vạch để xử lý các hoạt động log
 #: code:addons/base/models/ir_qweb_fields.py:0
 #, python-format
 msgid "Use comma"
-msgstr "Dùng Dấu phẩy"
+msgstr "Dùng dấu phẩy"
 
 #. module: base
 #: code:addons/base/models/ir_qweb_fields.py:0
@@ -31322,7 +31322,7 @@ msgstr "Người dùng"
 #. module: base
 #: model:ir.ui.menu,name:base.menu_users
 msgid "Users & Companies"
-msgstr "Người dùng & công ty"
+msgstr "Người dùng & Công ty"
 
 #. module: base
 #: model:ir.model,name:base.model_res_users_log
@@ -32123,7 +32123,7 @@ msgstr "Worldline SIPS"
 #: code:addons/base/static/src/js/res_config_settings.js:0
 #, python-format
 msgid "Would you like to save your changes?"
-msgstr ""
+msgstr "Bạn có muốn lưu các thay đổi không?"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_model_access__perm_write
@@ -32134,7 +32134,7 @@ msgstr "Quyền Ghi / Sửa"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_rule_search
 msgid "Write Access Right"
-msgstr "Quyền truy cập ghi / sửa"
+msgstr "Quyền truy cập Ghi / Sửa"
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_model_constraint__write_date
@@ -32224,7 +32224,7 @@ msgstr ""
 #, python-format
 msgid ""
 "You are trying to remove a module that is installed or will be installed."
-msgstr "Bạn đang cố xóa một môdun đã được cài hoặc chuẩn bị cài."
+msgstr "Bạn đang cố xóa một mô-đun đã được cài hoặc chuẩn bị cài."
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_form

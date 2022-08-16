@@ -1,11 +1,11 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* contacts
-# 
+#
 # Translators:
 # Martin Trigaux, 2021
 # Vo Thanh Thuy, 2021
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~14.5\n"
@@ -51,7 +51,7 @@ msgstr "Danh xưng"
 #: model:ir.ui.menu,name:contacts.menu_contacts
 #: model:ir.ui.menu,name:contacts.res_partner_menu_contacts
 msgid "Contacts"
-msgstr "Danh bạ"
+msgstr "Liên hệ"
 
 #. module: contacts
 #: model:ir.ui.menu,name:contacts.menu_country_partner

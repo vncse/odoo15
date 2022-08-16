@@ -2323,7 +2323,7 @@ msgstr "Tài liệu"
 #. module: mail
 #: model:ir.model,name:mail.model_mail_followers
 msgid "Document Followers"
-msgstr "Người theo dõi Tài liệu"
+msgstr "Người theo dõi tài liệu"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_activity__res_model_id
@@ -5109,12 +5109,12 @@ msgstr "Mở"
 #: model_terms:ir.ui.view,arch_db:mail.mail_message_view_form
 #: model_terms:ir.ui.view,arch_db:mail.view_mail_alias_form
 msgid "Open Document"
-msgstr "Mở Tài liệu"
+msgstr "Mở tài liệu"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.view_mail_alias_form
 msgid "Open Parent Document"
-msgstr "Mở Tài liệu Cha"
+msgstr "Mở tài liệu Cha"
 
 #. module: mail
 #. openerp-web
@@ -5135,7 +5135,7 @@ msgstr "Mở hội thảo:"
 #: code:addons/mail/static/src/components/chat_window_header/chat_window_header.xml:0
 #, python-format
 msgid "Open in Discuss"
-msgstr "Mở trong Thảo luận"
+msgstr "Mở trong thảo luận"
 
 #. module: mail
 #. openerp-web
@@ -5852,7 +5852,7 @@ msgstr "ID tài liệu liên quan"
 #: model:ir.model.fields,field_description:mail.field_mail_template__model
 #: model:ir.model.fields,field_description:mail.field_mail_wizard_invite__res_model
 msgid "Related Document Model"
-msgstr "Đối tượng Tài liệu liên quan"
+msgstr "Đối tượng tài liệu liên quan"
 
 #. module: mail
 #: model:ir.model.fields,field_description:mail.field_mail_followers__res_model
@@ -6919,7 +6919,7 @@ msgid ""
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
-"Model (Kiểu Tài liệu Odoo) mà bí danh này ứng với nó. Bất kỳ thông điệp "
+"Model (Kiểu tài liệu Odoo) mà bí danh này ứng với nó. Bất kỳ thông điệp "
 "email mà không đáp lại (reply) một bản ghi có sẵn sẽ làm cho hệ thống tự "
 "động tạo một bản ghi mới cho model này (vd: tạo mới một Nhiệm vụ Dự án nếu "
 "model là project.task)"
@@ -7272,9 +7272,9 @@ msgstr ""
 "- 'Tạo': tạo dữ liệu mới với giá trị mới\n"
 "- 'Cập nhật dữ liệu': cập nhật dữ liệu\n"
 "- 'Thực thi các tác vụ khác': quy định một hành động Kích hoạt các hoạt động khác\n"
-"- 'Gửi Email': tự động gửi email (trong Thảo luận)\n"
-"- 'Thêm người theo dõi': thêm người theo dõi (trong Thảo luận)\n"
-"- 'Tạo hoạt động kế tiếp': tạo hoạt động ( trong Thảo luận)"
+"- 'Gửi Email': tự động gửi email (trong thảo luận)\n"
+"- 'Thêm người theo dõi': thêm người theo dõi (trong thảo luận)\n"
+"- 'Tạo hoạt động kế tiếp': tạo hoạt động ( trong thảo luận)"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_activity_mixin__activity_exception_decoration

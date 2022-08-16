@@ -28,12 +28,12 @@ msgstr "Tài khoản"
 #. module: l10n_multilang
 #: model:ir.model,name:l10n_multilang.model_account_chart_template
 msgid "Account Chart Template"
-msgstr "Mẫu hệ thống Tài khoản"
+msgstr "Mẫu hệ thống tài khoản"
 
 #. module: l10n_multilang
 #: model:ir.model,name:l10n_multilang.model_account_account_tag
 msgid "Account Tag"
-msgstr "Thẻ Tài khoản"
+msgstr "Thẻ tài khoản"
 
 #. module: l10n_multilang
 #: model:ir.model.fields,help:l10n_multilang.field_res_country_state__name

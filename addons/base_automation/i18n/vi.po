@@ -526,9 +526,9 @@ msgstr ""
 "- 'Tạo': tạo dữ liệu mới với giá trị mới\n"
 "- 'Cập nhật dữ liệu': cập nhật dữ liệu\n"
 "- 'Thực thi các tác vụ khác': quy định một hành động Kích hoạt các hoạt động khác\n"
-"- 'Gửi Email': tự động gửi email (trong Thảo luận)\n"
-"- 'Thêm người theo dõi': thêm người theo dõi (trong Thảo luận)\n"
-"- 'Tạo hoạt động kế tiếp': tạo hoạt động ( trong Thảo luận)"
+"- 'Gửi Email': tự động gửi email (trong thảo luận)\n"
+"- 'Thêm người theo dõi': thêm người theo dõi (trong thảo luận)\n"
+"- 'Tạo hoạt động kế tiếp': tạo hoạt động ( trong thảo luận)"
 
 #. module: base_automation
 #: model:ir.model.fields,field_description:base_automation.field_base_automation__usage

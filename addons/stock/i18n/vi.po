@@ -6900,7 +6900,7 @@ msgstr ""
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_picking__show_check_availability
 msgid "Show Check Availability"
-msgstr "Hiển thị Kiểm tra khả dụng"
+msgstr "Hiển thị kiểm tra khả dụng"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_move__show_operations

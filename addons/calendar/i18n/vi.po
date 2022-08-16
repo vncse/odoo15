@@ -1092,7 +1092,7 @@ msgstr "Tài liệu"
 #. module: calendar
 #: model:ir.model.fields,field_description:calendar.field_calendar_event__res_id
 msgid "Document ID"
-msgstr "ID Tài liệu"
+msgstr "ID tài liệu"
 
 #. module: calendar
 #: model:ir.model.fields,field_description:calendar.field_calendar_event__res_model_id

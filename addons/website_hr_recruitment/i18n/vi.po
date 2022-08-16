@@ -167,7 +167,7 @@ msgstr "Công việc quản trị"
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.job_filter_by_countries
 msgid "All Countries"
-msgstr "Tất cả các Quốc gia"
+msgstr "Tất cả các quốc gia"
 
 #. module: website_hr_recruitment
 #: model_terms:ir.ui.view,arch_db:website_hr_recruitment.job_filter_by_departments

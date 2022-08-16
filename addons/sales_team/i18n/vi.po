@@ -762,7 +762,7 @@ msgstr "Đội kinh doanh của người dùng"
 #. module: sales_team
 #: model:res.groups,name:sales_team.group_sale_salesman_all_leads
 msgid "User: All Documents"
-msgstr "Người dùng: Tất cả Tài liệu"
+msgstr "Người dùng: Tất cả tài liệu"
 
 #. module: sales_team
 #: model:res.groups,name:sales_team.group_sale_salesman

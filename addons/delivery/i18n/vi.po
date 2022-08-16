@@ -209,7 +209,7 @@ msgstr "Đã lưu trữ"
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_choose_delivery_carrier__available_carrier_ids
 msgid "Available Carriers"
-msgstr "Nhà Vận chuyển khả dụng"
+msgstr "Nhà vận chuyển khả dụng"
 
 #. module: delivery
 #: model:ir.model.fields.selection,name:delivery.selection__delivery_carrier__delivery_type__base_on_rule
@@ -836,7 +836,7 @@ msgstr ""
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_stock_picking__carrier_price
 msgid "Shipping Cost"
-msgstr "Phí Vận chuyển"
+msgstr "Phí vận chuyển"
 
 #. module: delivery
 #: model_terms:ir.ui.view,arch_db:delivery.view_picking_withcarrier_out_form
@@ -862,7 +862,7 @@ msgstr "Phương thức giao hàng"
 #: model:ir.model.fields,field_description:delivery.field_choose_delivery_package__shipping_weight
 #: model:ir.model.fields,field_description:delivery.field_stock_quant_package__shipping_weight
 msgid "Shipping Weight"
-msgstr "Khối lượng Vận chuyển"
+msgstr "Khối lượng vận chuyển"
 
 #. module: delivery
 #: model:ir.model.fields,help:delivery.field_product_product__hs_code
@@ -1081,12 +1081,12 @@ msgstr "Khối lượng * Thể tích"
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_stock_picking__shipping_weight
 msgid "Weight for Shipping"
-msgstr "Khối lượng Vận chuyển"
+msgstr "Khối lượng vận chuyển"
 
 #. module: delivery
 #: model_terms:ir.ui.view,arch_db:delivery.view_picking_withcarrier_out_form
 msgid "Weight for shipping"
-msgstr "Khối lượng Vận chuyển"
+msgstr "Khối lượng vận chuyển"
 
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_choose_delivery_package__weight_uom_name

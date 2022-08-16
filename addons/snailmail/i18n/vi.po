@@ -255,7 +255,7 @@ msgstr "Tài liệu"
 #. module: snailmail
 #: model:ir.model.fields,field_description:snailmail.field_snailmail_letter__res_id
 msgid "Document ID"
-msgstr "ID Tài liệu"
+msgstr "ID tài liệu"
 
 #. module: snailmail
 #. openerp-web

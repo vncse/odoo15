@@ -2052,7 +2052,7 @@ msgid ""
 "If Number is selected, it will display the number of questions answered on "
 "the total number of question to answer."
 msgstr ""
-"Nếu Số lượng được chọn, số lượng câu hỏi đã được trả lời sẽ được hiển thị "
+"Nếu số lượng được chọn, số lượng câu hỏi đã được trả lời sẽ được hiển thị "
 "trên tổng số câu hỏi cần phải trả lời."
 
 #. module: survey

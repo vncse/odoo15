@@ -40,7 +40,7 @@ msgid ""
 "Free Shipping - Free shipping will be provided as reward (Need delivery module)"
 msgstr ""
 "Chiết khấu - Phần thưởng được cung cấp sẽ là chiết khấu.\n"
-"Sản phẩm miễn phí - sản phẩm miễn phí sẽ được cung cấp là phần thưởng.\n"
+"Sản phẩm miễn phí - Sản phẩm miễn phí sẽ được cung cấp là phần thưởng.\n"
 "Vận chuyển miễn phí - Vận chuyển miễn phí sẽ được cung cấp là phần thưởng (Cần mô-đun giao hàng)"
 
 #. module: sale_coupon_delivery

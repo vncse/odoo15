@@ -320,12 +320,12 @@ msgstr "Tên hiển thị"
 #. module: sms
 #: model:ir.model,name:sms.model_mail_followers
 msgid "Document Followers"
-msgstr "Người theo dõi Tài liệu"
+msgstr "Người theo dõi tài liệu"
 
 #. module: sms
 #: model:ir.model.fields,field_description:sms.field_sms_composer__res_id
 msgid "Document ID"
-msgstr "ID Tài liệu"
+msgstr "ID tài liệu"
 
 #. module: sms
 #: model:ir.model.fields,field_description:sms.field_sms_composer__res_ids
@@ -1260,9 +1260,9 @@ msgstr ""
 "- 'Tạo': tạo dữ liệu mới với giá trị mới\n"
 "- 'Cập nhật dữ liệu': cập nhật dữ liệu\n"
 "- 'Thực thi các tác vụ khác': quy định một hành động Kích hoạt các hoạt động khác\n"
-"- 'Gửi Email': tự động gửi email (trong Thảo luận)\n"
-"- 'Thêm người theo dõi': thêm người theo dõi (trong Thảo luận)\n"
-"- 'Tạo hoạt động kế tiếp': tạo hoạt động ( trong Thảo luận)"
+"- 'Gửi Email': tự động gửi email (trong thảo luận)\n"
+"- 'Thêm người theo dõi': thêm người theo dõi (trong thảo luận)\n"
+"- 'Tạo hoạt động kế tiếp': tạo hoạt động ( trong thảo luận)"
 
 #. module: sms
 #: model:ir.model.fields,help:sms.field_sms_composer__recipient_single_number_itf

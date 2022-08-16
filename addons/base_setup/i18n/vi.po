@@ -110,7 +110,7 @@ msgid ""
 "<span class=\"o_form_label\">Document Layout</span>\n"
 "                                        <span class=\"fa fa-lg fa-building-o\" title=\"Values set here are company-specific.\" aria-label=\"Values set here are company-specific.\" groups=\"base.group_multi_company\" role=\"img\"/>"
 msgstr ""
-"<span class=\"o_form_label\">Bố cục Tài liệu</span>\n"
+"<span class=\"o_form_label\">Bố cục tài liệu</span>\n"
 "                                        <span class=\"fa fa-lg fa-building-o\" title=\"Giá trị thiết lập ở đây mang đặc trưng công ty.\" aria-label=\"Giá trị thiết lập ở đây mang đặc trưng công ty.\" groups=\"base.group_multi_company\" role=\"img\"/>"
 
 #. module: base_setup
@@ -273,7 +273,7 @@ msgstr "Thiết lập cấu hình"
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
 msgid "Configure Document Layout"
-msgstr "Cấu hình Bố cục Tài liệu"
+msgstr "Cấu hình Bố cục tài liệu"
 
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
@@ -340,7 +340,7 @@ msgstr "Công cụ nhà phát triển"
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_res_config_settings__external_report_layout_id
 msgid "Document Template"
-msgstr "Mẫu Tài liệu"
+msgstr "Mẫu tài liệu"
 
 #. module: base_setup
 #: model_terms:ir.ui.view,arch_db:base_setup.res_config_settings_view_form
