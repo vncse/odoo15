@@ -855,7 +855,7 @@ msgstr "Loại tiền của công ty"
 #: code:addons/purchase/models/purchase.py:0
 #, python-format
 msgid "Compose Email"
-msgstr "Soạn Email"
+msgstr "Soạn email"
 
 #. module: purchase
 #: model:ir.model,name:purchase.model_res_config_settings
@@ -2265,7 +2265,7 @@ msgstr "Tỷ lệ tiền tệ của đơn mua hàng và tiền tệ công ty"
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.purchase_order_form
 msgid "Re-Send by Email"
-msgstr "Gửi lại bằng Email"
+msgstr "Gửi lại bằng email"
 
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_purchase_order__date_planned
@@ -2518,7 +2518,7 @@ msgstr "Gửi email nhắc nhở tự động để xác nhận giao hàng"
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.purchase_order_form
 msgid "Send by Email"
-msgstr "Gửi qua Email"
+msgstr "Gửi qua email"
 
 #. module: purchase
 #. openerp-web

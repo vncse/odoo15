@@ -25436,7 +25436,7 @@ msgid ""
 "Please use the change password wizard (in User Preferences or User menu) to "
 "change your own password."
 msgstr ""
-"Vui lòng sử dụng chức năng thay đổi mật khẩu (trong Tùy chọn hoặc quản lý "
+"Vui lòng sử dụng chức năng thay đổi mật khẩu (trong tùy chọn hoặc quản lý "
 "người dùng) để thay đổi mật khẩu của bạn."
 
 #. module: base
@@ -25663,7 +25663,7 @@ msgstr "So sánh sản phẩm"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_product_email_template
 msgid "Product Email Template"
-msgstr "Mẫu Email sản phẩm"
+msgstr "Mẫu email sản phẩm"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_product_images
@@ -30603,7 +30603,7 @@ msgid ""
 "- 'Create': create a new record with new values\n"
 "- 'Update a Record': update the values of a record\n"
 "- 'Execute several actions': define an action that triggers several other server actions\n"
-"- 'Send Email': automatically send an email (Discuss)\n"
+"- 'Send email': automatically send an email (Discuss)\n"
 "- 'Add Followers': add followers to a record (Discuss)\n"
 "- 'Create Next Activity': create an activity (Discuss)"
 msgstr ""
@@ -30612,7 +30612,7 @@ msgstr ""
 "- 'Tạo': tạo dữ liệu mới với giá trị mới\n"
 "- 'Cập nhật dữ liệu': cập nhật dữ liệu\n"
 "- 'Thực thi các tác vụ khác': quy định một hành động Kích hoạt các hoạt động khác\n"
-"- 'Gửi Email': tự động gửi email (trong thảo luận)\n"
+"- 'Gửi email': tự động gửi email (trong thảo luận)\n"
 "- 'Thêm người theo dõi': thêm người theo dõi (trong thảo luận)\n"
 "- 'Tạo hoạt động kế tiếp': tạo hoạt động ( trong thảo luận)"
 

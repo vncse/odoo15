@@ -5241,7 +5241,7 @@ msgstr "Mức độ tin cậy của bạn với đối tác này"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_invoice_send__auto_delete
 msgid "Delete Emails"
-msgstr "Xoá Emails"
+msgstr "Xoá emails"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_invoice_send__auto_delete_message
@@ -5723,19 +5723,19 @@ msgstr "Chỉnh sửa số tiền thuế nếu bạn gặp phải vấn đề l�
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_invoice_send__is_email
 msgid "Email"
-msgstr "Gửi Email"
+msgstr "Gửi email"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_journal__alias_id
 #: model:ir.model.fields,field_description:account.field_account_tour_upload_bill_email_confirm__email_alias
 #: model_terms:ir.ui.view,arch_db:account.view_account_journal_form
 msgid "Email Alias"
-msgstr "Bí danh Email"
+msgstr "Bí danh email"
 
 #. module: account
 #: model:ir.model,name:account.model_mail_thread
 msgid "Email Thread"
-msgstr "Luồng Email"
+msgstr "Luồng email"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_invoice_send__email_from
@@ -5749,7 +5749,7 @@ msgstr ""
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_company__invoice_is_email
 msgid "Email by default"
-msgstr "Mặc định gửi Email"
+msgstr "Mặc định gửi email"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_cashbox__end_bank_stmt_ids
@@ -9650,7 +9650,7 @@ msgid ""
 " This has an impact on the generated message-id."
 msgstr ""
 "Thảo luận gốc: Các câu trả lời có trong chuỗi thảo luận của tài liệu gốc.\n"
-" Địa chỉ Email khác: Các câu trả lời được chuyển đến địa chỉ email được đề cập trong id thư theo dõi thay vì chuỗi thảo luận tài liệu gốc. \n"
+" Địa chỉ email khác: Các câu trả lời được chuyển đến địa chỉ email được đề cập trong id thư theo dõi thay vì chuỗi thảo luận tài liệu gốc. \n"
 " Điều này có ảnh hưởng đến id thông báo đã tạo."
 
 #. module: account

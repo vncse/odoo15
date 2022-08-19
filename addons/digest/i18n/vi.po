@@ -87,7 +87,7 @@ msgstr "Thiết lập cấu hình"
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.res_config_settings_view_form
 msgid "Configure Digest Emails"
-msgstr "Cấu hình Email tổng kết"
+msgstr "Cấu hình email tổng kết"
 
 #. module: digest
 #: code:addons/digest/models/digest.py:0

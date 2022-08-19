@@ -1938,7 +1938,7 @@ msgstr "Email từ"
 #: model:ir.model.fields,field_description:project.field_project_project_stage__mail_template_id
 #: model:ir.model.fields,field_description:project.field_project_task_type__mail_template_id
 msgid "Email Template"
-msgstr "Mẫu Email"
+msgstr "Mẫu email"
 
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_task__email_cc
@@ -2177,7 +2177,7 @@ msgid ""
 msgstr ""
 "Xử lý việc thu thập ý tưởng của bạn trong nhiệm vụ của dự án mới của bạn và "
 "thảo luận chúng trong cuộc trò chuyện về nhiệm vụ. Sử dụng %s và %s để báo "
-"hiệu trạng thái hiện tại của Ý tưởng của bạn là gì. %s"
+"hiệu trạng thái hiện tại của ý tưởng của bạn là gì. %s"
 
 #. module: project
 #. openerp-web
@@ -3842,7 +3842,7 @@ msgstr "Điểm đánh giá trung bình"
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_task_type__rating_template_id
 msgid "Rating Email Template"
-msgstr "Mẫu Email đánh giá"
+msgstr "Mẫu email đánh giá"
 
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_project__rating_status_period

@@ -2637,7 +2637,7 @@ msgstr "Gõ \"/\" để có gợi ý về lệnh"
 #: code:addons/web_editor/static/src/xml/wysiwyg.xml:0
 #, python-format
 msgid "URL or Email"
-msgstr "URL hoặc Email"
+msgstr "URL hoặc email"
 
 #. module: web_editor
 #: model_terms:ir.ui.view,arch_db:web_editor.snippet_options

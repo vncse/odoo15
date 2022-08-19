@@ -1546,7 +1546,7 @@ msgstr "Công ty"
 #: code:addons/event/models/event_registration.py:0
 #, python-format
 msgid "Compose Email"
-msgstr "Soạn Email"
+msgstr "Soạn email"
 
 #. module: event
 #: model:event.tag,name:event.event_tag_category_3_tag_2
@@ -3305,7 +3305,7 @@ msgstr "Gửi"
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_registration_form
 msgid "Send by Email"
-msgstr "Gửi qua Email"
+msgstr "Gửi qua email"
 
 #. module: event
 #: model:ir.model.fields,field_description:event.field_event_mail__mail_done

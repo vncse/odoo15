@@ -495,7 +495,7 @@ msgstr "Thư điện tử"
 #. module: portal
 #: model:ir.model,name:portal.model_mail_thread
 msgid "Email Thread"
-msgstr "Luồng Email"
+msgstr "Luồng email"
 
 #. module: portal
 #. openerp-web

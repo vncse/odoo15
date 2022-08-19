@@ -286,7 +286,7 @@ msgstr "Ok"
 #: code:addons/pos_mercury/static/src/js/PaymentTransactionPopup.js:0
 #, python-format
 msgid "Online Payment"
-msgstr "Thanh toán Online"
+msgstr "Thanh toán online"
 
 #. module: pos_mercury
 #. openerp-web

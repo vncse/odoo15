@@ -1348,7 +1348,7 @@ msgstr "Thư điện tử"
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.hr_job_simple_form
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.hr_job_survey
 msgid "Email Alias"
-msgstr "Bí danh Email"
+msgstr "Bí danh email"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,field_description:hr_recruitment.field_applicant_get_refuse_reason__template_id
@@ -1363,7 +1363,7 @@ msgid ""
 "Email alias for this job position. New emails will automatically create new "
 "applicants for this job position."
 msgstr ""
-"Bí danh Email cho chức vụ này. Các email gửi đến địa chỉ này sẽ tạo các ứng "
+"Bí danh email cho chức vụ này. Các email gửi đến địa chỉ này sẽ tạo các ứng "
 "viên cho chức vụ này."
 
 #. module: hr_recruitment
