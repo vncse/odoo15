@@ -153,7 +153,7 @@ msgstr "Đăng nhập bằng Odoo.com"
 #. module: auth_oauth
 #: model:ir.model.fields,field_description:auth_oauth.field_auth_oauth_provider__body
 msgid "Login button label"
-msgstr ""
+msgstr "Nhãn nút đăng nhập"
 
 #. module: auth_oauth
 #: model:ir.model.fields,field_description:auth_oauth.field_auth_oauth_provider__body
