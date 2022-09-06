@@ -51,7 +51,7 @@ msgid ""
 "right, please contact Human Resource staff"
 msgstr ""
 "<b>Warning! Last check in was over 12 hours ago.</b><br/>Nếu điều này không "
-"đúng, vui lòng liên hệ với nhân viên phòng Nhân sự"
+"đúng, vui lòng liên hệ với nhân viên phòng nhân sự"
 
 #. module: hr_attendance
 #: model_terms:ir.ui.view,arch_db:hr_attendance.view_hr_attendance_kanban
@@ -821,7 +821,7 @@ msgstr "Quét thẻ"
 #. module: hr_attendance
 #: model_terms:ir.ui.view,arch_db:hr_attendance.res_config_settings_view_form
 msgid "Set PIN codes in the employee detail form (in HR Settings tab)."
-msgstr "Thiết lập mã PIN ở form nhân viên (trong tab Thiết lập Nhân lực)."
+msgstr "Thiết lập mã PIN ở form nhân viên (trong tab thiết lập nhân lực)."
 
 #. module: hr_attendance
 #: model:ir.actions.act_window,name:hr_attendance.action_hr_attendance_settings

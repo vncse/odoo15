@@ -117,7 +117,7 @@ msgid ""
 "<b>The Design Fair is preceded by 2 days of Training Sessions for "
 "experts!</b><br> We propose 3 different training sessions, 2 days each."
 msgstr ""
-"<b>Trước Hội chợ thiết kế là 2 ngày tập huấn dành cho chuyên gia!</b><br> "
+"<b>Trước hội chợ thiết kế là 2 ngày tập huấn dành cho chuyên gia!</b><br> "
 "Chúng tôi đề xuất 3 buổi tập huấn khác nhau, mỗi buổi kéo dài 2 ngày."
 
 #. module: event
@@ -3062,7 +3062,7 @@ msgstr "Chương trình"
 #. module: event
 #: model_terms:event.event,description:event.event_2
 msgid "Project management, Human resources, Contract management."
-msgstr "Quản lý dự án, Quản lý Nhân lực, Quản lý Hợp đồng."
+msgstr "Quản lý dự án, Quản lý nhân lực, Quản lý hợp đồng."
 
 #. module: event
 #: model_terms:event.event,description:event.event_2

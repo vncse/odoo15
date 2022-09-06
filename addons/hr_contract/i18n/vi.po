@@ -941,7 +941,7 @@ msgstr "Người dùng"
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__visa_expire
 msgid "Visa Expire Date"
-msgstr "Ngày hết Hạn Visa"
+msgstr "Ngày hết hạn Visa"
 
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__visa_no
@@ -957,7 +957,7 @@ msgstr "Tiền lương"
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__permit_no
 msgid "Work Permit No"
-msgstr "Số Giấy phép Lao động"
+msgstr "Số giấy phép Lao động"
 
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__resource_calendar_id

@@ -1618,7 +1618,7 @@ msgstr "Nhóm mà sẽ nhận một bản sao của báo cáo bên cạnh ngư�
 #. module: gamification
 #: model_terms:ir.ui.view,arch_db:gamification.challenge_search_view
 msgid "HR Challenges"
-msgstr "Các thử thách Nhân sự"
+msgstr "Các thử thách nhân sự"
 
 #. module: gamification
 #: model:ir.model.fields,field_description:gamification.field_gamification_badge__has_message

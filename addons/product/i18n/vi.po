@@ -3195,7 +3195,7 @@ msgstr ""
 msgid ""
 "You cannot assign the Main Pricelist as Other Pricelist in PriceList Item"
 msgstr ""
-"Bạn không thể chỉ định bảng giá chính là bảng giá khác trong Hạng mục bảng "
+"Bạn không thể chỉ định bảng giá chính là bảng giá khác trong hạng mục bảng "
 "giá"
 
 #. module: product

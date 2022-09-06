@@ -2652,7 +2652,7 @@ msgid ""
 msgstr ""
 "\n"
 "Các tính năng nâng cao cho PoS như chế độ xem tốt hơn\n"
-"cho cấu hình Hộp IoT.   \n"
+"cho cấu hình hộp IoT.   \n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_appointment
@@ -14087,7 +14087,7 @@ msgstr "Kết nối máy in nhà bếp với PoS của bạn"
 #. module: base
 #: model:ir.module.module,summary:base.module_hw_drivers
 msgid "Connect the Web Client to Hardware Peripherals"
-msgstr "Kết nối Máy khách Web với Thiết bị ngoại vi Phần cứng"
+msgstr "Kết nối Web Client với thiết bị ngoại vi phần cứng"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.ir_mail_server_form
@@ -18350,7 +18350,7 @@ msgstr "Chấm công nhân sự ngày nghỉ"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_hr_gamification
 msgid "HR Gamification"
-msgstr "Gamification cho Nhân sự"
+msgstr "Gamification cho nhân sự"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_hr_org_chart
@@ -18395,7 +18395,7 @@ msgstr "Hạnh phúc khi là nhà tài trợ"
 #. module: base
 #: model:ir.module.module,summary:base.module_hw_escpos
 msgid "Hardware Driver for ESC/POS Printers and Cashdrawers"
-msgstr "Trình điều khiển Phần cứng cho Máy in ESC/POS và Két tiền"
+msgstr "Trình điều khiển phần cứng cho Máy in ESC/POS và Két tiền"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_hw_drivers
@@ -18779,7 +18779,7 @@ msgstr "Hr Expense Predict product"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_hr_recruitment_survey
 msgid "Hr Recruitment Interview Forms"
-msgstr "Form Phỏng vấn tuyển dụng Nhân sự"
+msgstr "Biểu mẫu phỏng vấn tuyển dụng nhân sự"
 
 #. module: base
 #: code:addons/base/models/ir_qweb_fields.py:0
@@ -20883,7 +20883,7 @@ msgstr "Liên kết giữa voip và crm"
 #. module: base
 #: model:ir.module.module,summary:base.module_pos_hr
 msgid "Link module between Point of Sale and HR"
-msgstr "Liên kết giữa điểm bán hàng và Nhân sự"
+msgstr "Liên kết giữa điểm bán hàng và nhân sự"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_pos_sale
@@ -32450,7 +32450,7 @@ msgid ""
 "created user under the Settings / Users menu."
 msgstr ""
 "Bạn sẽ có thể định nghĩa quyền truy cập bổ sung bằng cách sửa người dùng vừa"
-" tạo trong trình đơn Thiết lập > Người dùng."
+" tạo trong trình đơn thiết lập > Người dùng."
 
 #. module: base
 #: code:addons/base/models/ir_mail_server.py:0

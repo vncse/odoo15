@@ -2993,7 +2993,7 @@ msgstr "Giảm Giá gồm thuế"
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_report_all_channels_sales__price_subtotal
 msgid "Price Subtotal"
-msgstr "Tổng Phụ"
+msgstr "Tổng phụ"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_report_all_channels_sales__pricelist_id

@@ -1349,7 +1349,7 @@ msgstr "Xác nhận? "
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
 msgid "Connect devices to your PoS directly without an IoT Box"
-msgstr "Kết nối thiết bị với PoS của bạn trực tiếp mà không cần Hộp IoT"
+msgstr "Kết nối thiết bị với PoS của bạn trực tiếp mà không cần hộp IoT"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config__other_devices
@@ -1359,7 +1359,7 @@ msgstr "Kết nối thiết bị đến POS mà không cần IoT Box."
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
 msgid "Connect devices using an IoT Box"
-msgstr "Kết nối các thiết bị bằng Hộp IoT"
+msgstr "Kết nối các thiết bị bằng hộp IoT"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.pos_config_view_form
@@ -2410,7 +2410,7 @@ msgstr "Kết nối đến IOT Box thất bại"
 #: code:addons/point_of_sale/static/src/xml/ChromeWidgets/DebugWidget.xml:0
 #, python-format
 msgid "Hardware Events"
-msgstr "Sự kiện Phần cứng"
+msgstr "Sự kiện phần cứng"
 
 #. module: point_of_sale
 #. openerp-web
@@ -3133,7 +3133,7 @@ msgid ""
 "the certificate of your IoT Box."
 msgstr ""
 "Chắc chắn là bạn đã sử dụng IoT Box v18.12 hoặc cao hơn. Điều hướng đến %s "
-"để chấp nhận chứng chỉ của Hộp IoT của bạn."
+"để chấp nhận chứng chỉ của hộp IoT của bạn."
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.res_config_settings_view_form

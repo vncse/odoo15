@@ -788,7 +788,7 @@ msgstr "Mã quốc gia"
 #: model:ir.model.fields,field_description:hr.field_hr_employee__country_of_birth
 #: model:ir.model.fields,field_description:hr.field_res_users__country_of_birth
 msgid "Country of Birth"
-msgstr "Nơi sinh (quốc gia)"
+msgstr "Nơi sinh (Quốc gia)"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_public__create_date
@@ -940,7 +940,7 @@ msgstr "Đồ thuật Nghỉ việc"
 #: model_terms:ir.ui.view,arch_db:hr.res_users_view_form_profile
 #: model_terms:ir.ui.view,arch_db:hr.view_employee_form
 msgid "Dependant"
-msgstr "Người Phụ thuộc"
+msgstr "Người phụ thuộc"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee__child_ids
@@ -1386,7 +1386,7 @@ msgstr "Quản lý nhân sự: kiểm tra tính hợp lệ của giấy phép la
 #: model_terms:ir.ui.view,arch_db:hr.res_users_view_form_profile
 #: model_terms:ir.ui.view,arch_db:hr.view_employee_form
 msgid "HR Settings"
-msgstr "Thiết lập Nhân lực"
+msgstr "Thiết lập nhân lực"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_department__has_message
@@ -1430,7 +1430,7 @@ msgstr "Kiểu hiển thị biểu tượng HR"
 #: model:ir.model.fields,field_description:hr.field_hr_employee_public__hr_presence_state
 #: model:ir.model.fields,field_description:hr.field_res_users__hr_presence_state
 msgid "Hr Presence State"
-msgstr "Trạng thái hiện diện Nhân sự"
+msgstr "Trạng thái hiện diện nhân sự"
 
 #. module: hr
 #: model:ir.ui.menu,name:hr.menu_hr_main
@@ -1713,7 +1713,7 @@ msgstr "Dẫn dắt toàn bộ chu trình kinh doanh"
 #. module: hr
 #: model:ir.model.fields.selection,name:hr.selection__hr_employee__marital__cohabitant
 msgid "Legal Cohabitant"
-msgstr "Hôn nhân Đồng giới hợp pháp"
+msgstr "Hôn nhân đồng giới hợp pháp"
 
 #. module: hr
 #: model_terms:ir.actions.act_window,help:hr.action_hr_job
@@ -2104,7 +2104,7 @@ msgstr "Say mê các sản phẩm phần mềm"
 #: model:ir.model.fields,field_description:hr.field_hr_employee__passport_id
 #: model:ir.model.fields,field_description:hr.field_res_users__passport_id
 msgid "Passport No"
-msgstr "Số Hộ chiếu"
+msgstr "Số hộ chiếu"
 
 #. module: hr
 #: model_terms:ir.ui.view,arch_db:hr.view_employee_form
@@ -2283,7 +2283,7 @@ msgstr "Email cá nhân"
 #: model_terms:ir.ui.view,arch_db:hr.res_users_view_form_profile
 #: model_terms:ir.ui.view,arch_db:hr.view_employee_form
 msgid "Private Information"
-msgstr "Thông tin Riêng tư"
+msgstr "Thông tin riêng tư"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee__phone
@@ -2914,7 +2914,7 @@ msgstr "Giấy phép lao động hợp lệ tại Bỉ"
 #: model:ir.model.fields,field_description:hr.field_hr_employee__visa_expire
 #: model:ir.model.fields,field_description:hr.field_res_users__visa_expire
 msgid "Visa Expire Date"
-msgstr "Ngày hết Hạn Visa"
+msgstr "Ngày hết hạn Visa"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee__visa_no
@@ -3049,7 +3049,7 @@ msgstr "Ngày hết hạn giấy phép LĐ"
 #: model:ir.model.fields,field_description:hr.field_hr_employee__permit_no
 #: model:ir.model.fields,field_description:hr.field_res_users__permit_no
 msgid "Work Permit No"
-msgstr "Số Giấy phép LĐ"
+msgstr "Số giấy phép LĐ"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee__work_permit_scheduled_activity

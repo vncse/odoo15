@@ -3202,18 +3202,18 @@ msgstr "Mục tiêu hiệu quả tổng thể theo tỷ lệ phần trăm"
 #: model:ir.actions.act_window,name:mrp.mrp_workcenter_productivity_report_oee
 #: model:ir.ui.menu,name:mrp.menu_mrp_workcenter_productivity_report
 msgid "Overall Equipment Effectiveness"
-msgstr "Hiệu suất Thiết bị Toàn phần"
+msgstr "Hiệu suất thiết bị Toàn phần"
 
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_workcenter__oee
 msgid "Overall Equipment Effectiveness, based on the last month"
-msgstr "Hiệu suất Thiết bị Toàn phần, dựa trên tháng trước"
+msgstr "Hiệu suất thiết bị Toàn phần, dựa trên tháng trước"
 
 #. module: mrp
 #: model_terms:ir.actions.act_window,help:mrp.mrp_workcenter_productivity_report
 #: model_terms:ir.actions.act_window,help:mrp.mrp_workcenter_productivity_report_oee
 msgid "Overall Equipment Effectiveness: no working or blocked time"
-msgstr "Hiệu suất Thiết bị Toàn phần: không có việc hoặc thời gian bị khóa"
+msgstr "Hiệu suất thiết bị Toàn phần: không có việc hoặc thời gian bị khóa"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_routing_workcenter__worksheet
@@ -4153,7 +4153,7 @@ msgid ""
 "order in order to retrieve the correct byproducts."
 msgstr ""
 "Một số phụ phẩm của bạn được cấu hình ở chế độ theo vết, bạn phải xác định "
-"một lệnh sản xuất để nhận diện đúng Phụ phẩm."
+"một lệnh sản xuất để nhận diện đúng phụ phẩm."
 
 #. module: mrp
 #: code:addons/mrp/models/mrp_unbuild.py:0

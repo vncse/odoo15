@@ -77,7 +77,7 @@ msgid ""
 "An administrator needs to configure Google Synchronization before you can "
 "use it!"
 msgstr ""
-"Người quản trị hệ thống của bạn cần phải cấu hình Đồng bộ Google trước khi "
+"Người quản trị hệ thống của bạn cần phải cấu hình đồng bộ Google trước khi "
 "bạn có thể sử dụng nó!"
 
 #. module: google_calendar

@@ -4362,7 +4362,7 @@ msgstr "Kể từ"
 #: code:addons/project/static/src/js/project_task_kanban_examples.js:0
 #, python-format
 msgid "Software Development"
-msgstr "Phát triển Phần mềm"
+msgstr "Phát triển phần mềm"
 
 #. module: project
 #: code:addons/project/models/project.py:0

@@ -1069,7 +1069,7 @@ msgstr ""
 "- Theo nhân viên: cho một nhân viên cụ thể\n"
 "- Theo Công ty: toàn bộ nhân viên của mọt công ty cụ thể\n"
 "- Theo Phòng / Ban: toàn bộ nhân viên của một phòng ban cụ thể\n"
-"- Theo thẻ Nhân viên: toàn bộ nhân viên có gắn thẻ phân loại được chọn"
+"- Theo thẻ nhân viên: toàn bộ nhân viên có gắn thẻ phân loại được chọn"
 
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.report_holidayssummary
@@ -1264,7 +1264,7 @@ msgstr "Theo nhân viên"
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_allocation__holiday_type__category
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_report__holiday_type__category
 msgid "By Employee Tag"
-msgstr "Theo Tag Nhân viên"
+msgstr "Theo Tag nhân viên"
 
 #. module: hr_holidays
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_type__leave_validation_type__manager
@@ -1282,8 +1282,8 @@ msgid ""
 "By Employee: Allocation/Request for individual Employee, By Employee Tag: "
 "Allocation/Request for group of employees in category"
 msgstr ""
-"Theo nhân viên: cấp phát / yêu cầu cho một Nhân viên, theo nhóm nhân viên "
-"(tags): cấp phát / yêu cầu các Nhân viên có cùng nhóm (tags)"
+"Theo nhân viên: cấp phát / yêu cầu cho một nhân viên, theo nhóm nhân viên "
+"(tags): cấp phát / yêu cầu các nhân viên có cùng nhóm (tags)"
 
 #. module: hr_holidays
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_type__leave_validation_type__hr

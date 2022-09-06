@@ -345,7 +345,7 @@ msgid ""
 "first.</i></p>"
 msgstr ""
 "<p><b>Chat với đồng nghiệp</b> theo thời gian thực sử dụng thông điệp trực "
-"tiếp.</p><p><i>Bạn có thể cần phải mời người dùng từ ứng dụng Thiết lập "
+"tiếp.</p><p><i>Bạn có thể cần phải mời người dùng từ ứng dụng thiết lập "
 "trước để họ có tài khoản người dùng trong Odoo.</i></p>"
 
 #. module: mail
@@ -5447,7 +5447,7 @@ msgid ""
 msgstr ""
 "Chính sách cho cách thức xử lý các thông báo Chatter:\n"
 "- Xử lý bằng email: các thông báo được gửi đến địa chỉ email của bạn\n"
-"- Xử lý trong hệ thống: các thông báo xuất hiện trong Hộp thư đến trong hệ thống"
+"- Xử lý trong hệ thống: các thông báo xuất hiện trong hộp thư đến trong hệ thống"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias__alias_contact

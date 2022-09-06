@@ -1684,13 +1684,13 @@ msgstr "Địa điểm Đối ứng"
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.view_backorder_confirmation
 msgid "Create Backorder"
-msgstr "Tạo Phần dở dang"
+msgstr "Tạo phần dở dang"
 
 #. module: stock
 #: code:addons/stock/models/stock_picking.py:0
 #, python-format
 msgid "Create Backorder?"
-msgstr "Tạo Phần dở dang?"
+msgstr "Tạo phần dở dang?"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_move_line__picking_type_use_create_lots
@@ -4192,7 +4192,7 @@ msgstr ""
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.res_config_settings_view_form
 msgid "Manage product packagings (e.g. pack of 6 bottles, box of 10 pieces)"
-msgstr "Quản lý cách thức đóng gói (vd: Thùng 6 Chái, Hộp 10 Chiếc, v.v.)"
+msgstr "Quản lý cách thức đóng gói (vd: Thùng 6 chai, Hộp 10 chiếc, v.v.)"
 
 #. module: stock
 #: model:ir.model.fields.selection,name:stock.selection__stock_warehouse_orderpoint__trigger__manual

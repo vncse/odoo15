@@ -1457,7 +1457,7 @@ msgstr "Tiêu đề biểu đồ"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_text_image
 msgid "A Section Subtitle"
-msgstr "Một Phụ đề"
+msgstr "Một phụ đề"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_card
@@ -4192,7 +4192,7 @@ msgstr "Chỉnh sửa video"
 #. module: website
 #: model:res.groups,name:website.group_website_designer
 msgid "Editor and Designer"
-msgstr "Biên tập và Thiết kế"
+msgstr "Biên tập và thiết kế"
 
 #. module: website
 #: code:addons/website/models/website_snippet_filter.py:0
@@ -6292,7 +6292,7 @@ msgstr "Giới hạn"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_comparisons
 msgid "Limited customization"
-msgstr "Tuỳ biến Hạn chế"
+msgstr "Tuỳ biến hạn chế"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_chart_options
@@ -8151,7 +8151,7 @@ msgstr "Hạn chế phát hành cho website này"
 #. module: website
 #: model:res.groups,name:website.group_website_publisher
 msgid "Restricted Editor"
-msgstr "Biên tập Hạn chế"
+msgstr "Biên tập hạn chế"
 
 #. module: website
 #: model:ir.model.fields.selection,name:website.selection__ir_ui_view__visibility__restricted_group

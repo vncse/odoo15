@@ -1309,7 +1309,7 @@ msgid ""
 "(or switch twice the mode if you are already in the desired one)."
 msgstr ""
 "Một người dùng không thể có cả hai thuế B2B và thuế B2C.\n"
-"Bạn nên vào Thiết lập chung, và chọn hiển thị Giá sản phẩm\n"
+"Bạn nên vào thiết lập chung, và chọn hiển thị Giá sản phẩm\n"
 "ở chế độ 'Đã bao gồm thuế' hoặc trong chế độ 'Chưa bao gồm thuế'\n"
 "(hoặc chuyển qua lại hai chế độ nếu bạn đã ở chế độ mong muốn)."
 
@@ -5054,7 +5054,7 @@ msgstr "Phân cách thập phân"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_journal__refund_sequence
 msgid "Dedicated Credit Note Sequence"
-msgstr "Trình tự hoá đơn điều chỉnh giảm Riêng biệt"
+msgstr "Trình tự hoá đơn điều chỉnh giảm riêng biệt"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_journal__default_account_id
@@ -10959,7 +10959,7 @@ msgstr "Mô hình đối soát"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_full_reconcile__partial_reconcile_ids
 msgid "Reconciliation Parts"
-msgstr "Các Phần đối soát"
+msgstr "Các phần đối soát"
 
 #. module: account
 #: code:addons/account/models/account_tax.py:0

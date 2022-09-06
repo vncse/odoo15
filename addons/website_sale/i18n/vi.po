@@ -690,7 +690,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_sale.field_product_product__accessory_product_ids
 #: model:ir.model.fields,field_description:website_sale.field_product_template__accessory_product_ids
 msgid "Accessory Products"
-msgstr "Sản phẩm Phụ kiện"
+msgstr "Sản phẩm phụ kiện"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_website_sale_payment_acquirer_onboarding_wizard__acc_number

@@ -1200,7 +1200,7 @@ msgid ""
 "settings"
 msgstr ""
 "Xác định một địa chỉ liên hệ cụ thể cho chức vụ này. Nếu để trống, địa chỉ "
-"email mặc định trong thiết lập Nhân sự sẽ được sử dụng"
+"email mặc định trong thiết lập nhân sự sẽ được sử dụng"
 
 #. module: hr_recruitment
 #: model_terms:ir.actions.act_window,help:hr_recruitment.hr_job_stage_act

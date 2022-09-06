@@ -370,7 +370,7 @@ msgid ""
 "Something went wrong with Check Layout, please select another layout in "
 "Invoicing/Accounting Settings and try again."
 msgstr ""
-"Có gì đó sai sai với Bố cục Séc. Vui lòng chọn một bố cục khác ở menu Thiết "
+"Có gì đó sai sai với Bố cục Séc. Vui lòng chọn một bố cục khác ở menu thiết "
 "lập của ứng dụng Hóa đơn / Kế toán tài chính và thử lại."
 
 #. module: account_check_printing
