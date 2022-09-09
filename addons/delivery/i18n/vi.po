@@ -58,7 +58,7 @@ msgstr "(được tính toán:"
 #. module: delivery
 #: model_terms:ir.ui.view,arch_db:delivery.choose_delivery_carrier_view_form
 msgid "<i class=\"fa fa-arrow-right mr-1\"/>Get rate"
-msgstr "<i class=\"fa fa-arrow-right mr-1\"/>Tính Phí"
+msgstr "<i class=\"fa fa-arrow-right mr-1\"/>Tính phí"
 
 #. module: delivery
 #: code:addons/delivery/models/delivery_carrier.py:0

@@ -261,7 +261,7 @@ msgstr "Tên hợp đồng"
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__name
 #: model_terms:ir.ui.view,arch_db:hr_contract.hr_contract_view_form
 msgid "Contract Reference"
-msgstr "Tham chiếu Hợp đồng"
+msgstr "Tham chiếu hợp đồng"
 
 #. module: hr_contract
 #: model_terms:ir.ui.view,arch_db:hr_contract.hr_contract_view_form
@@ -275,7 +275,7 @@ msgstr "Ngày bắt đầu hợp đồng"
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract_history__contract_type_id
 #: model:ir.model.fields,field_description:hr_contract.field_hr_payroll_structure_type__name
 msgid "Contract Type"
-msgstr "Kiểu Hợp đồng"
+msgstr "Kiểu hợp đồng"
 
 #. module: hr_contract
 #: model:ir.model.fields,field_description:hr_contract.field_hr_contract__contract_wage
@@ -439,7 +439,7 @@ msgstr "Menu sổ xuống"
 #. module: hr_contract
 #: model_terms:ir.ui.view,arch_db:hr_contract.hr_contract_view_kanban
 msgid "Edit Contract"
-msgstr "Sửa Hợp đồng"
+msgstr "Sửa hợp đồng"
 
 #. module: hr_contract
 #: model_terms:ir.ui.view,arch_db:hr_contract.hr_contract_view_search

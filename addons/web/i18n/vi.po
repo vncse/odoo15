@@ -378,7 +378,7 @@ msgstr "<strong>Tổng tiền</strong>"
 #: code:addons/web/static/src/search/favorite_menu/custom_favorite_item.js:0
 #, python-format
 msgid "A filter with same name already exists."
-msgstr "Một bộ lọc cùng tên đã tồn tại rồi."
+msgstr "Một bộ lọc cùng tên đã tồn tại."
 
 #. module: web
 #. openerp-web
@@ -1268,8 +1268,8 @@ msgstr "sao chép"
 #. openerp-web
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #, python-format
-msgid "Copy the full error to clipboard"
-msgstr "Sao chép đầy đủ báo cáo lỗi vào clipboard"
+msgid "Copy the full error tc clipboard"
+msgstr "Sao chép đầy đủ báo cáo lỗi vàc clipboard"
 
 #. module: web
 #. openerp-web
@@ -1278,7 +1278,7 @@ msgstr "Sao chép đầy đủ báo cáo lỗi vào clipboard"
 #: code:addons/web/static/src/legacy/js/fields/basic_fields.js:0
 #, python-format
 msgid "Copy to Clipboard"
-msgstr "Sao chép vào Clipboard"
+msgstr "Sao chép vào clipboard"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.frontend_layout
@@ -4188,7 +4188,7 @@ msgstr "Tag"
 #: code:addons/web/static/src/core/ui/block_ui.js:0
 #, python-format
 msgid "Take a minute to get a coffee,"
-msgstr ""
+msgstr "Hãy thư giãn với một cốc cà phê,"
 
 #. module: web
 #. openerp-web
@@ -4930,7 +4930,7 @@ msgstr "Bạn không thể để trống mật khẩu."
 #: code:addons/web/static/src/core/ui/block_ui.js:0
 #, python-format
 msgid "You may not believe it,"
-msgstr ""
+msgstr "Bạn có thể không tin,"
 
 #. module: web
 #. openerp-web
@@ -5080,7 +5080,7 @@ msgstr "lúc:"
 #: code:addons/web/static/src/core/ui/block_ui.js:0
 #, python-format
 msgid "because it's loading..."
-msgstr ""
+msgstr "bởi vì ứng dụng vẫn đang nạp ..."
 
 #. module: web
 #. openerp-web

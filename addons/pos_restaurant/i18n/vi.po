@@ -41,8 +41,8 @@ msgid ""
 "<span class=\"fa fa-lg fa-cutlery\" title=\"For bars and restaurants\" "
 "role=\"img\" aria-label=\"For bars and restaurants\"/>"
 msgstr ""
-"<span class=\"fa fa-lg fa-cutlery\" title=\"Cho nhà hàng và Quán bar\" "
-"role=\"img\" aria-label=\"Cho nhà hàng và Quán bar\"/>"
+"<span class=\"fa fa-lg fa-cutlery\" title=\"Cho nhà hàng và quán bar\" "
+"role=\"img\" aria-label=\"Cho nhà hàng và quán bar\"/>"
 
 #. module: pos_restaurant
 #: model_terms:ir.ui.view,arch_db:pos_restaurant.view_restaurant_floor_kanban
@@ -500,7 +500,7 @@ msgstr "Chiều cao"
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_restaurant_table__position_h
 msgid "Horizontal Position"
-msgstr "Vị trí theo Phương ngang"
+msgstr "Vị trí theo phương ngang"
 
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_restaurant_floor__id
@@ -1328,7 +1328,7 @@ msgstr "Đồ chay"
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_restaurant_table__position_v
 msgid "Vertical Position"
-msgstr "Ví trị theo Phương dọc"
+msgstr "Ví trị theo phương dọc"
 
 #. module: pos_restaurant
 #: model:product.product,name:pos_restaurant.water

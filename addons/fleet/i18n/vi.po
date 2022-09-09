@@ -479,7 +479,7 @@ msgstr "Số lượng hợp đồng"
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle_log_contract__expiration_date
 msgid "Contract Expiration Date"
-msgstr "Ngày hết hạn Hợp đồng"
+msgstr "Ngày hết hạn hợp đồng"
 
 #. module: fleet
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_log_contract_view_form
@@ -495,7 +495,7 @@ msgstr "Ngày bắt đầu hợp đồng"
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_log_contract_view_form
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_log_contract_view_tree
 msgid "Contract logs"
-msgstr "Nhật ký Hợp đồng"
+msgstr "Nhật ký hợp đồng"
 
 #. module: fleet
 #: model:mail.activity.type,name:fleet.mail_act_fleet_contract_to_renew
@@ -1048,7 +1048,7 @@ msgstr "Nhóm theo"
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle__contract_renewal_overdue
 msgid "Has Contracts Overdue"
-msgstr "Có Hợp đồng Quá hạn"
+msgstr "Có hợp đồng quá hạn"
 
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle__contract_renewal_due_soon
@@ -1787,7 +1787,7 @@ msgstr "Phí định kỳ"
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle_log_contract__cost_frequency
 msgid "Recurring Cost Frequency"
-msgstr "Tần suất Phí thường xuyên"
+msgstr "Tần suất phí thường xuyên"
 
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle_log_contract__ins_ref

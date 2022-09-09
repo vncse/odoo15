@@ -265,7 +265,7 @@ msgstr "Có hiệu lực"
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_acquirer__fees_active
 msgid "Add Extra Fees"
-msgstr "Thêm Phí bổ sung"
+msgstr "Thêm phí bổ sung"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_transaction__partner_address
