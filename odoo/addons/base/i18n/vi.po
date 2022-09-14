@@ -16911,7 +16911,7 @@ msgstr "Mở rộng"
 #: model:ir.module.category,name:base.module_category_usability
 #: model_terms:ir.ui.view,arch_db:base.user_groups_view
 msgid "Extra Rights"
-msgstr "Quyền Bổ sung"
+msgstr "Quyền bổ sung"
 
 #. module: base
 #: model:ir.module.category,name:base.module_category_extra_tools

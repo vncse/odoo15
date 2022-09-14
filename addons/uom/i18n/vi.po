@@ -188,7 +188,7 @@ msgstr "Chiều dài / Khoảng cách"
 #. module: uom
 #: model:res.groups,name:uom.group_uom
 msgid "Manage Multiple Units of Measure"
-msgstr "Quản lý Đa đơn vị tính"
+msgstr "Quản lý đa đơn vị tính"
 
 #. module: uom
 #: model:ir.model,name:uom.model_uom_uom

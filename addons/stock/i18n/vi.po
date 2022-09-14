@@ -810,13 +810,13 @@ msgstr ""
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.view_picking_form
 msgid "Additional Info"
-msgstr "Thông tin Bổ sung"
+msgstr "Thông tin bổ sung"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_location__comment
 #: model_terms:ir.ui.view,arch_db:stock.view_location_form
 msgid "Additional Information"
-msgstr "Thông tin Bổ sung"
+msgstr "Thông tin bổ sung"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_warehouse__partner_id
@@ -1834,7 +1834,7 @@ msgstr "Thời điểm tạo"
 msgid ""
 "Creating a new warehouse will automatically activate the Storage Locations "
 "setting"
-msgstr "Tạo mới một kho sẽ đồng thời kích hoạt tính năng Đa địa điểm."
+msgstr "Tạo mới một kho sẽ đồng thời kích hoạt tính năng đa địa điểm."
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_picking__date
@@ -4167,12 +4167,12 @@ msgstr "Quản lý Số lô / Sê-ri"
 #. module: stock
 #: model:res.groups,name:stock.group_stock_multi_locations
 msgid "Manage Multiple Stock Locations"
-msgstr "Quản lý Đa địa điểm kho"
+msgstr "Quản lý đa địa điểm kho"
 
 #. module: stock
 #: model:res.groups,name:stock.group_stock_multi_warehouses
 msgid "Manage Multiple Warehouses"
-msgstr "Quản lý Đa nhà kho"
+msgstr "Quản lý đa nhà kho"
 
 #. module: stock
 #: model:res.groups,name:stock.group_tracking_lot
