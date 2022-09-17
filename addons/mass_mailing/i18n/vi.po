@@ -1791,7 +1791,7 @@ msgstr "Bộ tạo Placeholder động"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_coupon_code
 msgid "ENDOFSUMMER20"
-msgstr ENDOFSUMMER20""
+msgstr "ENDOFSUMMER20"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_features_grid
@@ -2641,7 +2641,10 @@ msgid ""
 "Mass Mailing Statistics allows you to check different mailing related information\n"
 "    like number of bounced mails, opened mails, replied mails. You can sort out\n"
 "    your analysis by different groups to get accurate grained analysis."
-msgstr ""
+msgstr "Phân tích gửi thư hàng loạt cho phép bạn kiểm tra các thông tin liên quan"
+"đến gửi thư khác nhau như số lượng thư bị trả lại, thư đã mở, thư đã trả lời."
+"Bạn có thể sắp xếp phân tích của mình theo các nhóm khác nhau để có được phân"
+"tích chi tiết chính xác."
 
 #. module: mass_mailing
 #: model:ir.model,name:mass_mailing.model_mailing_contact_subscription
